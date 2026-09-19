@@ -4530,3 +4530,8 @@ unpacks the archive, applies krew's file mapping, and installs the plugin binary
 
 A nightly GitHub Action bumps the submodule, runs `nix run .#update`, and commits
 the diff.
+
+## License
+
+[MIT](LICENSE) — this packaging only. Each plugin is distributed under its own
+license by its own authors; krew-index is Apache-2.0.
