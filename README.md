@@ -4535,3 +4535,7 @@ the diff.
 
 [MIT](LICENSE) — this packaging only. Each plugin is distributed under its own
 license by its own authors; krew-index is Apache-2.0.
+
+---
+
+Repo structure inspired by [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix).
