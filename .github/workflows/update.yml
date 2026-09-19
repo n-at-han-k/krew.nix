@@ -13,12 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          submodules: true
       - uses: cachix/install-nix-action@v31
+      - name: bump krew-index
+        run: git submodule update --remote krew-index
       - run: nix run .#update
       - name: commit
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git diff --quiet plugins.json && exit 0
-          git commit -m "plugins.json: sync with krew-index" plugins.json
+          git add krew-index plugins.json README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "krew-index: nightly sync"
           git push

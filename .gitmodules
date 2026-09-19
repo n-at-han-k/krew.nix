@@ -1,0 +1,3 @@
+[submodule "krew-index"]
+	path = krew-index
+	url = https://github.com/kubernetes-sigs/krew-index.git

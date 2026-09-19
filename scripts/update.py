@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
-"""Regenerate plugins.json from the krew-index manifests."""
+"""Regenerate plugins.json and the README plugin list from the krew-index submodule."""
 
 import json
 import pathlib
-import subprocess
+import re
 import sys
-import tempfile
 
 import yaml
 
-INDEX = "https://github.com/kubernetes-sigs/krew-index.git"
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+FLAKE = "github:n-at-han-k/krew.nix"
+BEGIN, END = "<!-- BEGIN GENERATED PLUGIN LIST -->", "<!-- END GENERATED PLUGIN LIST -->"
 
 # krew selector labels -> nix system doubles
 SYSTEMS = {
@@ -53,22 +54,50 @@ def plugin(path):
     return {
         "version": str(spec["version"]),
         "homepage": spec.get("homepage", ""),
-        "description": (spec.get("shortDescription") or "").strip(),
+        "description": " ".join((spec.get("shortDescription") or "").split()),
         "systems": systems,
     }
 
 
+def readme(plugins):
+    out = [BEGIN, "", f"{len(plugins)} plugins.", ""]
+    for name, p in plugins.items():
+        command = "kubectl-" + name.replace("-", "_")
+        out += [
+            "<details>",
+            f"<summary><strong>{name}</strong> — {p['description']}</summary>",
+            "",
+            f"- **Version**: {p['version']}",
+            f"- **Homepage**: {p['homepage']}",
+            f"- **Platforms**: {', '.join(sorted(p['systems']))}",
+            f"- **Run**: `nix run {FLAKE}#{name}`",
+            f"- **Install**: `nix profile install {FLAKE}#{name}`, then `kubectl {name}`",
+            f"- **Binary**: `{command}`",
+            "",
+            "</details>",
+        ]
+    out += ["", END]
+    return "\n".join(out)
+
+
 def main():
-    out = pathlib.Path(__file__).resolve().parent.parent / "plugins.json"
-    with tempfile.TemporaryDirectory() as tmp:
-        subprocess.run(["git", "clone", "--depth", "1", INDEX, tmp], check=True)
-        plugins = {}
-        for path in sorted((pathlib.Path(tmp) / "plugins").glob("*.yaml")):
-            entry = plugin(path)
-            if entry:
-                plugins[path.stem] = entry
-    out.write_text(json.dumps(plugins, indent=2, sort_keys=True) + "\n")
-    print(f"{len(plugins)} plugins -> {out}", file=sys.stderr)
+    manifests = sorted((ROOT / "krew-index" / "plugins").glob("*.yaml"))
+    if not manifests:
+        sys.exit("krew-index submodule is empty: git submodule update --init")
+
+    plugins = {}
+    for path in manifests:
+        entry = plugin(path)
+        if entry:
+            plugins[path.stem] = entry
+
+    (ROOT / "plugins.json").write_text(json.dumps(plugins, indent=2, sort_keys=True) + "\n")
+
+    path = ROOT / "README.md"
+    path.write_text(
+        re.sub(re.escape(BEGIN) + ".*" + re.escape(END), readme(plugins), path.read_text(), flags=re.S)
+    )
+    print(f"{len(plugins)} plugins", file=sys.stderr)
 
 
 if __name__ == "__main__":
