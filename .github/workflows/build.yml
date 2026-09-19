@@ -1,0 +1,15 @@
+name: build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: cachix/install-nix-action@v31
+      - run: nix flake check
+      # A sample, not all 406 — enough to catch a broken file mapping.
+      - run: nix build --no-link --keep-going .#assert .#popeye .#rbac-tool .#passman .#warp .#tree .#ctx .#ns
