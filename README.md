@@ -230,7 +230,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.29
+- **Version**: v0.1.30
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
