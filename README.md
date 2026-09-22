@@ -1682,7 +1682,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.5.2
+- **Version**: v0.6.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -3255,7 +3255,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>ray</strong> — Ray kubectl plugin</summary>
 
-- **Version**: v1.7.0
+- **Version**: v1.7.1
 - **Homepage**: https://github.com/ray-project/kuberay/tree/master/kubectl-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ray`
