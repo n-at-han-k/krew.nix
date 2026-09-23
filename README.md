@@ -230,7 +230,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.30
+- **Version**: v0.1.31
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
@@ -2177,7 +2177,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>kubesplaining</strong> — Scan for security risks and RBAC escalation paths</summary>
 
-- **Version**: v1.2.0
+- **Version**: v1.3.0
 - **Homepage**: https://github.com/0hardik1/kubesplaining
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubesplaining`
@@ -4300,7 +4300,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>walk</strong> — Explore Kubernetes YAML like a human — not like a machine</summary>
 
-- **Version**: v1.2.3
+- **Version**: v1.2.4
 - **Homepage**: https://github.com/HarshPanchal18/kubectl-walk
 - **Platforms**: aarch64-darwin, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#walk`

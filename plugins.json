@@ -808,29 +808,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "965463c9e532a888e185b877c4291510f409b5b348ef10d54b6e47c227330c05",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.30/kubectl-attune_darwin_arm64.tar.gz"
+        "sha256": "b23ccc3d1b7527bbac4859df796f634e2de1d5849a3dd573c4e5b8683a51604e",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "4d3bd5d311debffcebd2bebba2e45de49c6ffd5e2c2c22c2576bbdc532eb07cc",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.30/kubectl-attune_linux_arm64.tar.gz"
+        "sha256": "1cf40d580fe2b0b502942975794d30ce0f7d4ce26681ff27b1a492870f0fe76a",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "ce9e5119df0ee60939fed772f052754d1f79e687aa2b9f1b33775c1524dfbd15",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.30/kubectl-attune_darwin_amd64.tar.gz"
+        "sha256": "b9ce07c4b252833b6df4cf5401accbda3ef4bb72a4afb029e260e3a17d67006e",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "f5387a48f2346364e799fb3be371bec97acb82425a5f6197cdb814eba5c6bd85",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.30/kubectl-attune_linux_amd64.tar.gz"
+        "sha256": "d02a5ebd88928f1ab0062ca7a00d1caf5888a1394f849dd117b4d6b59b905ed0",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.1.30"
+    "version": "v0.1.31"
   },
   "auth-proxy": {
     "description": "Authentication proxy to a pod or service",
@@ -8429,8 +8429,8 @@
             "to": "."
           }
         ],
-        "sha256": "27b1a495ac3ab8d1c175bf5b4c841c4de581c958f115ef28109f6557e00200f4",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.2.0/kubesplaining_1.2.0_Darwin_arm64.tar.gz"
+        "sha256": "a092ec29577c69519bec308a352e952462da5e430c3d84f9d7e24cd6a74907be",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubesplaining",
@@ -8444,8 +8444,8 @@
             "to": "."
           }
         ],
-        "sha256": "0d51cdb825155b05583bc8cd2b1c0a405a9fe5314b2434f2ebb77f4835a7254a",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.2.0/kubesplaining_1.2.0_Linux_arm64.tar.gz"
+        "sha256": "b57bb799ac1d449c251c5ce0ac32eb644fd7c345d4dc5e27c7e509bcb4435749",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubesplaining",
@@ -8459,8 +8459,8 @@
             "to": "."
           }
         ],
-        "sha256": "c1dc4121507e46cc37981303150588e263c4fcc7e93851d6a6d0e46db2b489d2",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.2.0/kubesplaining_1.2.0_Darwin_x86_64.tar.gz"
+        "sha256": "cbe907262a6937c2ce8445cfcdba091c7781dfb845d4d83536b64f405228d04b",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubesplaining",
@@ -8474,11 +8474,11 @@
             "to": "."
           }
         ],
-        "sha256": "b546168bb95936886d4be329f650cc5d9a4c2bb31333d7e3060cfc32299eba59",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.2.0/kubesplaining_1.2.0_Linux_x86_64.tar.gz"
+        "sha256": "2c21817fa914f976c717d9140630ca568afcba3629b3d0eac2522378c9e75490",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Linux_x86_64.tar.gz"
       }
     },
-    "version": "v1.2.0"
+    "version": "v1.3.0"
   },
   "kubetail": {
     "description": "Logging tool for Kubernetes with real-time web dashboard",
@@ -16899,23 +16899,23 @@
       "aarch64-darwin": {
         "bin": "kubectl-walk",
         "files": null,
-        "sha256": "2a940ac4cddf9f7aa32f72dd06c8d0c98af5b1f40e87aa9ca2db45e2e84efd57",
-        "url": "https://github.com/HarshPanchal18/kubectl-walk/releases/download/v1.2.3/kubectl-walk-v1.2.3-darwin-arm64.tar.gz"
+        "sha256": "166b7f729140fbcd641d2b2726b3cfb800bd83ea3153e3e00ef984407d826e98",
+        "url": "https://github.com/HarshPanchal18/kubectl-walk/releases/download/v1.2.4/kubectl-walk-v1.2.4-darwin-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-walk",
         "files": null,
-        "sha256": "dd9c38e9d049682fde280ea6ac7c7724ee2409eb0f8d3b7d863cad246dfb5aa4",
-        "url": "https://github.com/HarshPanchal18/kubectl-walk/releases/download/v1.2.3/kubectl-walk-v1.2.3-darwin-amd64.tar.gz"
+        "sha256": "d36588458d34b77c0ce41eeb154f2634ddcc0b99d935147a84ddfc442fcda874",
+        "url": "https://github.com/HarshPanchal18/kubectl-walk/releases/download/v1.2.4/kubectl-walk-v1.2.4-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-walk",
         "files": null,
-        "sha256": "ba4c2867e02f6f23d42601630e1fe45a934573f964a79bef4eec5e94c0700bbe",
-        "url": "https://github.com/HarshPanchal18/kubectl-walk/releases/download/v1.2.3/kubectl-walk-v1.2.3-linux-amd64.tar.gz"
+        "sha256": "82c2c0dc142a14fa036d2163603298441bdfe5a2910db0e244d7158a14d04ebe",
+        "url": "https://github.com/HarshPanchal18/kubectl-walk/releases/download/v1.2.4/kubectl-walk-v1.2.4-linux-amd64.tar.gz"
       }
     },
-    "version": "v1.2.3"
+    "version": "v1.2.4"
   },
   "warp": {
     "description": "Sync and execute local files in Pod",
