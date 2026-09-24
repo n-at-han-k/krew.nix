@@ -571,7 +571,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>cnpg</strong> — Manage your CloudNativePG clusters</summary>
 
-- **Version**: v1.30.0
+- **Version**: v1.30.1
 - **Homepage**: https://github.com/cloudnative-pg/cloudnative-pg
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#cnpg`
@@ -1363,7 +1363,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>fd</strong> — Find resources and perform action on them.</summary>
 
-- **Version**: v0.19.0
+- **Version**: v0.19.1
 - **Homepage**: https://github.com/alikhil/kubectl-find
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#fd`
@@ -2210,7 +2210,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.18.4
+- **Version**: v0.19.4
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
@@ -2243,7 +2243,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>kuttl</strong> — Declaratively run and test operators</summary>
 
-- **Version**: v0.26.0
+- **Version**: v0.27.0
 - **Homepage**: https://github.com/kudobuilder/kuttl
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kuttl`

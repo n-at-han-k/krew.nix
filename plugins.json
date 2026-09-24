@@ -2101,29 +2101,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "88bb6da8ca5b63b5a4e60dae88b320bdcba3a8843536ad86e0fe077765ff2bbc",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.0/kubectl-cnpg_1.30.0_darwin_arm64.tar.gz"
+        "sha256": "74836f530b54f060126fc8cf5fd5c27e77801a6d36f61b66f4457218aa11383f",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "633eec5eb13ec640284804338e64c09d3bdbf907734675dea9e30689eb77654a",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.0/kubectl-cnpg_1.30.0_linux_arm64.tar.gz"
+        "sha256": "6ffad753bbbf5d353576967233063f2ba0adb843a4e7ef5ff4cb7384b2716d5e",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "3325ff39ab3ab198753440f330fff2bcd02d72b00804d97e4257933c078942e5",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.0/kubectl-cnpg_1.30.0_darwin_x86_64.tar.gz"
+        "sha256": "165a49352b8a60ba2eb7bf2b56e5388ff678ac5af36dc03129cedeaf3a37aee3",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "33784dc3b61edb0ddb1a68db6ef045bd32daace5db2ec1f0a02e0e8185eef7eb",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.0/kubectl-cnpg_1.30.0_linux_x86_64.tar.gz"
+        "sha256": "784bc46f176b24a150d5de84d0691f10ff613b59456af86b1a4868e1bacb9953",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_linux_x86_64.tar.gz"
       }
     },
-    "version": "v1.30.0"
+    "version": "v1.30.1"
   },
   "colorize-applied": {
     "description": "Colorize results of apply/dry-run",
@@ -5470,29 +5470,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-fd",
         "files": null,
-        "sha256": "184886b232a58e88e91db937af5ea5e643359177b1dda7dc46377b42c00b9c46",
-        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.0/kubectl-fd_Darwin_arm64.tar.gz"
+        "sha256": "1710978422c4a58a28a77bf2668f3de9d1fd8cc7a64de5a14093c353fc9e83aa",
+        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.1/kubectl-fd_Darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-fd",
         "files": null,
-        "sha256": "60a7d2c028ce25360b00af529168ded24acf623bf929ca4a3a36c0162e5dbd55",
-        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.0/kubectl-fd_Linux_arm64.tar.gz"
+        "sha256": "f416af0a5da4d112026d6b63d192fce9c47dc343b6ceac13514fe14ee25ade7c",
+        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.1/kubectl-fd_Linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-fd",
         "files": null,
-        "sha256": "575f1005bd6b20cf73d52f604bc185f6647f4d1754d18d64dcc2556380f35f3e",
-        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.0/kubectl-fd_Darwin_x86_64.tar.gz"
+        "sha256": "7c1a387d5224d553f101b8810c0c88d0be3eeb9a4f56c2b3796c9655a4c14b08",
+        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.1/kubectl-fd_Darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-fd",
         "files": null,
-        "sha256": "6e2d6311da77911377a840fd068b145d0f572eb0153c64b8f17730eed7e17c85",
-        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.0/kubectl-fd_Linux_x86_64.tar.gz"
+        "sha256": "a15138ba1e26acb3047061a1a2f61c52b7e61510f3fb28efd2ba882601e594cb",
+        "url": "https://github.com/alikhil/kubectl-find/releases/download/v0.19.1/kubectl-fd_Linux_x86_64.tar.gz"
       }
     },
-    "version": "v0.19.0"
+    "version": "v0.19.1"
   },
   "fieldlord": {
     "description": "Explain SSA field ownership, drift & clobber",
@@ -8547,29 +8547,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "f09cb14bd24a91ade7f34327e92cf9e6c3b91b01b551f09bfb56bf2be0d0c6a6",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.18.4/kubectl-kueue-darwin-arm64.tar.gz"
+        "sha256": "fd3528987241eb9653e2cdc81e738b89ed4975c4d77df6e837f75e24bf8d85f8",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "53f909345679bcffdb526c794387f1c3d357395fc60ebee8dd4e704077ed6fca",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.18.4/kubectl-kueue-linux-arm64.tar.gz"
+        "sha256": "54587c5461678af41e6ca8aa0e99e705af20c3e90d133ce2f5c34b497e444b38",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "2e7eb13619076d0e8780fb242c5bcd6c9d71736d62fa9ebd4f150a0319a542eb",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.18.4/kubectl-kueue-darwin-amd64.tar.gz"
+        "sha256": "7bad1a5b993a60550c8b4899da1c85d4dd5114d5548976658180a409ac083b07",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "8388dff254b1e2cb6081534fbea704945523f3963aa280e436e15b9fb3cf9819",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.18.4/kubectl-kueue-linux-amd64.tar.gz"
+        "sha256": "de95c577c844eb76129042aee90c0f6e0f24d1f8034c774014d04fb9f8706989",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.18.4"
+    "version": "v0.19.4"
   },
   "kuota-calc": {
     "description": "Calculate needed quota to perform rolling updates.",
@@ -8664,29 +8664,29 @@
       "aarch64-darwin": {
         "bin": "./kubectl-kuttl",
         "files": null,
-        "sha256": "ac2fd11d770b4082dd3d7462b4c80e5c08d0d619c52f4f34d8e22f9e4c657b02",
-        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_darwin_arm64.tar.gz"
+        "sha256": "a9b9c09e89f6ecf128a79350b111bea39df84d628e89afc9add5d593137864df",
+        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "./kubectl-kuttl",
         "files": null,
-        "sha256": "f7fe82b0dd18d26a146b7a9158adb927f631be1bf6e387e461277ad41a23220d",
-        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_arm64.tar.gz"
+        "sha256": "6737b87c7d10bbe60a21347a7ba9a983ad4ba455a8d8990cc9bf749b7f0c8299",
+        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "./kubectl-kuttl",
         "files": null,
-        "sha256": "2ffbf8d3e996a4c077ec09f17a462bc2ad33aad537ce83d3a9d7ed1eb737b804",
-        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_darwin_x86_64.tar.gz"
+        "sha256": "114b67fcd1cc6878166c8b7ea8364925ff8effbae7ba80ce375876677879189e",
+        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "./kubectl-kuttl",
         "files": null,
-        "sha256": "a1e85cf519f19260b16f8c2c77b475c6b43c10313aee1ad02469f37da08dbe86",
-        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.26.0/kuttl_0.26.0_linux_x86_64.tar.gz"
+        "sha256": "5a51888ff8a162b4ffe2f32564b8c62d5c0319569ccf6805851554fa1a8ded8b",
+        "url": "https://github.com/kudobuilder/kuttl/releases/download/v0.27.0/kuttl_0.27.0_linux_x86_64.tar.gz"
       }
     },
-    "version": "v0.26.0"
+    "version": "v0.27.0"
   },
   "kyverno": {
     "description": "Kyverno is a policy engine for kubernetes",
