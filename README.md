@@ -16,7 +16,7 @@ rbac-tool` works once they are on PATH.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-407 plugins.
+410 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -93,6 +93,17 @@ rbac-tool` works once they are on PATH.
 - **Run**: `nix run github:n-at-han-k/krew.nix#ai`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#ai`, then `kubectl ai`
 - **Binary**: `kubectl-ai`
+
+</details>
+<details>
+<summary><strong>aibom</strong> — Read, summarize, and verify AIBOM resources</summary>
+
+- **Version**: v1.5.0
+- **Homepage**: https://github.com/GoogleCloudPlatform/k8s-aibom
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#aibom`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#aibom`, then `kubectl aibom`
+- **Binary**: `kubectl-aibom`
 
 </details>
 <details>
@@ -230,7 +241,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.31
+- **Version**: v0.1.32
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
@@ -1561,7 +1572,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>gpugo</strong> — Top-like TUI for per-pod GPU usage on Kubernetes</summary>
 
-- **Version**: v0.1.4
+- **Version**: v0.2.1
 - **Homepage**: https://github.com/Tal-Naeh/kubectl-gpugo
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gpugo`
@@ -2210,7 +2221,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.19.4
+- **Version**: v0.19.6
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
@@ -3913,6 +3924,17 @@ rbac-tool` works once they are on PATH.
 
 </details>
 <details>
+<summary><strong>survive-zone</strong> — Show which workloads die when a zone is lost</summary>
+
+- **Version**: v0.4.0
+- **Homepage**: https://github.com/SaiPisey2/kubectl-survive
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#survive-zone`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#survive-zone`, then `kubectl survive-zone`
+- **Binary**: `kubectl-survive_zone`
+
+</details>
+<details>
 <summary><strong>switch-config</strong> — Switches between kubeconfig files</summary>
 
 - **Version**: v0.2.0
@@ -4108,6 +4130,17 @@ rbac-tool` works once they are on PATH.
 - **Run**: `nix run github:n-at-han-k/krew.nix#unused-volumes`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#unused-volumes`, then `kubectl unused-volumes`
 - **Binary**: `kubectl-unused_volumes`
+
+</details>
+<details>
+<summary><strong>upgrade-check</strong> — Find what breaks before you upgrade</summary>
+
+- **Version**: v0.1.3
+- **Homepage**: https://github.com/runtimez-com/kube-upgrade-check
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#upgrade-check`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#upgrade-check`, then `kubectl upgrade-check`
+- **Binary**: `kubectl-upgrade_check`
 
 </details>
 <details>

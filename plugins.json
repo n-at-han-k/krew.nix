@@ -279,6 +279,37 @@
     },
     "version": "v0.0.31"
   },
+  "aibom": {
+    "description": "Read, summarize, and verify AIBOM resources",
+    "homepage": "https://github.com/GoogleCloudPlatform/k8s-aibom",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kubectl-aibom",
+        "files": null,
+        "sha256": "7776d9d5b6ba6ae54ccce1d1ef9b355451138bc7e51574bbbeda4b9c1c3e94be",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.0/kubectl-aibom_v1.5.0_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubectl-aibom",
+        "files": null,
+        "sha256": "065c3b7216d6b69212486c304b7d74248845c9037d16dec0d14f588c50f6ff03",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.0/kubectl-aibom_v1.5.0_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kubectl-aibom",
+        "files": null,
+        "sha256": "52c6d686a070a796302522d8b43988b459ef5a3131823157ca43ebd0e8753ee6",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.0/kubectl-aibom_v1.5.0_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kubectl-aibom",
+        "files": null,
+        "sha256": "fe247a3a341ef6e1604b5e031925177385f1d2382a1ad15aacf69d746c45ac3d",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.0/kubectl-aibom_v1.5.0_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v1.5.0"
+  },
   "aks": {
     "description": "Interact with and debug AKS clusters",
     "homepage": "https://github.com/Azure/kubectl-aks",
@@ -808,29 +839,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "b23ccc3d1b7527bbac4859df796f634e2de1d5849a3dd573c4e5b8683a51604e",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_darwin_arm64.tar.gz"
+        "sha256": "281774d52c8b07d4751ba9abfeaf39245764ad6f9573af9fc4f00991912a7daf",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.32/kubectl-attune_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "1cf40d580fe2b0b502942975794d30ce0f7d4ce26681ff27b1a492870f0fe76a",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_linux_arm64.tar.gz"
+        "sha256": "3be1d434d76394ac0a25f55f647650dcaf75f6e79d6e90d36d0e4bd967923396",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.32/kubectl-attune_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "b9ce07c4b252833b6df4cf5401accbda3ef4bb72a4afb029e260e3a17d67006e",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_darwin_amd64.tar.gz"
+        "sha256": "2afca4c1e95f42160dbaea7b9295a21c7e1f5c06d2efe3d9b525bbd77c8a5a86",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.32/kubectl-attune_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "d02a5ebd88928f1ab0062ca7a00d1caf5888a1394f849dd117b4d6b59b905ed0",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.31/kubectl-attune_linux_amd64.tar.gz"
+        "sha256": "f1e6c861f8331d244dcf626c649b4790db1947cb5dadda970123195b609d1d66",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.32/kubectl-attune_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.1.31"
+    "version": "v0.1.32"
   },
   "auth-proxy": {
     "description": "Authentication proxy to a pod or service",
@@ -6203,29 +6234,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gpugo",
         "files": null,
-        "sha256": "8b5a584938561d63ce65a74279e20c21d4b86ce89c268b7e7fa174e2f767fa55",
-        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.1.4/kubectl-gpugo_v0.1.4_darwin_arm64.tar.gz"
+        "sha256": "e0e40cc1da746d7e9ee28d2517a5e20c5d0f514b1e729f318f25c961778867f1",
+        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.2.1/kubectl-gpugo_v0.2.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gpugo",
         "files": null,
-        "sha256": "15aef4aa47e4acae170f829e7d8db2ef6b382ed873a311905ad01328786737f6",
-        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.1.4/kubectl-gpugo_v0.1.4_linux_arm64.tar.gz"
+        "sha256": "dda240600f7ce381093ded5f30ba5312e05bb095376f51c657e7f02a27a9eae0",
+        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.2.1/kubectl-gpugo_v0.2.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gpugo",
         "files": null,
-        "sha256": "d76c3de71f73ce84fa3bfa78759809906afd98b099daae3e3936748d9d7d19be",
-        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.1.4/kubectl-gpugo_v0.1.4_darwin_amd64.tar.gz"
+        "sha256": "ed8964f0c31f647bf9c03bdd8e228aae8b06bafd92b8b0fe089a5ee020a88603",
+        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.2.1/kubectl-gpugo_v0.2.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gpugo",
         "files": null,
-        "sha256": "20561e82eeb59eeb35408078cf0cfc152eda872d0e21da7d586efce83c7ecaf4",
-        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.1.4/kubectl-gpugo_v0.1.4_linux_amd64.tar.gz"
+        "sha256": "2740f1162b9abf77b46240c11a6ea4e46b72b36f2e8a0f913b70778b55d795d7",
+        "url": "https://github.com/Tal-Naeh/kubectl-gpugo/releases/download/v0.2.1/kubectl-gpugo_v0.2.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.1.4"
+    "version": "v0.2.1"
   },
   "graph": {
     "description": "Visualize Kubernetes resources and relationships.",
@@ -8547,29 +8578,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "fd3528987241eb9653e2cdc81e738b89ed4975c4d77df6e837f75e24bf8d85f8",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-darwin-arm64.tar.gz"
+        "sha256": "96273ec382c5750c480ee3fdd3a81163b9262a9ca99e436e891b5c5b16dde533",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.6/kubectl-kueue-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "54587c5461678af41e6ca8aa0e99e705af20c3e90d133ce2f5c34b497e444b38",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-linux-arm64.tar.gz"
+        "sha256": "6d281209c8e38b6f9c54bc72987d55ec143ff697324ab5826268d34e8d1aeb43",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.6/kubectl-kueue-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "7bad1a5b993a60550c8b4899da1c85d4dd5114d5548976658180a409ac083b07",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-darwin-amd64.tar.gz"
+        "sha256": "e6b37ea97f28910d1e2002f480424f28e238bc65a019313a7e646a2f585bc80c",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.6/kubectl-kueue-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "de95c577c844eb76129042aee90c0f6e0f24d1f8034c774014d04fb9f8706989",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.4/kubectl-kueue-linux-amd64.tar.gz"
+        "sha256": "cfc2316f55ac151c64260ef8f7c1819f58c434bdea98a29c9a3c97ba6972c4d3",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.6/kubectl-kueue-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.19.4"
+    "version": "v0.19.6"
   },
   "kuota-calc": {
     "description": "Calculate needed quota to perform rolling updates.",
@@ -15517,6 +15548,37 @@
     },
     "version": "v0.134.1"
   },
+  "survive-zone": {
+    "description": "Show which workloads die when a zone is lost",
+    "homepage": "https://github.com/SaiPisey2/kubectl-survive",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kubectl-survive_zone",
+        "files": null,
+        "sha256": "d92c1a23fd1a809f76c5f79b4f2d94a8f7d6c9f3506a4e3b34a18401f1d29e9f",
+        "url": "https://github.com/SaiPisey2/kubectl-survive/releases/download/v0.4.0/kubectl-survive_0.4.0_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubectl-survive_zone",
+        "files": null,
+        "sha256": "9eb0cbd3763f1379333a3c32568516296301d25e514b015edbe680c2b100032f",
+        "url": "https://github.com/SaiPisey2/kubectl-survive/releases/download/v0.4.0/kubectl-survive_0.4.0_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kubectl-survive_zone",
+        "files": null,
+        "sha256": "7697e59c5631b8e635f06cd758de35e3b27e48baf387b060e884a2214bcdd095",
+        "url": "https://github.com/SaiPisey2/kubectl-survive/releases/download/v0.4.0/kubectl-survive_0.4.0_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kubectl-survive_zone",
+        "files": null,
+        "sha256": "674de579cd2cef02a9214eaf88464c51df54fe0fcef993180fb906a1387bc8f6",
+        "url": "https://github.com/SaiPisey2/kubectl-survive/releases/download/v0.4.0/kubectl-survive_0.4.0_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v0.4.0"
+  },
   "switch-config": {
     "description": "Switches between kubeconfig files",
     "homepage": "https://github.com/radraw/kube-switch-config",
@@ -16248,6 +16310,73 @@
       }
     },
     "version": "v0.1.2"
+  },
+  "upgrade-check": {
+    "description": "Find what breaks before you upgrade",
+    "homepage": "https://github.com/runtimez-com/kube-upgrade-check",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kube-upgrade-check",
+        "files": [
+          {
+            "from": "kube-upgrade-check",
+            "to": "."
+          },
+          {
+            "from": "LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "8e2b73a67032f453cc6f4f3c71f8013240f707f9ec7718a8470558910925a090",
+        "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.3/kube-upgrade-check_0.1.3_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kube-upgrade-check",
+        "files": [
+          {
+            "from": "kube-upgrade-check",
+            "to": "."
+          },
+          {
+            "from": "LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "de236ba5fe34ca58263eafec3cb0d1604c1313929075e6f39c5411544bd0a796",
+        "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.3/kube-upgrade-check_0.1.3_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kube-upgrade-check",
+        "files": [
+          {
+            "from": "kube-upgrade-check",
+            "to": "."
+          },
+          {
+            "from": "LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "887c48d0063aa5099a40e2bfbf427ff3e86b75d78c4ef76889d43659cb5df1b9",
+        "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.3/kube-upgrade-check_0.1.3_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kube-upgrade-check",
+        "files": [
+          {
+            "from": "kube-upgrade-check",
+            "to": "."
+          },
+          {
+            "from": "LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "d790dac352e92df9e0334e9121169e82cfa51c97e64975b22e50110cd21d1a43",
+        "url": "https://github.com/runtimez-com/kube-upgrade-check/releases/download/v0.1.3/kube-upgrade-check_0.1.3_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v0.1.3"
   },
   "validate": {
     "description": "Validation of resources for native Kubernetes types and CRDs.",
