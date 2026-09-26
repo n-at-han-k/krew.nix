@@ -1484,7 +1484,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>gadget</strong> — Gadgets for debugging and introspecting apps</summary>
 
-- **Version**: v0.56.0
+- **Version**: v0.56.1
 - **Homepage**: https://github.com/inspektor-gadget/inspektor-gadget
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gadget`
@@ -3464,7 +3464,7 @@ rbac-tool` works once they are on PATH.
 <details>
 <summary><strong>retina</strong> — Distributed network captures and telemetry</summary>
 
-- **Version**: v1.2.8
+- **Version**: v1.2.9
 - **Homepage**: https://github.com/microsoft/retina
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#retina`

@@ -5874,29 +5874,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "a3852a364cf06bbe2c467dcbc9e42645b38d952794a30fe6391b2cb3eaef625a",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.0/kubectl-gadget-darwin-arm64-v0.56.0.tar.gz"
+        "sha256": "f8f7c0907e91b353f6fffe4ff495d858001de5103b843dee1b28b5a6bd942a1f",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-darwin-arm64-v0.56.1.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "4bb92d1a4bfbe8189133154a282aba7f8df897bcc50bf82dbd07fbdf37ef6fc9",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.0/kubectl-gadget-linux-arm64-v0.56.0.tar.gz"
+        "sha256": "f44a41738ea8cf75c4fc95dd605b75d78e7a9244aa2a473c8f514b85a73c3ff9",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-linux-arm64-v0.56.1.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "005e47c3c4fa40447aef04cb8b0aea5835679a0c1f331dcaa4ba45569289bc47",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.0/kubectl-gadget-darwin-amd64-v0.56.0.tar.gz"
+        "sha256": "134bdda6b12eed191b11f53b9342f3a94a05a23ff0c59a43294f35c3b7b7448a",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-darwin-amd64-v0.56.1.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "572a0991c976e5bd879e7d772cda83fc01b37342969e0e3de8358ade87488f7e",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.0/kubectl-gadget-linux-amd64-v0.56.0.tar.gz"
+        "sha256": "4aaa00e94d877fadd4f5aadf02153d44b2192d0a8c4a7004cf790aeb1d011bda",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-linux-amd64-v0.56.1.tar.gz"
       }
     },
-    "version": "v0.56.0"
+    "version": "v0.56.1"
   },
   "get-all": {
     "description": "Like `kubectl get all` but **really** everything",
@@ -13466,29 +13466,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-retina-darwin-arm64",
         "files": null,
-        "sha256": "79ea883753b0083a795774471ae66ec295b090c83e71f03f8886fed0ea970621",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.8/kubectl-retina-darwin-arm64-v1.2.8.tar.gz"
+        "sha256": "f8b4a16c9c4d1cf21aae33312ac1d5b9763fa3dcc5eb2bab0820213e1feafa1e",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-darwin-arm64-v1.2.9.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-retina-linux-arm64",
         "files": null,
-        "sha256": "a3fcca5f3abbfd8fc84f998b2c3815e6cc368043a9746328ca779216a1f11691",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.8/kubectl-retina-linux-arm64-v1.2.8.tar.gz"
+        "sha256": "85dad1e44ea1640a874b0ccdf1e2fbe20089ae0cae0a8124401f67c454c720c1",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-linux-arm64-v1.2.9.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-retina-darwin-amd64",
         "files": null,
-        "sha256": "2446c5d300d11de6b8b2da4262166183938b1669009afe6036772e691e77db83",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.8/kubectl-retina-darwin-amd64-v1.2.8.tar.gz"
+        "sha256": "e3f33601d5466bebe1351beb75a5799a65dfaf3d3ae597c21ee26ae109f5b89e",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-darwin-amd64-v1.2.9.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-retina-linux-amd64",
         "files": null,
-        "sha256": "578e45792f5eca3353930751fb1290e680f977f5c90607905377f108b8be333b",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.8/kubectl-retina-linux-amd64-v1.2.8.tar.gz"
+        "sha256": "96254835e5d20cb0ab37407ca7271f452efaa247606e365506b0524012374cb5",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-linux-amd64-v1.2.9.tar.gz"
       }
     },
-    "version": "v1.2.8"
+    "version": "v1.2.9"
   },
   "reverse-proxy": {
     "description": "Start reverse proxy for the Service Pods.",
