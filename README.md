@@ -12,6 +12,26 @@ $ nix shell github:n-at-han-k/krew.nix#rbac-tool
 Binaries are named the way krew names them (`kubectl-rbac_tool`), so `kubectl
 rbac-tool` works once they are on PATH.
 
+## Without flakes
+
+`overlay.nix` is the package set; the flake only re-exports it. On stable Nix:
+
+```nix
+{ pkgs ? import <nixpkgs> { overlays = [ (import ./krew.nix/overlay.nix) ]; } }:
+pkgs.krew-plugins.popeye
+```
+
+or without an overlay at all:
+
+```nix
+(import ./krew.nix { }).popeye
+```
+
+The flake's `packages` build against the pinned nixpkgs in `flake.lock`, so the
+binary cache hits. Going through the overlay builds against yours instead, which
+shares dependencies with your system but only hits the cache when your nixpkgs
+revision matches.
+
 ## Plugins
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
