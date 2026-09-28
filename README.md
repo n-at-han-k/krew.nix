@@ -278,7 +278,7 @@ revision matches.
 <details>
 <summary><strong>atlas</strong> — Visualize Kubernetes resource dependencies</summary>
 
-- **Version**: v1.5.2
+- **Version**: v1.6.0
 - **Homepage**: https://github.com/lithastra/kubeatlas
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#atlas`
@@ -1741,7 +1741,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.6.0
+- **Version**: v0.7.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -1983,7 +1983,7 @@ revision matches.
 <details>
 <summary><strong>kconmon</strong> — On-demand node-to-node connectivity checks for kconmon-ng</summary>
 
-- **Version**: v2.4.0
+- **Version**: v2.5.1
 - **Homepage**: https://github.com/EsDmitrii/kconmon-ng
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kconmon`
@@ -2203,7 +2203,7 @@ revision matches.
 <details>
 <summary><strong>kuberecord</strong> — Query recorded state changes</summary>
 
-- **Version**: v0.4.0
+- **Version**: v0.5.0
 - **Homepage**: https://github.com/kuberecord/kuberecord
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kuberecord`
@@ -3303,7 +3303,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.14.1
+- **Version**: v1.15.0
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
