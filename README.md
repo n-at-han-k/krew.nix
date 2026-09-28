@@ -17,14 +17,20 @@ rbac-tool` works once they are on PATH.
 `overlay.nix` is the package set; the flake only re-exports it. On stable Nix:
 
 ```nix
-{ pkgs ? import <nixpkgs> { overlays = [ (import ./krew.nix/overlay.nix) ]; } }:
+let
+  krew = fetchTarball "https://github.com/n-at-han-k/krew.nix/archive/main.tar.gz";
+  pkgs = import <nixpkgs> { overlays = [ (import (krew + "/overlay.nix")) ]; };
+in
 pkgs.krew-plugins.popeye
 ```
 
 or without an overlay at all:
 
 ```nix
-(import ./krew.nix { }).popeye
+let
+  krew = fetchTarball "https://github.com/n-at-han-k/krew.nix/archive/main.tar.gz";
+in
+(import krew { }).popeye
 ```
 
 The flake's `packages` build against the pinned nixpkgs in `flake.lock`, so the
