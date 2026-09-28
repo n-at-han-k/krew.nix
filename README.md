@@ -12,6 +12,28 @@ $ nix shell github:n-at-han-k/krew.nix#rbac-tool
 Binaries are named the way krew names them (`kubectl-rbac_tool`), so `kubectl
 rbac-tool` works once they are on PATH.
 
+## Use it
+
+```nix
+{
+  inputs.krew-nix.url = "github:n-at-han-k/krew.nix";
+
+  # home-manager
+  home.packages = with inputs.krew-nix.packages.${pkgs.system}; [
+    assert
+    popeye
+    rbac-tool
+  ];
+}
+```
+
+Or via the overlay, which adds a `krew-plugins` attrset:
+
+```nix
+nixpkgs.overlays = [ inputs.krew-nix.overlays.default ];
+environment.systemPackages = [ pkgs.krew-plugins.popeye ];
+```
+
 ## Without flakes
 
 `overlay.nix` is the package set; the flake only re-exports it. On stable Nix:
@@ -4556,28 +4578,6 @@ revision matches.
 </details>
 
 <!-- END GENERATED PLUGIN LIST -->
-
-## Use it
-
-```nix
-{
-  inputs.krew-nix.url = "github:n-at-han-k/krew.nix";
-
-  # home-manager
-  home.packages = with inputs.krew-nix.packages.${pkgs.system}; [
-    assert
-    popeye
-    rbac-tool
-  ];
-}
-```
-
-Or via the overlay, which adds a `krew-plugins` attrset:
-
-```nix
-nixpkgs.overlays = [ inputs.krew-nix.overlays.default ];
-environment.systemPackages = [ pkgs.krew-plugins.popeye ];
-```
 
 ## How it works
 
