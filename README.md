@@ -146,7 +146,7 @@ revision matches.
 <details>
 <summary><strong>aibom</strong> — Read, summarize, and verify AIBOM resources</summary>
 
-- **Version**: v1.5.0
+- **Version**: v1.5.1
 - **Homepage**: https://github.com/GoogleCloudPlatform/k8s-aibom
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#aibom`
@@ -553,7 +553,7 @@ revision matches.
 <details>
 <summary><strong>cluster-compare</strong> — Diff cluster resources against manifests.</summary>
 
-- **Version**: v0.13.0
+- **Version**: v0.13.1
 - **Homepage**: https://github.com/openshift/kube-compare
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#cluster-compare`
@@ -1653,7 +1653,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.8.0
+- **Version**: v5.8.1
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -4183,7 +4183,7 @@ revision matches.
 <details>
 <summary><strong>upgrade-check</strong> — Find what breaks before you upgrade</summary>
 
-- **Version**: v0.1.3
+- **Version**: v0.1.5
 - **Homepage**: https://github.com/runtimez-com/kube-upgrade-check
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#upgrade-check`
