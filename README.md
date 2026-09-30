@@ -2214,7 +2214,7 @@ revision matches.
 <details>
 <summary><strong>kubescape</strong> — Scan resources and cluster configs against security frameworks.</summary>
 
-- **Version**: v4.0.14
+- **Version**: v4.0.15
 - **Homepage**: https://kubescape.io/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubescape`
