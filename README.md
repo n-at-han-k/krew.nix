@@ -2269,7 +2269,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.19.6
+- **Version**: v0.19.7
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
