@@ -520,7 +520,7 @@ revision matches.
 <details>
 <summary><strong>cisco-vk</strong> — Run read-only IOS-XE commands through CVK</summary>
 
-- **Version**: v2026.9.2
+- **Version**: v2026.10.0
 - **Homepage**: https://github.com/cisco-open/cisco-virtual-kubelet
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#cisco-vk`
@@ -1532,7 +1532,7 @@ revision matches.
 <details>
 <summary><strong>gadget</strong> — Gadgets for debugging and introspecting apps</summary>
 
-- **Version**: v0.56.1
+- **Version**: v0.56.2
 - **Homepage**: https://github.com/inspektor-gadget/inspektor-gadget
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gadget`
@@ -2269,7 +2269,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.19.7
+- **Version**: v0.20.0
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`

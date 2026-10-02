@@ -1648,29 +1648,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "2276237dca65be9c7a6deeafa6631739b6a53cba2f640e46f3c75f9b5972bd09",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.9.2/kubectl-ciscovk_v2026.9.2_darwin_arm64.tar.gz"
+        "sha256": "90556bb541aef2dde11cb483c4075a5a6eaf6fd25aec306e7a528b913255d58c",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "825120b5a939825c518d3284e5a07784b6aba5a870172f05a9e440461d9eb187",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.9.2/kubectl-ciscovk_v2026.9.2_linux_arm64.tar.gz"
+        "sha256": "0a786d6680e695ef965a37405b2271f6265ae60fb78117d689e785f432552a7c",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "2c7c99fec409cdfccbdfd2f9af733de03650d2354944068e681c2947b7525d8c",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.9.2/kubectl-ciscovk_v2026.9.2_darwin_amd64.tar.gz"
+        "sha256": "1247716f98e54182b5a9977f3236c0e3b5e6bb09b0cd3d6b041122d9c5d83df2",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "de8085da2df817a48368784d830a76b1cd8ebe69c7d7b669bd85b75027bb9b8c",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.9.2/kubectl-ciscovk_v2026.9.2_linux_amd64.tar.gz"
+        "sha256": "b9d03e8546a11a7c7639b951a9f1dbd7eda701221feadeabf8da06e174c92d4f",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v2026.9.2"
+    "version": "v2026.10.0"
   },
   "cleaner": {
     "description": "Safe, intelligent cleanup of unused Kubernetes resources.",
@@ -5874,29 +5874,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "f8f7c0907e91b353f6fffe4ff495d858001de5103b843dee1b28b5a6bd942a1f",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-darwin-arm64-v0.56.1.tar.gz"
+        "sha256": "6197ddec8df2024d4545f0173fae2b323cdbefc4ca0e7ef2983230a57dcc7da1",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.2/kubectl-gadget-darwin-arm64-v0.56.2.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "f44a41738ea8cf75c4fc95dd605b75d78e7a9244aa2a473c8f514b85a73c3ff9",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-linux-arm64-v0.56.1.tar.gz"
+        "sha256": "8a7f10849d531225597b145bb27f046dad6f3fa6d5ca2887fdec8460a4ef4e9b",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.2/kubectl-gadget-linux-arm64-v0.56.2.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "134bdda6b12eed191b11f53b9342f3a94a05a23ff0c59a43294f35c3b7b7448a",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-darwin-amd64-v0.56.1.tar.gz"
+        "sha256": "d1bdb133e4676e72f5d4a4d11e1ab10b924891236ca84c395e4f87f49ceeb221",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.2/kubectl-gadget-darwin-amd64-v0.56.2.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "4aaa00e94d877fadd4f5aadf02153d44b2192d0a8c4a7004cf790aeb1d011bda",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.1/kubectl-gadget-linux-amd64-v0.56.1.tar.gz"
+        "sha256": "17bb1196fcb52fe74e64bcda17edd7bc423ac2c889a00a918962ce728cc73bd8",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.56.2/kubectl-gadget-linux-amd64-v0.56.2.tar.gz"
       }
     },
-    "version": "v0.56.1"
+    "version": "v0.56.2"
   },
   "get-all": {
     "description": "Like `kubectl get all` but **really** everything",
@@ -8578,29 +8578,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "349efa18d60abf09733a1278ccfdf56ef8fe743aa8cf1f6ec2835e183f8a5ca9",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.7/kubectl-kueue-darwin-arm64.tar.gz"
+        "sha256": "76d6a3f8bae48e0a45f0554ce7d94e78a596a0a71d491210eee9b4410869d8a0",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.0/kubectl-kueue-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "5046788120c5b0f35f5475de6df4a5175c82b70aa43af72257e1da4ac7911a48",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.7/kubectl-kueue-linux-arm64.tar.gz"
+        "sha256": "f87752baa94fdab592d2db64ce34ee1b690c92109cec311dde34cafec90f1c69",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.0/kubectl-kueue-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "6502357ced724e681fed22703d4bbb40f24454b10c97717ba9744449b3232bb8",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.7/kubectl-kueue-darwin-amd64.tar.gz"
+        "sha256": "49b5d042713600062414b81f715e254254d63f0b31bf328681a4d1ff805f108b",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.0/kubectl-kueue-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "26e4b7f3589ef984ed04e81a78014704547c23fa11cf316fea6818199cad538b",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.19.7/kubectl-kueue-linux-amd64.tar.gz"
+        "sha256": "543ff0e6fa848829ec1bd426e768e0d988c4ec74af24c5092342fa02911a6182",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.0/kubectl-kueue-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.19.7"
+    "version": "v0.20.0"
   },
   "kuota-calc": {
     "description": "Calculate needed quota to perform rolling updates.",
