@@ -5469,6 +5469,37 @@
     },
     "version": "v0.14.1"
   },
+  "exporter": {
+    "description": "Export cluster resources as YAML or JSON",
+    "homepage": "https://github.com/bakito/kubexporter",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kubexporter",
+        "files": null,
+        "sha256": "7edae6849658012e8a17d72b9869f93c2bd87092cc0eafbd68b8609437a8e388",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.0/kubexporter_0.10.0_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubexporter",
+        "files": null,
+        "sha256": "d97e17a5c6da160c917eb6470c9583daf71ffd6e3df50fddcdbb159e0fbb4f07",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.0/kubexporter_0.10.0_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kubexporter",
+        "files": null,
+        "sha256": "74e04e9e586565312ae4b3c10a0d926eaebdccac13491d4c39d8813120eaa835",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.0/kubexporter_0.10.0_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kubexporter",
+        "files": null,
+        "sha256": "59205f05633b71841fcf22d8aee7829f2648041eb44aabd952897df197a66af7",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.0/kubexporter_0.10.0_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v0.10.0"
+  },
   "fakos": {
     "description": "Quickly access the state and metadata of k8s resources",
     "homepage": "https://github.com/koithos/fakos",

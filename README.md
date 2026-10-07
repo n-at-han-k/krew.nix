@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-410 plugins.
+411 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -1406,6 +1406,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#explore`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#explore`, then `kubectl explore`
 - **Binary**: `kubectl-explore`
+
+</details>
+<details>
+<summary><strong>exporter</strong> — Export cluster resources as YAML or JSON</summary>
+
+- **Version**: v0.10.0
+- **Homepage**: https://github.com/bakito/kubexporter
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#exporter`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#exporter`, then `kubectl exporter`
+- **Binary**: `kubectl-exporter`
 
 </details>
 <details>
