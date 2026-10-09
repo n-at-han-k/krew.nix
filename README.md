@@ -1026,7 +1026,7 @@ revision matches.
 <details>
 <summary><strong>datadog</strong> — Manage the Datadog Operator</summary>
 
-- **Version**: v1.30.0
+- **Version**: v1.31.0
 - **Homepage**: https://github.com/DataDog/datadog-operator
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#datadog`
@@ -2280,7 +2280,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.20.0
+- **Version**: v0.20.1
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
