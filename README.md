@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-411 plugins.
+413 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -80,7 +80,7 @@ revision matches.
 <details>
 <summary><strong>accurate</strong> — Manage Accurate, a multi-tenancy controller</summary>
 
-- **Version**: v2.0.0
+- **Version**: v2.1.0
 - **Homepage**: https://github.com/cybozu-go/accurate
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#accurate`
@@ -289,7 +289,7 @@ revision matches.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.32
+- **Version**: v0.1.33
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
@@ -465,7 +465,7 @@ revision matches.
 <details>
 <summary><strong>cfgd</strong> — Manage cfgd modules on pods and workloads.</summary>
 
-- **Version**: v0.11.0
+- **Version**: v0.12.0
 - **Homepage**: https://github.com/tj-smith47/cfgd
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#cfgd`
@@ -1411,7 +1411,7 @@ revision matches.
 <details>
 <summary><strong>exporter</strong> — Export cluster resources as YAML or JSON</summary>
 
-- **Version**: v0.10.0
+- **Version**: v0.10.4
 - **Homepage**: https://github.com/bakito/kubexporter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#exporter`
@@ -1543,7 +1543,7 @@ revision matches.
 <details>
 <summary><strong>gadget</strong> — Gadgets for debugging and introspecting apps</summary>
 
-- **Version**: v0.56.2
+- **Version**: v0.57.0
 - **Homepage**: https://github.com/inspektor-gadget/inspektor-gadget
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gadget`
@@ -1664,7 +1664,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.8.1
+- **Version**: v5.9.3
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1752,7 +1752,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.7.0
+- **Version**: v0.8.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -2445,7 +2445,7 @@ revision matches.
 <details>
 <summary><strong>mayastor</strong> — Provides commands for OpenEBS Mayastor.</summary>
 
-- **Version**: v2.12.1
+- **Version**: v2.12.2
 - **Homepage**: https://openebs.io/docs/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#mayastor`
@@ -2643,7 +2643,7 @@ revision matches.
 <details>
 <summary><strong>nasty</strong> — Manage NASty CSI volumes</summary>
 
-- **Version**: v0.0.3
+- **Version**: v0.0.5
 - **Homepage**: https://github.com/nasty-project/nasty-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#nasty`
@@ -2896,7 +2896,7 @@ revision matches.
 <details>
 <summary><strong>openebs</strong> — Provides commands for OpenEBS engines.</summary>
 
-- **Version**: v4.6.1
+- **Version**: v4.6.2
 - **Homepage**: https://openebs.io/docs/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#openebs`
@@ -3270,7 +3270,7 @@ revision matches.
 <details>
 <summary><strong>pv-mounter</strong> — Mount PVC locally using SSHFS or NFS</summary>
 
-- **Version**: v26.37.0
+- **Version**: v26.41.0
 - **Homepage**: https://github.com/fenio/pv-mounter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#pv-mounter`
@@ -3314,7 +3314,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.15.0
+- **Version**: v1.16.0
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3468,7 +3468,7 @@ revision matches.
 <details>
 <summary><strong>resource-backup</strong> — Save Kubernetes resources to disk</summary>
 
-- **Version**: v0.3.4
+- **Version**: v0.3.5
 - **Homepage**: https://github.com/zak905/kubectl-resource-backup
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#resource-backup`
@@ -3551,6 +3551,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#revisions`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#revisions`, then `kubectl revisions`
 - **Binary**: `kubectl-revisions`
+
+</details>
+<details>
+<summary><strong>ripple</strong> — See what a ConfigMap or Secret change will break</summary>
+
+- **Version**: v0.1.1
+- **Homepage**: https://github.com/mehrabix/kubectl-ripple
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#ripple`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#ripple`, then `kubectl ripple`
+- **Binary**: `kubectl-ripple`
 
 </details>
 <details>
@@ -3908,7 +3919,7 @@ revision matches.
 <details>
 <summary><strong>status</strong> — Show status of Kubernetes resources at a glance.</summary>
 
-- **Version**: v0.7.26
+- **Version**: v0.7.27
 - **Homepage**: https://github.com/bergerx/kubectl-status
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#status`
@@ -4018,7 +4029,7 @@ revision matches.
 <details>
 <summary><strong>szero</strong> — Scale all workloads in a namespace to 0 and back</summary>
 
-- **Version**: v1.14.6
+- **Version**: v1.14.7
 - **Homepage**: https://github.com/jadolg/szero
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#szero`
@@ -4167,6 +4178,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#tunnel`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#tunnel`, then `kubectl tunnel`
 - **Binary**: `kubectl-tunnel`
+
+</details>
+<details>
+<summary><strong>unitconv</strong> — Convert resource quantities between units</summary>
+
+- **Version**: v1.0.0
+- **Homepage**: https://github.com/itzik-elayev/kubectl-unitconv
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#unitconv`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#unitconv`, then `kubectl unitconv`
+- **Binary**: `kubectl-unitconv`
 
 </details>
 <details>
