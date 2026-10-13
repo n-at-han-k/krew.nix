@@ -317,23 +317,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-aks",
         "files": null,
-        "sha256": "f336a47eae4578e73e9cdbe73b73ecb24d9fea919ed0cd4cdf9f1cab50275c65",
-        "url": "https://github.com/Azure/kubectl-aks/releases/download/v0.3.0/kubectl-aks-darwin-arm64-v0.3.0.tar.gz"
+        "sha256": "7b8ddb792a178fec6858cc531aadc42e2abb914a390e1b421b72f719287cc48c",
+        "url": "https://github.com/Azure/kubectl-aks/releases/download/v0.3.1/kubectl-aks-darwin-arm64-v0.3.1.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubectl-aks",
+        "files": null,
+        "sha256": "40e538984884a56ddd0d3f1b3fdb05b8498df78a34388b32f3c564f8eeb4bfec",
+        "url": "https://github.com/Azure/kubectl-aks/releases/download/v0.3.1/kubectl-aks-linux-arm64-v0.3.1.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-aks",
         "files": null,
-        "sha256": "f6c85971bbce70c261a68236b80a598be3daf5cf076d03ab58fccc7dd59ae3bb",
-        "url": "https://github.com/Azure/kubectl-aks/releases/download/v0.3.0/kubectl-aks-darwin-amd64-v0.3.0.tar.gz"
+        "sha256": "c001594bab763986eb0ef6dc5dc1203289f27f69bbfbfa70c91b757e9c4f4cc8",
+        "url": "https://github.com/Azure/kubectl-aks/releases/download/v0.3.1/kubectl-aks-darwin-amd64-v0.3.1.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-aks",
         "files": null,
-        "sha256": "a023372e633e6b3a3205db87445679618756db21f56cfb0d31def8e2b5c717ec",
-        "url": "https://github.com/Azure/kubectl-aks/releases/download/v0.3.0/kubectl-aks-linux-amd64-v0.3.0.tar.gz"
+        "sha256": "a46719429b8767dcd1ac0c4e78c60cb871de1e8e32ad23eae109d03d4a99a698",
+        "url": "https://github.com/Azure/kubectl-aks/releases/download/v0.3.1/kubectl-aks-linux-amd64-v0.3.1.tar.gz"
       }
     },
-    "version": "v0.3.0"
+    "version": "v0.3.1"
   },
   "alfred": {
     "description": "AI-powered Kubernetes assistant",
@@ -6394,29 +6400,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "4bc650187352fb2ff706feaa9f0c6a1d026435d7ad96cda94377bfdeb15b2d10",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.9.3/kubectl-gs-v5.9.3-darwin-arm64.tar.gz"
+        "sha256": "3aa91ea5aa0c95820ba30045f3bd436ae15072988050e143ff06050ea580d73f",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.0/kubectl-gs-v5.10.0-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "5c536656fd54296f02effd3e8e0e1f3f9fdb08e44ceebee7de0667b248011e88",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.9.3/kubectl-gs-v5.9.3-linux-arm64.tar.gz"
+        "sha256": "296546cb72c5a26a311773f19991c2641e32fe1dd9377ca4de34acfb84cbc0c3",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.0/kubectl-gs-v5.10.0-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "d4fd5ca19f0203ce140823b4ee7802966dafd834c570ae703e7908a78eb83ac2",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.9.3/kubectl-gs-v5.9.3-darwin-amd64.tar.gz"
+        "sha256": "1527b320bc4985664f0a2929b8167d5d8720084f7432628771ea6cc2845c4c5b",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.0/kubectl-gs-v5.10.0-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "3d8bd0ab785fc51310f4f7e92f66a6a214f76646be1a38c1126d8326e6c30983",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.9.3/kubectl-gs-v5.9.3-linux-amd64.tar.gz"
+        "sha256": "aca7db5187b1079fb9d7717fe48877ee0b0c5fec269fb16a38ef750a58268e10",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.0/kubectl-gs-v5.10.0-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.9.3"
+    "version": "v5.10.0"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -12094,29 +12100,29 @@
       "aarch64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "edc00be2dd6c2848f5202967d212e6254a752d6a00243be4d8d3de4eaeddb321",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.8/podtrace_darwin_arm64.tar.gz"
+        "sha256": "68340effde9c03c0780bfeec5d2e173567e32c19d5d66dfa76c9fbcce575d1f9",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.9/podtrace_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "c47acdc51209f35d57aa94931b0569c0396f8de4cbc886640bf2eb5209d7f7a2",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.8/podtrace_linux_arm64.tar.gz"
+        "sha256": "4b3b2598c6620d730be899e3610ddab787ca5d47ef87b777b5c9587ee3dfe41f",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.9/podtrace_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "c8bb70469f360f1c0cb88f68d060fe67272d5d922931f8ef041ed49f4389151e",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.8/podtrace_darwin_amd64.tar.gz"
+        "sha256": "4410afecc5045cd4c911a12b2cd4a6f59b0010ada2be6de7fa6c0a728f83f90e",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.9/podtrace_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "a9665b4c70ff155caff13ace276387d074de758f4f259c7c04ac6bef17518fa9",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.8/podtrace_linux_amd64.tar.gz"
+        "sha256": "873562ef25317c2d3609c16fc740c165b3738e5a6957f9e98ee545473faa224f",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.9/podtrace_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.14.8"
+    "version": "v0.14.9"
   },
   "podump": {
     "description": "Dump pod network traffic",
@@ -16934,8 +16940,8 @@
             "to": "."
           }
         ],
-        "sha256": "1ed60109742fcad89fcdf73bbcc082de9855b2ddcd51493d21b8cc5f9ad15d2f",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.0/virtctl-darwin-arm64.tar.gz"
+        "sha256": "7c352e39b780c5a2bfea3eb733d2a18435c649626c18d8e9bb30a47592b6ae98",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "virtctl",
@@ -16949,8 +16955,8 @@
             "to": "."
           }
         ],
-        "sha256": "d9a34228d67153568064c6afa107f4aa7130257b11ff21bf2f0b3c99b4b19449",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.0/virtctl-linux-arm64.tar.gz"
+        "sha256": "9ea9e86662ef4d8cd82f81c9b332ee38bff217464c16a2e0ac8f16cc041465d1",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "virtctl",
@@ -16964,8 +16970,8 @@
             "to": "."
           }
         ],
-        "sha256": "a2310b18ce1b6fabff00fe583481cc8a6c433bf5e4b77b7c6ba504b049a87138",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.0/virtctl-darwin-amd64.tar.gz"
+        "sha256": "5088422957148533b2edf6639e3ebdaa7d68a09805db672779a5a64f7964f251",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "virtctl",
@@ -16979,11 +16985,11 @@
             "to": "."
           }
         ],
-        "sha256": "a0127cdc71b4e58f44259b2185c98db67df36bb2c2b820e05a810357033ada5b",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.0/virtctl-linux-amd64.tar.gz"
+        "sha256": "8170d1aa38d21189e5606447aec8104d48eab3d34a97b6d3243710c3fa44c1e6",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-linux-amd64.tar.gz"
       }
     },
-    "version": "v1.9.0"
+    "version": "v1.9.1"
   },
   "volsync": {
     "description": "Manage replication with the VolSync operator",

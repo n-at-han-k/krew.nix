@@ -157,9 +157,9 @@ revision matches.
 <details>
 <summary><strong>aks</strong> — Interact with and debug AKS clusters</summary>
 
-- **Version**: v0.3.0
+- **Version**: v0.3.1
 - **Homepage**: https://github.com/Azure/kubectl-aks
-- **Platforms**: aarch64-darwin, x86_64-darwin, x86_64-linux
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#aks`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#aks`, then `kubectl aks`
 - **Binary**: `kubectl-aks`
@@ -1664,7 +1664,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.9.3
+- **Version**: v5.10.0
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -3127,7 +3127,7 @@ revision matches.
 <details>
 <summary><strong>podtrace</strong> — eBPF diagnostics for Kubernetes pods</summary>
 
-- **Version**: v0.14.8
+- **Version**: v0.14.9
 - **Homepage**: https://github.com/gma1k/podtrace
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#podtrace`
@@ -4370,7 +4370,7 @@ revision matches.
 <details>
 <summary><strong>virt</strong> — Control KubeVirt virtual machines using virtctl</summary>
 
-- **Version**: v1.9.0
+- **Version**: v1.9.1
 - **Homepage**: https://github.com/kubevirt/kubectl-virt-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#virt`
