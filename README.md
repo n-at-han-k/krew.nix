@@ -3303,7 +3303,7 @@ revision matches.
 <details>
 <summary><strong>rabbitmq</strong> — Manage RabbitMQ clusters</summary>
 
-- **Version**: v2.23.0
+- **Version**: v2.23.1
 - **Homepage**: https://github.com/rabbitmq/cluster-operator
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#rabbitmq`
@@ -4073,7 +4073,7 @@ revision matches.
 <details>
 <summary><strong>tns-csi</strong> — Manage TrueNAS CSI volumes</summary>
 
-- **Version**: v0.5.4
+- **Version**: v0.5.5
 - **Homepage**: https://github.com/fenio/tns-csi
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#tns-csi`

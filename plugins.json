@@ -12767,29 +12767,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-rabbitmq-darwin-arm64",
         "files": null,
-        "sha256": "123c932a55130fce36d2fc5b76345bf8ae481e096fa8074e52d0515e7b48a976",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.0/kubectl-rabbitmq-darwin-arm64.tar.gz"
+        "sha256": "a196fb1adfc54271e66c7fc928d3bc7b70252cfdc6e2ce2b35f99fa8d4219791",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-rabbitmq-linux-arm64",
         "files": null,
-        "sha256": "023d47ebc80c0551da63c726f05b589cde2d50a4054f21c82e096b26c88749ca",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.0/kubectl-rabbitmq-linux-arm64.tar.gz"
+        "sha256": "02e25ac0205a0d603342aaa7d6e5f5f46ef7372014e21fc09cdbd1d76b306dd2",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-rabbitmq-darwin-amd64",
         "files": null,
-        "sha256": "9817d5ba07314dbdbfb15d81022177920a3f16484b17d76e3f26595afc3d1567",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.0/kubectl-rabbitmq-darwin-amd64.tar.gz"
+        "sha256": "1b6570a4fbf184fe7826bfc4f5c5de593202fdbb3fadcf7d02a668b5fa45bb8d",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-rabbitmq-linux-amd64",
         "files": null,
-        "sha256": "9ea88a057d276e4986768dcd2c7b1c64d7ad00ea4b3e364a5f221f2c22a68e4f",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.0/kubectl-rabbitmq-linux-amd64.tar.gz"
+        "sha256": "ae4c9271e21620e3a35bc8b06a541e1749b034fda8c85c9e5d8268372c0f5aff",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-linux-amd64.tar.gz"
       }
     },
-    "version": "v2.23.0"
+    "version": "v2.23.1"
   },
   "radar": {
     "description": "Cluster dashboard with topology and traffic maps",
@@ -15942,29 +15942,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-tns_csi",
         "files": null,
-        "sha256": "cfd6371d5477c1c402040e7cfbc7dc74b40743d0fb7e422916e26f7f998536e2",
-        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.4/kubectl-tns_csi-darwin-arm64.tar.gz"
+        "sha256": "c157172e16eb521e0cdd5e9afdd622bec5cfc7fba4cdae2dc21c71215b83cada",
+        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.5/kubectl-tns_csi-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-tns_csi",
         "files": null,
-        "sha256": "34e88a58331fc516b8b7f3dff8d171372ee1908cf41a2191cd203fe02ba484ef",
-        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.4/kubectl-tns_csi-linux-arm64.tar.gz"
+        "sha256": "ee1883a25ba2b51013d81d3a0babb1b74e7f6e06feb90c7bfb875863caec3ee7",
+        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.5/kubectl-tns_csi-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-tns_csi",
         "files": null,
-        "sha256": "d2a4ff50757357bdef2f9fb2cbb9cc7e4f3ff8a6ffa5b7d636b9735926eb929e",
-        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.4/kubectl-tns_csi-darwin-amd64.tar.gz"
+        "sha256": "c968f26a7c5bfafbc9f66cb739954901ec9a175791cffe8b098cc6f4bcd4d167",
+        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.5/kubectl-tns_csi-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-tns_csi",
         "files": null,
-        "sha256": "0c1dda7d862ebeee105b2a00e4020fb2ac9d2017385e1f08dd93d01a96fb8e6a",
-        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.4/kubectl-tns_csi-linux-amd64.tar.gz"
+        "sha256": "f84f5d849217880b6ff06e8e18e2f2a329b4d34da34646205bbb1cb859a26cef",
+        "url": "https://github.com/fenio/tns-csi/releases/download/plugin-v0.5.5/kubectl-tns_csi-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.5.4"
+    "version": "v0.5.5"
   },
   "topology": {
     "description": "Explore region topology for nodes or pods",
