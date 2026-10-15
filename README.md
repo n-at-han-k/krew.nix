@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-413 plugins.
+414 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -2146,6 +2146,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
+
+- **Version**: v0.10.12
+- **Homepage**: https://kopiur.home-operations.com/cli/
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#kopiur`, then `kubectl kopiur`
+- **Binary**: `kubectl-kopiur`
+
+</details>
+<details>
 <summary><strong>kor</strong> — Kor is a tool to discover unused K8s resources.</summary>
 
 - **Version**: v0.6.9
@@ -2225,7 +2236,7 @@ revision matches.
 <details>
 <summary><strong>kubescape</strong> — Scan resources and cluster configs against security frameworks.</summary>
 
-- **Version**: v4.0.15
+- **Version**: v4.0.16
 - **Homepage**: https://kubescape.io/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubescape`
