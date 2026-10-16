@@ -289,7 +289,7 @@ revision matches.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.33
+- **Version**: v0.1.34
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
@@ -2148,7 +2148,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.12
+- **Version**: v0.10.15
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
@@ -2291,7 +2291,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.20.1
+- **Version**: v0.20.2
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
@@ -2610,7 +2610,7 @@ revision matches.
 <details>
 <summary><strong>mtv</strong> — Migrate VMs to KubeVirt using Forklift</summary>
 
-- **Version**: v0.3.32
+- **Version**: v0.3.34
 - **Homepage**: https://github.com/yaacov/kubectl-mtv
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#mtv`
@@ -2918,7 +2918,7 @@ revision matches.
 <details>
 <summary><strong>openunison-cli</strong> — Login to a kubernetes cluster via OpenUnison</summary>
 
-- **Version**: v1.0.0
+- **Version**: v1.5.1
 - **Homepage**: https://github.com/OpenUnison/openunison-cli
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#openunison-cli`
@@ -3325,7 +3325,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.16.0
+- **Version**: v1.17.0
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3402,7 +3402,7 @@ revision matches.
 <details>
 <summary><strong>readonly</strong> — Guardrail against accidental cluster changes</summary>
 
-- **Version**: v0.5.1
+- **Version**: v0.7.0
 - **Homepage**: https://github.com/Evaneos/kubectl-readonly
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#readonly`
