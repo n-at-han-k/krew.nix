@@ -3534,7 +3534,7 @@ revision matches.
 <details>
 <summary><strong>retina</strong> — Distributed network captures and telemetry</summary>
 
-- **Version**: v1.2.9
+- **Version**: v1.3.0
 - **Homepage**: https://github.com/microsoft/retina
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#retina`

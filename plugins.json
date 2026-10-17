@@ -13534,29 +13534,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-retina-darwin-arm64",
         "files": null,
-        "sha256": "f8b4a16c9c4d1cf21aae33312ac1d5b9763fa3dcc5eb2bab0820213e1feafa1e",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-darwin-arm64-v1.2.9.tar.gz"
+        "sha256": "6f559cae9fee2b5b7236e069abb8965d0554dccda3afa6b986a136ac21049338",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-darwin-arm64-v1.3.0.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-retina-linux-arm64",
         "files": null,
-        "sha256": "85dad1e44ea1640a874b0ccdf1e2fbe20089ae0cae0a8124401f67c454c720c1",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-linux-arm64-v1.2.9.tar.gz"
+        "sha256": "414fdee0f0be5cd68158679116b0ecb3c7568ad5b20b47dfe64fd9154e5b3ed9",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-linux-arm64-v1.3.0.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-retina-darwin-amd64",
         "files": null,
-        "sha256": "e3f33601d5466bebe1351beb75a5799a65dfaf3d3ae597c21ee26ae109f5b89e",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-darwin-amd64-v1.2.9.tar.gz"
+        "sha256": "6acb04f4a4893b45f650920960c565d202285b2822beb4cf0e4d4d8507581c80",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-darwin-amd64-v1.3.0.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-retina-linux-amd64",
         "files": null,
-        "sha256": "96254835e5d20cb0ab37407ca7271f452efaa247606e365506b0524012374cb5",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.2.9/kubectl-retina-linux-amd64-v1.2.9.tar.gz"
+        "sha256": "725a00b61b575bb363cddf71d63cdbb217a660dae6fd10fe3e93b8c3a8f536f8",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-linux-amd64-v1.3.0.tar.gz"
       }
     },
-    "version": "v1.2.9"
+    "version": "v1.3.0"
   },
   "reverse-proxy": {
     "description": "Start reverse proxy for the Service Pods.",
