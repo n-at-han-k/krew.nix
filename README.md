@@ -3138,7 +3138,7 @@ revision matches.
 <details>
 <summary><strong>podtrace</strong> — eBPF diagnostics for Kubernetes pods</summary>
 
-- **Version**: v0.14.9
+- **Version**: v0.14.10
 - **Homepage**: https://github.com/gma1k/podtrace
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#podtrace`
