@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-414 plugins.
+416 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -1409,9 +1409,9 @@ revision matches.
 
 </details>
 <details>
-<summary><strong>exporter</strong> — Export cluster resources as YAML or JSON</summary>
+<summary><strong>exporter</strong> — Export k8s cluster resources as YAML or JSON</summary>
 
-- **Version**: v0.10.4
+- **Version**: v0.10.5
 - **Homepage**: https://github.com/bakito/kubexporter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#exporter`
@@ -1444,7 +1444,7 @@ revision matches.
 <details>
 <summary><strong>fieldlord</strong> — Explain SSA field ownership, drift & clobber</summary>
 
-- **Version**: v0.1.3
+- **Version**: v0.1.4
 - **Homepage**: https://github.com/alexremn/kubectl-fieldlord
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#fieldlord`
@@ -1466,7 +1466,7 @@ revision matches.
 <details>
 <summary><strong>finalizer-doctor</strong> — Safely diagnose & clear stuck finalizers</summary>
 
-- **Version**: v0.1.5
+- **Version**: v0.1.6
 - **Homepage**: https://github.com/alexremn/finalizer-doctor
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#finalizer-doctor`
@@ -1664,7 +1664,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.10.0
+- **Version**: v5.10.4
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -2060,7 +2060,7 @@ revision matches.
 <details>
 <summary><strong>klock</strong> — Watches resources</summary>
 
-- **Version**: v0.9.2
+- **Version**: v0.9.3
 - **Homepage**: https://github.com/applejag/kubectl-klock
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#klock`
@@ -2148,7 +2148,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.15
+- **Version**: v0.10.16
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
@@ -2896,7 +2896,7 @@ revision matches.
 <details>
 <summary><strong>open-svc</strong> — Open the Kubernetes URL(s) for the specified service in your browser.</summary>
 
-- **Version**: v2.6.4
+- **Version**: v2.6.5
 - **Homepage**: https://github.com/superbrothers/kubectl-open-svc-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#open-svc`
@@ -3400,6 +3400,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>readonly-strict</strong> — Read-only wrapper with a sanitized environment</summary>
+
+- **Version**: v0.7.0
+- **Homepage**: https://github.com/Evaneos/kubectl-readonly
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#readonly-strict`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#readonly-strict`, then `kubectl readonly-strict`
+- **Binary**: `kubectl-readonly_strict`
+
+</details>
+<details>
 <summary><strong>readonly</strong> — Guardrail against accidental cluster changes</summary>
 
 - **Version**: v0.7.0
@@ -3774,6 +3785,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>skyline</strong> — Explore the cluster as an interactive 3D space</summary>
+
+- **Version**: v0.1.4
+- **Homepage**: https://github.com/zdk/kubectl-skyline
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#skyline`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#skyline`, then `kubectl skyline`
+- **Binary**: `kubectl-skyline`
+
+</details>
+<details>
 <summary><strong>slice</strong> — Split a multi-YAML file into individual files.</summary>
 
 - **Version**: v1.4.2
@@ -4073,7 +4095,7 @@ revision matches.
 <details>
 <summary><strong>tmux-exec</strong> — An exec multiplexer using Tmux</summary>
 
-- **Version**: v0.5.0
+- **Version**: v0.6.0
 - **Homepage**: https://github.com/predatorray/kubectl-tmux-exec
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#tmux-exec`
@@ -4227,7 +4249,7 @@ revision matches.
 <details>
 <summary><strong>upgrade-check</strong> — Find what breaks before you upgrade</summary>
 
-- **Version**: v0.1.5
+- **Version**: v0.1.7
 - **Homepage**: https://github.com/runtimez-com/kube-upgrade-check
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#upgrade-check`
