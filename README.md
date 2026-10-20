@@ -146,7 +146,7 @@ revision matches.
 <details>
 <summary><strong>aibom</strong> — Read, summarize, and verify AIBOM resources</summary>
 
-- **Version**: v1.5.1
+- **Version**: v1.6.0
 - **Homepage**: https://github.com/GoogleCloudPlatform/k8s-aibom
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#aibom`
@@ -498,7 +498,7 @@ revision matches.
 <details>
 <summary><strong>cilium-policy-gen</strong> — Generate CiliumNetworkPolicy from Hubble flows</summary>
 
-- **Version**: v1.11.0
+- **Version**: v1.12.2
 - **Homepage**: https://github.com/SoulKyu/cpg
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#cilium-policy-gen`
@@ -971,7 +971,7 @@ revision matches.
 <details>
 <summary><strong>curl</strong> — Make curl requests to in-cluster domains and IPs using system curl</summary>
 
-- **Version**: v0.0.1
+- **Version**: v0.0.2
 - **Homepage**: https://github.com/crabique/kubectl-curl
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#curl`
@@ -1026,7 +1026,7 @@ revision matches.
 <details>
 <summary><strong>datadog</strong> — Manage the Datadog Operator</summary>
 
-- **Version**: v1.31.0
+- **Version**: v1.31.1
 - **Homepage**: https://github.com/DataDog/datadog-operator
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#datadog`
@@ -1752,7 +1752,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.8.0
+- **Version**: v0.9.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`

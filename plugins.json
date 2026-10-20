@@ -286,29 +286,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "0cfebd0b7957720f579014efb7b11b94a248c9602afa14cf651c6b9ccebf1019",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.1/kubectl-aibom_v1.5.1_darwin_arm64.tar.gz"
+        "sha256": "e7c49cfc7a922bdee60975762bf43fb064613ed41703aa421a271c0cb927ab99",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "3bcbdae967f74d1ea87f2ae58b95799565941bd3a3d235eeb2051bb2c5870cdf",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.1/kubectl-aibom_v1.5.1_linux_arm64.tar.gz"
+        "sha256": "95d6f5f7fb46c0e402dce5f0881518b59190c4c5c8ad1bb7c67b1000928a0ff0",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "e091b8745d9b80789eb000b5eb7300ea5337938ca9db4047ae550705406973f9",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.1/kubectl-aibom_v1.5.1_darwin_amd64.tar.gz"
+        "sha256": "ab40aab20de482548566e472594181afaecd30d19a94b4e39140c50f0ff7dc51",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "d073a77c1240d5b49cffe484bbadd55ec016ddbcddea6e8c6a8d5298dad06234",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.5.1/kubectl-aibom_v1.5.1_linux_amd64.tar.gz"
+        "sha256": "a3dd2886616cbfe7d84c71680b0c54ab606d16b1a54234a469ec446c989a664b",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.5.1"
+    "version": "v1.6.0"
   },
   "aks": {
     "description": "Interact with and debug AKS clusters",
@@ -1623,29 +1623,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-cilium_policy_gen",
         "files": null,
-        "sha256": "eb0d760815f3d20bb9747c2f0485a917f23653652db21b6e19c1e79f22dfc020",
-        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.11.0/cilium-policy-gen_darwin_arm64.tar.gz"
+        "sha256": "97a50484d7db2ec931dc642e927f3a52df40392d07cf65ec2bc97fb5b237f535",
+        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.12.2/cilium-policy-gen_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-cilium_policy_gen",
         "files": null,
-        "sha256": "acafe5a76ea781c3e4e7bbfe69a08daafa3e970dc2d327e5e71a3158fe234b41",
-        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.11.0/cilium-policy-gen_linux_arm64.tar.gz"
+        "sha256": "54e5b78820472666dee4cac1331b3b92ed3d2ef2f30676b26dd59d086c381bd3",
+        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.12.2/cilium-policy-gen_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-cilium_policy_gen",
         "files": null,
-        "sha256": "ffbf8382942a3e9e639a9ea934c3aa472e70d6c0531838cefb434ed0d2bdc756",
-        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.11.0/cilium-policy-gen_darwin_amd64.tar.gz"
+        "sha256": "362e66f94f1d77fd4d87183588b3b6ae467f120a6ece56ae9228875a612eed62",
+        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.12.2/cilium-policy-gen_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-cilium_policy_gen",
         "files": null,
-        "sha256": "92258bddbc13ae496e556af7b7bd8f1fe6c0609712e920779358e74b3f7e9993",
-        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.11.0/cilium-policy-gen_linux_amd64.tar.gz"
+        "sha256": "73bfb4d676bb0eb8202f4175af7bb411f92baeb39665e16c10e85fbd5f4823f1",
+        "url": "https://github.com/SoulKyu/cpg/releases/download/v1.12.2/cilium-policy-gen_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.11.0"
+    "version": "v1.12.2"
   },
   "cisco-vk": {
     "description": "Run read-only IOS-XE commands through CVK",
@@ -3559,64 +3559,64 @@
         "bin": "./kubectl-curl",
         "files": [
           {
-            "from": "kubectl-curl-*/kubectl-curl",
+            "from": "kubectl-curl",
             "to": "."
           },
           {
-            "from": "kubectl-curl-*/LICENSE",
+            "from": "LICENSE",
             "to": "."
           }
         ],
-        "sha256": "e35a0a41b3838e0a4d35f6f3379101d380477a1e9ecceaee8baebc9da87a6ea9",
-        "url": "https://github.com/crabique/kubectl-curl/archive/refs/tags/v0.0.1.tar.gz"
+        "sha256": "58ed387eb91930117fe2e500d34f003d1b33f968d043de4ef89f211029372798",
+        "url": "https://github.com/crabique/kubectl-curl/releases/download/v0.0.2/kubectl-curl-v0.0.2.tar.gz"
       },
       "aarch64-linux": {
         "bin": "./kubectl-curl",
         "files": [
           {
-            "from": "kubectl-curl-*/kubectl-curl",
+            "from": "kubectl-curl",
             "to": "."
           },
           {
-            "from": "kubectl-curl-*/LICENSE",
+            "from": "LICENSE",
             "to": "."
           }
         ],
-        "sha256": "e35a0a41b3838e0a4d35f6f3379101d380477a1e9ecceaee8baebc9da87a6ea9",
-        "url": "https://github.com/crabique/kubectl-curl/archive/refs/tags/v0.0.1.tar.gz"
+        "sha256": "58ed387eb91930117fe2e500d34f003d1b33f968d043de4ef89f211029372798",
+        "url": "https://github.com/crabique/kubectl-curl/releases/download/v0.0.2/kubectl-curl-v0.0.2.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "./kubectl-curl",
         "files": [
           {
-            "from": "kubectl-curl-*/kubectl-curl",
+            "from": "kubectl-curl",
             "to": "."
           },
           {
-            "from": "kubectl-curl-*/LICENSE",
+            "from": "LICENSE",
             "to": "."
           }
         ],
-        "sha256": "e35a0a41b3838e0a4d35f6f3379101d380477a1e9ecceaee8baebc9da87a6ea9",
-        "url": "https://github.com/crabique/kubectl-curl/archive/refs/tags/v0.0.1.tar.gz"
+        "sha256": "58ed387eb91930117fe2e500d34f003d1b33f968d043de4ef89f211029372798",
+        "url": "https://github.com/crabique/kubectl-curl/releases/download/v0.0.2/kubectl-curl-v0.0.2.tar.gz"
       },
       "x86_64-linux": {
         "bin": "./kubectl-curl",
         "files": [
           {
-            "from": "kubectl-curl-*/kubectl-curl",
+            "from": "kubectl-curl",
             "to": "."
           },
           {
-            "from": "kubectl-curl-*/LICENSE",
+            "from": "LICENSE",
             "to": "."
           }
         ],
-        "sha256": "e35a0a41b3838e0a4d35f6f3379101d380477a1e9ecceaee8baebc9da87a6ea9",
-        "url": "https://github.com/crabique/kubectl-curl/archive/refs/tags/v0.0.1.tar.gz"
+        "sha256": "58ed387eb91930117fe2e500d34f003d1b33f968d043de4ef89f211029372798",
+        "url": "https://github.com/crabique/kubectl-curl/releases/download/v0.0.2/kubectl-curl-v0.0.2.tar.gz"
       }
     },
-    "version": "v0.0.1"
+    "version": "v0.0.2"
   },
   "custom-cols": {
     "description": "A \"kubectl get\" replacement with customizable column presets",
@@ -3867,8 +3867,8 @@
             "to": "."
           }
         ],
-        "sha256": "5692dceb7d3276757df25bdac950b4633b7ab93ed5b88fed714405e0c09ea84b",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.0/kubectl-datadog_1.31.0_darwin_arm64.zip"
+        "sha256": "da58af174226d42a70f35bd406f0f20b6567b2b8e3b61cef219211b82109f1d0",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_darwin_arm64.zip"
       },
       "aarch64-linux": {
         "bin": "kubectl-datadog",
@@ -3882,8 +3882,8 @@
             "to": "."
           }
         ],
-        "sha256": "55a62f1c82be70e6131cb6220f4fabc1e5885609760dac86ea2b6902f0936946",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.0/kubectl-datadog_1.31.0_linux_arm64.zip"
+        "sha256": "4dc7062f7a09a5d5b869ea62746390e05f0225a8ac9b40596b2610019efa8d48",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_linux_arm64.zip"
       },
       "x86_64-darwin": {
         "bin": "kubectl-datadog",
@@ -3897,8 +3897,8 @@
             "to": "."
           }
         ],
-        "sha256": "a8f9da581e816fc95dc5e7f910e814b433c963ac88cd3e314aa27916741b7e1b",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.0/kubectl-datadog_1.31.0_darwin_amd64.zip"
+        "sha256": "dc2c6b209dc449ccb4687318eae1985cd8084e22311b180e48e952f16949a966",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_darwin_amd64.zip"
       },
       "x86_64-linux": {
         "bin": "kubectl-datadog",
@@ -3912,11 +3912,11 @@
             "to": "."
           }
         ],
-        "sha256": "a1aa0763503772cb91a2efe73aeaa8da3e3abe461475b8a9c4e95b374139f944",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.0/kubectl-datadog_1.31.0_linux_amd64.zip"
+        "sha256": "efe9c736ff2a42c438d1128fe83e25eb88b0acb1b47608d9984df8a944451479",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_linux_amd64.zip"
       }
     },
-    "version": "v1.31.0"
+    "version": "v1.31.1"
   },
   "datree": {
     "description": "Scan your cluster resources for misconfigurations",
@@ -6672,29 +6672,29 @@
       "aarch64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "b7d7bdc66bfb7c4b14a9a39942d2241f0765b7c1f5fa9f86acc97d6afd70bd3a",
-        "url": "https://github.com/jzills/kx/releases/download/v0.8.0/kx_v0.8.0_darwin_arm64.tar.gz"
+        "sha256": "2215a093880211ba26dcdf01ca80cdf71ef1ee451f6ad703b2102bbd5fa002a0",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "0cbbd6328cb6ca07a58fd0097a1883a8192bad366d50210b8a159a5b83c1410d",
-        "url": "https://github.com/jzills/kx/releases/download/v0.8.0/kx_v0.8.0_linux_arm64.tar.gz"
+        "sha256": "1e60a4628c280fe825b0d5a06daa3bdc933d82c409a20e8fbc103e49ce679520",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "eb338204631aede6cc379bd60480131a5088bb8b1f0ddf2883579ca776ce6045",
-        "url": "https://github.com/jzills/kx/releases/download/v0.8.0/kx_v0.8.0_darwin_amd64.tar.gz"
+        "sha256": "d57da6620d90722e6b7803d389d1dfbb37261118fc9e73dfc21074df7fd23f6f",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "db21ecf97be3d6d5f8b3c99887e121d3e58de014a333a617f5e2958beb32d341",
-        "url": "https://github.com/jzills/kx/releases/download/v0.8.0/kx_v0.8.0_linux_amd64.tar.gz"
+        "sha256": "f55739099511359842d21c8cd2d9b398fad04436cd8745ded0bec3894c9467e4",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.8.0"
+    "version": "v0.9.0"
   },
   "iexec": {
     "description": "Interactive selection tool for `kubectl exec`",
