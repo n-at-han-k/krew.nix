@@ -289,7 +289,7 @@ revision matches.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.34
+- **Version**: v0.1.35
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
@@ -1664,7 +1664,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.10.4
+- **Version**: v5.10.9
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1752,7 +1752,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.9.0
+- **Version**: v0.9.1
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -2335,7 +2335,7 @@ revision matches.
 <details>
 <summary><strong>kyverno</strong> — Kyverno is a policy engine for kubernetes</summary>
 
-- **Version**: v1.19.1
+- **Version**: v1.19.2
 - **Homepage**: https://github.com/kyverno/kyverno
 - **Platforms**: aarch64-darwin, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kyverno`
@@ -2918,7 +2918,7 @@ revision matches.
 <details>
 <summary><strong>openunison-cli</strong> — Login to a kubernetes cluster via OpenUnison</summary>
 
-- **Version**: v1.5.1
+- **Version**: v1.5.2
 - **Homepage**: https://github.com/OpenUnison/openunison-cli
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#openunison-cli`
@@ -3138,7 +3138,7 @@ revision matches.
 <details>
 <summary><strong>podtrace</strong> — eBPF diagnostics for Kubernetes pods</summary>
 
-- **Version**: v0.14.10
+- **Version**: v0.15.0
 - **Homepage**: https://github.com/gma1k/podtrace
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#podtrace`
@@ -4128,7 +4128,7 @@ revision matches.
 <details>
 <summary><strong>topx</strong> — Monitor CPU and memory resources in real-time</summary>
 
-- **Version**: v1.2.7
+- **Version**: v1.2.8
 - **Homepage**: https://github.com/mms-gianni/kubectl-topx
 - **Platforms**: aarch64-darwin, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#topx`

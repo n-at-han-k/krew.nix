@@ -845,29 +845,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "ab7de5ae3d2ad7d60612cb8271986ff69ce042a1ec1c07a05d9ace7d160dbbe8",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.34/kubectl-attune_darwin_arm64.tar.gz"
+        "sha256": "2c253519cd5b60c127f2bf0c89bd2165cfd2f33e218b425dd4f2ee278f75fc00",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.35/kubectl-attune_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "a5ed8d9bff7007c4f8a45d0d46fe2739677fb17939a6dbb2e5409b7391ec91c6",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.34/kubectl-attune_linux_arm64.tar.gz"
+        "sha256": "59c54f108fe4b1ef3629b6cc914fadd572af3eaca5315237277bdc607d11071a",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.35/kubectl-attune_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "f3fd305b49dbb77881c0ba0b00a079047159e4ff055766cc8c66c9b11411abfb",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.34/kubectl-attune_darwin_amd64.tar.gz"
+        "sha256": "9e34ab92afb3efa804674818513f52096ed227cc6e49258f9d041528aa9b6b57",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.35/kubectl-attune_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "9c3dc3e56559923cb214df504f1b25ea23d0fcd56a21991faa12eff6d93a837e",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.34/kubectl-attune_linux_amd64.tar.gz"
+        "sha256": "68cacecd4ed3ffe4495cdcc129c1d593b16c23f26a4a23f1b173c138727510d4",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.35/kubectl-attune_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.1.34"
+    "version": "v0.1.35"
   },
   "auth-proxy": {
     "description": "Authentication proxy to a pod or service",
@@ -6400,29 +6400,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "8cc0a2f33bf9c58991fa2591b5164c18412a14a8aa86b7a13974a532b43f25b2",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.4/kubectl-gs-v5.10.4-darwin-arm64.tar.gz"
+        "sha256": "904ea9e34bb5043b40955705b124cd0f9c973d16fa9edf3c3879d20c235cf5ec",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.9/kubectl-gs-v5.10.9-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "001fc18fe5bd77b15ea7d8b527382181650c7ccd71d5af4890bbe1c4c04c69e1",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.4/kubectl-gs-v5.10.4-linux-arm64.tar.gz"
+        "sha256": "d8d449a564a4404029fc7b1b1972c08d6e0e198cc06b8dd9c33b346a5cd7c457",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.9/kubectl-gs-v5.10.9-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "6ca8dbcb873c6c6d906b730fc1c2821d1c438119ec0fce8d1a00a975d86aeb8c",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.4/kubectl-gs-v5.10.4-darwin-amd64.tar.gz"
+        "sha256": "a8984a06c3f24f003ec28bc523c73e971db619e325c37d604267e0aa8f1f0d80",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.9/kubectl-gs-v5.10.9-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "68a4ce981cf8603208252a4be9558565824bc78532b270b7ba2f316370b0e23b",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.4/kubectl-gs-v5.10.4-linux-amd64.tar.gz"
+        "sha256": "f4424e7257d9badbef98b429b6a47247312d6712eb53ce1781ff177beef9df02",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.10.9/kubectl-gs-v5.10.9-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.10.4"
+    "version": "v5.10.9"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -6672,29 +6672,29 @@
       "aarch64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "2215a093880211ba26dcdf01ca80cdf71ef1ee451f6ad703b2102bbd5fa002a0",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_darwin_arm64.tar.gz"
+        "sha256": "3157297aecec8d9b8f5de555f33ec8c5da29bfa851c40a193986a61124e6348c",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.1/kx_v0.9.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "1e60a4628c280fe825b0d5a06daa3bdc933d82c409a20e8fbc103e49ce679520",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_linux_arm64.tar.gz"
+        "sha256": "9d9d2620bdd4ab15cfc5ec5a5ca0b43d96cba12c0e1a0aed0131fba6b2ceb596",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.1/kx_v0.9.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "d57da6620d90722e6b7803d389d1dfbb37261118fc9e73dfc21074df7fd23f6f",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_darwin_amd64.tar.gz"
+        "sha256": "079ceb3ed9cf706d21f4eaf9e1004e1f2eac6d607dca687226d107033f8802f5",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.1/kx_v0.9.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "f55739099511359842d21c8cd2d9b398fad04436cd8745ded0bec3894c9467e4",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.0/kx_v0.9.0_linux_amd64.tar.gz"
+        "sha256": "1e30431ed0cd3f13b7e40a6225ca0f4dd8f2000b00f8f81b709b340638dcc3cf",
+        "url": "https://github.com/jzills/kx/releases/download/v0.9.1/kx_v0.9.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.9.0"
+    "version": "v0.9.1"
   },
   "iexec": {
     "description": "Interactive selection tool for `kubectl exec`",
@@ -8839,8 +8839,8 @@
             "to": "."
           }
         ],
-        "sha256": "2cf5febbedaafca5d3c7819925a49f9723bf4c3337a1327b6f72970480af385a",
-        "url": "https://github.com/kyverno/kyverno/releases/download/v1.19.1/kyverno-cli_v1.19.1_darwin_arm64.tar.gz"
+        "sha256": "7915c03c613c22363a100adb3da8d06f2e2626d9d21a98b97f921795ffdc536f",
+        "url": "https://github.com/kyverno/kyverno/releases/download/v1.19.2/kyverno-cli_v1.19.2_darwin_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kyverno",
@@ -8854,8 +8854,8 @@
             "to": "."
           }
         ],
-        "sha256": "d9d7a857755ccd027cba8b2a5146a515c1590d65b38cb37a2170809329e4f393",
-        "url": "https://github.com/kyverno/kyverno/releases/download/v1.19.1/kyverno-cli_v1.19.1_darwin_x86_64.tar.gz"
+        "sha256": "b645654ab8e65bd4aa64de9228e274b388bab19b3404a4e9af70174b3d5ad230",
+        "url": "https://github.com/kyverno/kyverno/releases/download/v1.19.2/kyverno-cli_v1.19.2_darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kyverno",
@@ -8869,11 +8869,11 @@
             "to": "."
           }
         ],
-        "sha256": "b38228f367fc0fdc2b08f4c83ea50ac5f16c60ff8d62d76a66157c33c47b70ae",
-        "url": "https://github.com/kyverno/kyverno/releases/download/v1.19.1/kyverno-cli_v1.19.1_linux_x86_64.tar.gz"
+        "sha256": "357eaf1df8bc24ddd5a73979fadeaae6a032e8710f11af264229756e4956bf4a",
+        "url": "https://github.com/kyverno/kyverno/releases/download/v1.19.2/kyverno-cli_v1.19.2_linux_x86_64.tar.gz"
       }
     },
-    "version": "v1.19.1"
+    "version": "v1.19.2"
   },
   "lambda-g": {
     "description": "6D resource imbalance scanner for K8s",
@@ -11309,29 +11309,29 @@
       "aarch64-darwin": {
         "bin": "openunison-cli",
         "files": null,
-        "sha256": "e73d22a59dfe7a2b2314ee98240b7124df92d03a12372c888a8a5f016e9ab151",
-        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.1-macos-arm64.zip"
+        "sha256": "809f8388e6d25d6eb6efc418358cdbbf271b885ee73f55e06dee65bb30e3c859",
+        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.2-macos-arm64.zip"
       },
       "aarch64-linux": {
         "bin": "openunison-cli",
         "files": null,
-        "sha256": "008c1fd208fd87c09440324273ad77d81390f629a126970f0f73990acb10ba95",
-        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.1-linux.zip"
+        "sha256": "3174d9b9552b33ba585484b11bb52c3c436088eaa396d879fc81e56e560121b8",
+        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.2-linux.zip"
       },
       "x86_64-darwin": {
         "bin": "openunison-cli",
         "files": null,
-        "sha256": "56eb4b7e2721e05fa52894c856b0ab111be008026e76f8360100c6fde8e19a1f",
-        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.1-macos.zip"
+        "sha256": "e366736cc314830269c7b28ba6064847f9af741e773c33684b967abe1026057a",
+        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.2-macos.zip"
       },
       "x86_64-linux": {
         "bin": "openunison-cli",
         "files": null,
-        "sha256": "008c1fd208fd87c09440324273ad77d81390f629a126970f0f73990acb10ba95",
-        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.1-linux.zip"
+        "sha256": "3174d9b9552b33ba585484b11bb52c3c436088eaa396d879fc81e56e560121b8",
+        "url": "https://nexus.tremolo.io/repository/openunison-cli/openunison-cli-v1.5.2-linux.zip"
       }
     },
-    "version": "v1.5.1"
+    "version": "v1.5.2"
   },
   "operator": {
     "description": "Manage operators with Operator Lifecycle Manager",
@@ -12131,29 +12131,29 @@
       "aarch64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "26f4d86b1199b84464003db2314ee3b985fa6262c79355a6ac883b8cf6d77026",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.10/podtrace_darwin_arm64.tar.gz"
+        "sha256": "9a2b2edf03517cc4b4dd753dc681afe0b720701eea651659cfeb77f03c32dfd3",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "ebce1ef7250655c856eef4baf08ec1f3b498f138ba8bcca5487dc7ceaf3ce52e",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.10/podtrace_linux_arm64.tar.gz"
+        "sha256": "478d92c542d25d588aac7f653a955fef25625aa951207c290719f3fe4ca4b4b9",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "e663cbd1ef47e11285fe347753859d534f7f2b46de762fbd23790a1dac645d9e",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.10/podtrace_darwin_amd64.tar.gz"
+        "sha256": "c0d91b6ea817730429dab0e30deddd2dc94afa1368dd1b271b01acd204e73d72",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "00b8fc47849d475d9f2d0f0d9f9762886b42db8920114df664e158e7e714d2a1",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.14.10/podtrace_linux_amd64.tar.gz"
+        "sha256": "32575d9032051cdb6f2a5559e9dafa90c1674ca93d06914589d79e0ea3dc65b0",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.14.10"
+    "version": "v0.15.0"
   },
   "podump": {
     "description": "Dump pod network traffic",
@@ -16103,23 +16103,23 @@
       "aarch64-darwin": {
         "bin": "kubectl-topx",
         "files": null,
-        "sha256": "953ef858517a2a2e7618792c4ca88b203b8dc2ac8e1e4e1e5df5152267da036d",
-        "url": "https://github.com/mms-gianni/kubectl-topx/releases/download/v1.2.7/kubectl-topx-v1.2.7-darwin-arm64.tar.gz"
+        "sha256": "feee4b7c7ddd90881fe9c456457da0cef7375c2c9370377da8947113c057693b",
+        "url": "https://github.com/mms-gianni/kubectl-topx/releases/download/v1.2.8/kubectl-topx-v1.2.8-darwin-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-topx",
         "files": null,
-        "sha256": "befc8de276b75a3d9874c809109b8bd07f062666e25b369e084a264d230d8c39",
-        "url": "https://github.com/mms-gianni/kubectl-topx/releases/download/v1.2.7/kubectl-topx-v1.2.7-darwin-amd64.tar.gz"
+        "sha256": "983da2c02c21d04a5d35880a2fa7a978e2b9b1586af2c7fe0939e324393e2c1b",
+        "url": "https://github.com/mms-gianni/kubectl-topx/releases/download/v1.2.8/kubectl-topx-v1.2.8-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-topx",
         "files": null,
-        "sha256": "011dee3d2765e6cbb3084e176da3874f9a1ccdcea997aa68a471737f9496f990",
-        "url": "https://github.com/mms-gianni/kubectl-topx/releases/download/v1.2.7/kubectl-topx-v1.2.7-linux-amd64.tar.gz"
+        "sha256": "991d76f0382269040e10592689c479b40a85d99b3403dffcf88aa71426828126",
+        "url": "https://github.com/mms-gianni/kubectl-topx/releases/download/v1.2.8/kubectl-topx-v1.2.8-linux-amd64.tar.gz"
       }
     },
-    "version": "v1.2.7"
+    "version": "v1.2.8"
   },
   "trace": {
     "description": "Trace Kubernetes pods and nodes with system tools",
