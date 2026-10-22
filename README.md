@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-416 plugins.
+417 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -146,7 +146,7 @@ revision matches.
 <details>
 <summary><strong>aibom</strong> — Read, summarize, and verify AIBOM resources</summary>
 
-- **Version**: v1.6.0
+- **Version**: v1.6.1
 - **Homepage**: https://github.com/GoogleCloudPlatform/k8s-aibom
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#aibom`
@@ -1024,9 +1024,20 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>datadiff</strong> — Show kubectl diff as changed fields, not lines</summary>
+
+- **Version**: v0.6.0
+- **Homepage**: https://github.com/dimanovikov/datadiff
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#datadiff`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#datadiff`, then `kubectl datadiff`
+- **Binary**: `kubectl-datadiff`
+
+</details>
+<details>
 <summary><strong>datadog</strong> — Manage the Datadog Operator</summary>
 
-- **Version**: v1.31.1
+- **Version**: v1.31.2
 - **Homepage**: https://github.com/DataDog/datadog-operator
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#datadog`
@@ -4414,7 +4425,7 @@ revision matches.
 <details>
 <summary><strong>volsync</strong> — Manage replication with the VolSync operator</summary>
 
-- **Version**: v0.16.0
+- **Version**: v0.17.0
 - **Homepage**: https://github.com/backube/volsync
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#volsync`
@@ -4491,7 +4502,7 @@ revision matches.
 <details>
 <summary><strong>weka</strong> — Manage WEKA deployments in Kubernetes</summary>
 
-- **Version**: v0.4.1
+- **Version**: v0.4.2
 - **Homepage**: https://github.com/weka/kubectl-weka
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#weka`

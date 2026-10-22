@@ -286,29 +286,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "e7c49cfc7a922bdee60975762bf43fb064613ed41703aa421a271c0cb927ab99",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_darwin_arm64.tar.gz"
+        "sha256": "c38fe329fb062583c92b9b66799a0fcdd6efcfe4db7f1f6728c7cf68f0fd3aeb",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.1/kubectl-aibom_v1.6.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "95d6f5f7fb46c0e402dce5f0881518b59190c4c5c8ad1bb7c67b1000928a0ff0",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_linux_arm64.tar.gz"
+        "sha256": "c4e01c0c688215bd0358e164a49cac4a03018aae2d1d23a9e815e0302338f36b",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.1/kubectl-aibom_v1.6.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "ab40aab20de482548566e472594181afaecd30d19a94b4e39140c50f0ff7dc51",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_darwin_amd64.tar.gz"
+        "sha256": "550abfbfdc8b3a18a862c9219ada6ac6ddde9333c87bc865db68f2748e87db30",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.1/kubectl-aibom_v1.6.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-aibom",
         "files": null,
-        "sha256": "a3dd2886616cbfe7d84c71680b0c54ab606d16b1a54234a469ec446c989a664b",
-        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.0/kubectl-aibom_v1.6.0_linux_amd64.tar.gz"
+        "sha256": "3ae8c76390684ba0beab3737423b8b289ab964d635c87c96dfea2aa60d1ff40c",
+        "url": "https://github.com/GoogleCloudPlatform/k8s-aibom/releases/download/v1.6.1/kubectl-aibom_v1.6.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.6.0"
+    "version": "v1.6.1"
   },
   "aks": {
     "description": "Interact with and debug AKS clusters",
@@ -3851,6 +3851,89 @@
     },
     "version": "v0.18.2"
   },
+  "datadiff": {
+    "description": "Show kubectl diff as changed fields, not lines",
+    "homepage": "https://github.com/dimanovikov/datadiff",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "datadiff",
+        "files": [
+          {
+            "from": "datadiff",
+            "to": "."
+          },
+          {
+            "from": "LICENSE-MIT",
+            "to": "LICENSE"
+          },
+          {
+            "from": "LICENSE-APACHE",
+            "to": "."
+          }
+        ],
+        "sha256": "4e12066e92609c4ce32479d798f19772bca8fdc40e4c547506834f95a4422e5f",
+        "url": "https://github.com/dimanovikov/datadiff/releases/download/v0.6.0/datadiff-v0.6.0-aarch64-apple-darwin.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "datadiff",
+        "files": [
+          {
+            "from": "datadiff",
+            "to": "."
+          },
+          {
+            "from": "LICENSE-MIT",
+            "to": "LICENSE"
+          },
+          {
+            "from": "LICENSE-APACHE",
+            "to": "."
+          }
+        ],
+        "sha256": "270a053074fd1214e15289cda14acbfee7f22e1eb7166e3d9baf5fcf559d6a7c",
+        "url": "https://github.com/dimanovikov/datadiff/releases/download/v0.6.0/datadiff-v0.6.0-aarch64-unknown-linux-gnu.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "datadiff",
+        "files": [
+          {
+            "from": "datadiff",
+            "to": "."
+          },
+          {
+            "from": "LICENSE-MIT",
+            "to": "LICENSE"
+          },
+          {
+            "from": "LICENSE-APACHE",
+            "to": "."
+          }
+        ],
+        "sha256": "dd2477b1f4aec6c11338cc55bb83b475634351816c58acb11b99de5514bd12ca",
+        "url": "https://github.com/dimanovikov/datadiff/releases/download/v0.6.0/datadiff-v0.6.0-x86_64-apple-darwin.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "datadiff",
+        "files": [
+          {
+            "from": "datadiff",
+            "to": "."
+          },
+          {
+            "from": "LICENSE-MIT",
+            "to": "LICENSE"
+          },
+          {
+            "from": "LICENSE-APACHE",
+            "to": "."
+          }
+        ],
+        "sha256": "2949db89a8449b9ec1808e2cec3e0e5f273d7a2c19730259516abc0cd3d8aab7",
+        "url": "https://github.com/dimanovikov/datadiff/releases/download/v0.6.0/datadiff-v0.6.0-x86_64-unknown-linux-gnu.tar.gz"
+      }
+    },
+    "version": "v0.6.0"
+  },
   "datadog": {
     "description": "Manage the Datadog Operator",
     "homepage": "https://github.com/DataDog/datadog-operator",
@@ -3867,8 +3950,8 @@
             "to": "."
           }
         ],
-        "sha256": "da58af174226d42a70f35bd406f0f20b6567b2b8e3b61cef219211b82109f1d0",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_darwin_arm64.zip"
+        "sha256": "8f9a6a9e00e5de0520063889af5c3acc08f4ec55cdbcf15e7a56bff9c136ffec",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.2/kubectl-datadog_1.31.2_darwin_arm64.zip"
       },
       "aarch64-linux": {
         "bin": "kubectl-datadog",
@@ -3882,8 +3965,8 @@
             "to": "."
           }
         ],
-        "sha256": "4dc7062f7a09a5d5b869ea62746390e05f0225a8ac9b40596b2610019efa8d48",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_linux_arm64.zip"
+        "sha256": "02b3b44a6176735d6eaeb94f3f5404e7d474bb24620e98c680b5ff136b6263a5",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.2/kubectl-datadog_1.31.2_linux_arm64.zip"
       },
       "x86_64-darwin": {
         "bin": "kubectl-datadog",
@@ -3897,8 +3980,8 @@
             "to": "."
           }
         ],
-        "sha256": "dc2c6b209dc449ccb4687318eae1985cd8084e22311b180e48e952f16949a966",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_darwin_amd64.zip"
+        "sha256": "1e72183b4defc5589a1ee03eee800666abf0841438640edb1a1ad512c223074a",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.2/kubectl-datadog_1.31.2_darwin_amd64.zip"
       },
       "x86_64-linux": {
         "bin": "kubectl-datadog",
@@ -3912,11 +3995,11 @@
             "to": "."
           }
         ],
-        "sha256": "efe9c736ff2a42c438d1128fe83e25eb88b0acb1b47608d9984df8a944451479",
-        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.1/kubectl-datadog_1.31.1_linux_amd64.zip"
+        "sha256": "f0e6d4852ffebfada574d927366d448fbc7513bbc2645ef24f017e43e7071b82",
+        "url": "https://github.com/DataDog/datadog-operator/releases/download/v1.31.2/kubectl-datadog_1.31.2_linux_amd64.zip"
       }
     },
-    "version": "v1.31.1"
+    "version": "v1.31.2"
   },
   "datree": {
     "description": "Scan your cluster resources for misconfigurations",
@@ -17100,8 +17183,8 @@
             "to": "."
           }
         ],
-        "sha256": "016c660f0444e04cab2a87a2c1e578d1e09cda463d7c669cd4e6385eeab85973",
-        "url": "https://github.com/backube/volsync/releases/download/v0.16.0/kubectl-volsync-darwin-arm64.tar.gz"
+        "sha256": "1322700e0ddd2e4dae00221de1a79d7006d39d2fa2c209382539b2ca3695c138",
+        "url": "https://github.com/backube/volsync/releases/download/v0.17.0/kubectl-volsync-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-volsync",
@@ -17115,8 +17198,8 @@
             "to": "."
           }
         ],
-        "sha256": "a250a398b3cebb0ede936bc9602ece4deffb6de7ec55b33f7f5c443d6811491e",
-        "url": "https://github.com/backube/volsync/releases/download/v0.16.0/kubectl-volsync-linux-arm64.tar.gz"
+        "sha256": "ebc22662ee549c1517d5f9868c22fbe1cf178fe54bd5f43e1e1e85e237f733cd",
+        "url": "https://github.com/backube/volsync/releases/download/v0.17.0/kubectl-volsync-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-volsync",
@@ -17130,8 +17213,8 @@
             "to": "."
           }
         ],
-        "sha256": "c570e860c733a51b4d25d58b246253e12249665345b24ff25b16670bf53c86aa",
-        "url": "https://github.com/backube/volsync/releases/download/v0.16.0/kubectl-volsync-darwin-amd64.tar.gz"
+        "sha256": "a508ac999eed4b6ac306b2d2aa939a80ba8c40e499023e15da91bbb2cea24b42",
+        "url": "https://github.com/backube/volsync/releases/download/v0.17.0/kubectl-volsync-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-volsync",
@@ -17145,11 +17228,11 @@
             "to": "."
           }
         ],
-        "sha256": "bbf4532dd24684dba864ea7d2c91f9d9d9d70ce093a86c6f288ccb07800b07e8",
-        "url": "https://github.com/backube/volsync/releases/download/v0.16.0/kubectl-volsync-linux-amd64.tar.gz"
+        "sha256": "dd77637ac2342a390222b75513f4cb57d377ee81646408f111ba0de767a5e492",
+        "url": "https://github.com/backube/volsync/releases/download/v0.17.0/kubectl-volsync-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.16.0"
+    "version": "v0.17.0"
   },
   "vpa-recommendation": {
     "description": "Compare VPA recommendations to actual resources requests",
@@ -17400,29 +17483,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-weka",
         "files": null,
-        "sha256": "0d1d8ea28d47a631d7d08b20525a7a02179f1f75c251069ccd48b5594a48c991",
-        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.1/kubectl-weka_v0.4.1_darwin_arm64.tar.gz"
+        "sha256": "77bd83696eaced28a6c623017a2ef78a150a731c42ae524993678250e6aaed1b",
+        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.2/kubectl-weka_v0.4.2_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-weka",
         "files": null,
-        "sha256": "44aff00ed09bc674f2a08880342ec74be8d16ef70156dcd1759339e4a6439b5b",
-        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.1/kubectl-weka_v0.4.1_linux_arm64.tar.gz"
+        "sha256": "0b9108a51da0c75727eaff004e7ce62ac128bbdcb5d5297475cf2de3e8877e52",
+        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.2/kubectl-weka_v0.4.2_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-weka",
         "files": null,
-        "sha256": "1adcdaa3d80cce20af6e199dea3c0eac65800d9793081b762ceceec96cc15cbe",
-        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.1/kubectl-weka_v0.4.1_darwin_amd64.tar.gz"
+        "sha256": "729751fb8e3ba3d3105cdb333c85f397be73946ad1fa835f2c827ca4da42808f",
+        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.2/kubectl-weka_v0.4.2_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-weka",
         "files": null,
-        "sha256": "b2b3d1c7662c7febfa9bb08a2bfad126f81e5669ac44ddc4e1fb8052ed3dd5a8",
-        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.1/kubectl-weka_v0.4.1_linux_amd64.tar.gz"
+        "sha256": "49d688d0277552e541cf4ea1f4a8905d79a1a06a772bcbf410346537385a99bc",
+        "url": "https://github.com/weka/kubectl-weka/releases/download/v0.4.2/kubectl-weka_v0.4.2_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.4.1"
+    "version": "v0.4.2"
   },
   "whisper-secret": {
     "description": "Create secrets with improved privacy",
