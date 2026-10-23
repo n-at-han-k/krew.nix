@@ -146,7 +146,7 @@ revision matches.
 <details>
 <summary><strong>aibom</strong> — Read, summarize, and verify AIBOM resources</summary>
 
-- **Version**: v1.6.1
+- **Version**: v1.6.2
 - **Homepage**: https://github.com/GoogleCloudPlatform/k8s-aibom
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#aibom`
@@ -1609,7 +1609,7 @@ revision matches.
 <details>
 <summary><strong>glance</strong> — View cluster resource allocation and usage.</summary>
 
-- **Version**: v0.3.0
+- **Version**: v0.3.1
 - **Homepage**: https://gitlab.com/davidxarnold/glance
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#glance`
@@ -1664,7 +1664,7 @@ revision matches.
 <details>
 <summary><strong>grep</strong> — Filter Kubernetes resources by matching their names</summary>
 
-- **Version**: v1.32.0
+- **Version**: v1.33.0
 - **Homepage**: https://github.com/guessi/kubectl-grep
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#grep`
@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.10.9
+- **Version**: v5.11.5
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1763,7 +1763,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.9.1
+- **Version**: v0.9.2
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -2280,7 +2280,7 @@ revision matches.
 <details>
 <summary><strong>kubetail</strong> — Logging tool for Kubernetes with real-time web dashboard</summary>
 
-- **Version**: v0.17.0
+- **Version**: v0.18.1
 - **Homepage**: https://github.com/kubetail-org/kubetail
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubetail`
@@ -2302,7 +2302,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.20.2
+- **Version**: v0.20.3
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
@@ -2335,7 +2335,7 @@ revision matches.
 <details>
 <summary><strong>kuttl</strong> — Declaratively run and test operators</summary>
 
-- **Version**: v0.27.0
+- **Version**: v0.28.0
 - **Homepage**: https://github.com/kudobuilder/kuttl
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kuttl`
@@ -3193,7 +3193,7 @@ revision matches.
 <details>
 <summary><strong>preflight</strong> — Executes application preflight tests in a cluster</summary>
 
-- **Version**: v0.134.1
+- **Version**: v0.134.2
 - **Homepage**: https://github.com/replicatedhq/troubleshoot
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#preflight`
@@ -3336,7 +3336,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.17.0
+- **Version**: v1.18.0
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3963,7 +3963,7 @@ revision matches.
 <details>
 <summary><strong>status</strong> — Show status of Kubernetes resources at a glance.</summary>
 
-- **Version**: v0.7.27
+- **Version**: v0.7.28
 - **Homepage**: https://github.com/bergerx/kubectl-status
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#status`
@@ -3974,7 +3974,7 @@ revision matches.
 <details>
 <summary><strong>stern</strong> — Multi pod and container log tailing</summary>
 
-- **Version**: v1.34.0
+- **Version**: v1.35.0
 - **Homepage**: https://github.com/stern/stern
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#stern`
@@ -4029,7 +4029,7 @@ revision matches.
 <details>
 <summary><strong>support-bundle</strong> — Creates support bundles for off-cluster analysis</summary>
 
-- **Version**: v0.134.1
+- **Version**: v0.134.2
 - **Homepage**: https://github.com/replicatedhq/troubleshoot
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#support-bundle`
@@ -4348,7 +4348,7 @@ revision matches.
 <details>
 <summary><strong>view-serviceaccount-kubeconfig</strong> — Show a kubeconfig setting to access the apiserver with a specified serviceaccount.</summary>
 
-- **Version**: v2.4.0
+- **Version**: v2.4.1
 - **Homepage**: https://github.com/superbrothers/kubectl-view-serviceaccount-kubeconfig-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#view-serviceaccount-kubeconfig`
