@@ -6483,29 +6483,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "de44dfc791268c4e4b263d95787033049175f608f66d8475d2fb2c58f4ca0d29",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.5/kubectl-gs-v5.11.5-darwin-arm64.tar.gz"
+        "sha256": "2d10784be6107923a3c35326f55dd1247d2e67cc9708fd47fcdafff93775eafc",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "fe3b1845b4d3356bbc1d2a03daf31fb68f2bbccd992644c718750724be4f6a18",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.5/kubectl-gs-v5.11.5-linux-arm64.tar.gz"
+        "sha256": "db21c632d61bc0179992f4be755a34e4bc756026db4a3bf82bb5277fba3f4832",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "125031e978e51834344a2549cd2a01d3cda5017235e53681774e4c3aeb34aae9",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.5/kubectl-gs-v5.11.5-darwin-amd64.tar.gz"
+        "sha256": "c5f8acedeb2dcb600c4514443e9c077ac6f87906db44662754d89244e605b5e4",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "90cb953d616539018bbe37e6521fcfef0d94ecda770bc243ddc3f90b71dd76e9",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.5/kubectl-gs-v5.11.5-linux-amd64.tar.gz"
+        "sha256": "18d95d225f512463f754aee1188814c15265219ec8d3ed10ad7bd3f78fca4e1c",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.11.5"
+    "version": "v5.11.9"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -6755,29 +6755,29 @@
       "aarch64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "8e5810854cff34b804605fa5ab64ea47cb880de1834db23c1cc4f4385c5c4e2c",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.2/kx_v0.9.2_darwin_arm64.tar.gz"
+        "sha256": "4255274fe47a5d7ee78435c68a2c0faec9e976f21db9c5ac4c08c5cee9314a9b",
+        "url": "https://github.com/jzills/kx/releases/download/v0.10.0/kx_v0.10.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "23fe1accc4833f7caee776bc6b5bdb365b319571cdea90058589e5d428bf3f99",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.2/kx_v0.9.2_linux_arm64.tar.gz"
+        "sha256": "71640b96e04e41cfe4d52be3e88e0cf629a47ce4f607ff971cb1946819861688",
+        "url": "https://github.com/jzills/kx/releases/download/v0.10.0/kx_v0.10.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "401c309b7731c5a879173d3706d07bccc67295eb74351553e1f338d53366e97f",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.2/kx_v0.9.2_darwin_amd64.tar.gz"
+        "sha256": "c09e6718cac39114e3e8d86b05ff0e6c6917d009db168e61835a2a4c990c7db2",
+        "url": "https://github.com/jzills/kx/releases/download/v0.10.0/kx_v0.10.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "66faa63195aec66487997703c3970438f47f26bd50794599d1ff27b428c4fde8",
-        "url": "https://github.com/jzills/kx/releases/download/v0.9.2/kx_v0.9.2_linux_amd64.tar.gz"
+        "sha256": "44ecfd9cc8361f00b8beadcf51cfde7ed5013ae6487770f27b45ced5586607a6",
+        "url": "https://github.com/jzills/kx/releases/download/v0.10.0/kx_v0.10.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.9.2"
+    "version": "v0.10.0"
   },
   "iexec": {
     "description": "Interactive selection tool for `kubectl exec`",
@@ -12214,29 +12214,29 @@
       "aarch64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "9a2b2edf03517cc4b4dd753dc681afe0b720701eea651659cfeb77f03c32dfd3",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_darwin_arm64.tar.gz"
+        "sha256": "5143ea3148962c70ab750536f3f9b504b97c1210f9d1525a6dc0f49e207e591c",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "478d92c542d25d588aac7f653a955fef25625aa951207c290719f3fe4ca4b4b9",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_linux_arm64.tar.gz"
+        "sha256": "2bdb1c7f4bf2f595153dd96fda578099c8a60ab4c8d9c326203d30de16962666",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "c0d91b6ea817730429dab0e30deddd2dc94afa1368dd1b271b01acd204e73d72",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_darwin_amd64.tar.gz"
+        "sha256": "8c6a8d43f588d738e818e01379990a6319df366722ab19db306050df94f69e5a",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "32575d9032051cdb6f2a5559e9dafa90c1674ca93d06914589d79e0ea3dc65b0",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.0/podtrace_linux_amd64.tar.gz"
+        "sha256": "5c852c3e768aa2a1e3c69fc7a17a2cb22d86c457af585ea526e370362e23056a",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.15.0"
+    "version": "v0.15.1"
   },
   "podump": {
     "description": "Dump pod network traffic",
@@ -12715,29 +12715,29 @@
       "aarch64-darwin": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "43727d692842dad8c01a94ca39b2c952856171fe77b015f74fdb292ebf4e3357",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.6.2/pv-migrate_v3.6.2_darwin_arm64.tar.gz"
+        "sha256": "5ef6de5e1deefb36b5f312185fda00cd704a766c353265ce129eceb57e2dbf93",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "f6200027259a76fdca5bd990a5802d462854ae09a00c43d828eeb4dacb8eb547",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.6.2/pv-migrate_v3.6.2_linux_arm64.tar.gz"
+        "sha256": "996ea63b4f91b4750e10aab6604803c6beadab9d2ca97a283cd7f39e299f1d3d",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "930f18bfce93c33b60cca6abdcbde52287be26de398081e4fed135156fa00714",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.6.2/pv-migrate_v3.6.2_darwin_x86_64.tar.gz"
+        "sha256": "3421338537876b4241eb7e85632699d95fe1edae6c06980e4b61015f2154f335",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "edc5f1d4c28d8bde62ba61d4d92485e835f01333688af1fb8c0705cbe9b96367",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.6.2/pv-migrate_v3.6.2_linux_x86_64.tar.gz"
+        "sha256": "5e33342777786f07161d8629772cc46baf8a696de641d2d1537f4b9adb8bcdf1",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_linux_x86_64.tar.gz"
       }
     },
-    "version": "v3.6.2"
+    "version": "v3.7.0"
   },
   "pv-mounter": {
     "description": "Mount PVC locally using SSHFS or NFS",
@@ -12755,8 +12755,8 @@
             "to": "."
           }
         ],
-        "sha256": "092931c8df0f5aa6006f574b889459bbd13ce4e9e8bfd784e600adf3c627e22c",
-        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.41.0/pv-mounter_v26.41.0_darwin_arm64.tar.gz"
+        "sha256": "3c1d8564c1d14251d238bc32c540169ad2f9739e58e8372d6537f7be07f5817e",
+        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.43.0/pv-mounter_v26.43.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "pv-mounter",
@@ -12770,8 +12770,8 @@
             "to": "."
           }
         ],
-        "sha256": "ae44564e7ade04fc7fafb54e6769668c32de0830859909a6d4610a0ca6b97d26",
-        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.41.0/pv-mounter_v26.41.0_linux_arm64.tar.gz"
+        "sha256": "e27dedcce6f0558c578fe1c4e2195465f5b865d0e0801f8af01cefc201061e9f",
+        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.43.0/pv-mounter_v26.43.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "pv-mounter",
@@ -12785,8 +12785,8 @@
             "to": "."
           }
         ],
-        "sha256": "2e48762769da97dd3a5cfae94e90fc7419db69dce6b747595dab37d3b30f0dde",
-        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.41.0/pv-mounter_v26.41.0_darwin_amd64.tar.gz"
+        "sha256": "5fa5f01aee3a53dce2e9e1d9457f3aef7b056f05f9f9a2a1ad2f2ec205f63cf2",
+        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.43.0/pv-mounter_v26.43.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "pv-mounter",
@@ -12800,11 +12800,11 @@
             "to": "."
           }
         ],
-        "sha256": "8fd0368db35b7fb607d60ebca7abc7dbd865d4b8bf34999a1a56f374be1a4f76",
-        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.41.0/pv-mounter_v26.41.0_linux_amd64.tar.gz"
+        "sha256": "dd97320716d4733958e0a180e0e1781111c9ded9474d227038f98292ddb7c1a1",
+        "url": "https://github.com/fenio/pv-mounter/releases/download/v26.43.0/pv-mounter_v26.43.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v26.41.0"
+    "version": "v26.43.0"
   },
   "pvmigrate": {
     "description": "Migrates PVs between StorageClasses",
@@ -13648,29 +13648,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-retina-darwin-arm64",
         "files": null,
-        "sha256": "6f559cae9fee2b5b7236e069abb8965d0554dccda3afa6b986a136ac21049338",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-darwin-arm64-v1.3.0.tar.gz"
+        "sha256": "bdadac390b9dc7faca2ad870d986c03ac974510a2a0fffa5232e8aa1f3c76272",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-darwin-arm64-v1.3.1.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-retina-linux-arm64",
         "files": null,
-        "sha256": "414fdee0f0be5cd68158679116b0ecb3c7568ad5b20b47dfe64fd9154e5b3ed9",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-linux-arm64-v1.3.0.tar.gz"
+        "sha256": "707babdaa1ab950f04fbaf0939e6805537b699c2ec3dbba6f953dbdb20e9d8ce",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-linux-arm64-v1.3.1.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-retina-darwin-amd64",
         "files": null,
-        "sha256": "6acb04f4a4893b45f650920960c565d202285b2822beb4cf0e4d4d8507581c80",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-darwin-amd64-v1.3.0.tar.gz"
+        "sha256": "e14cfb18ea3845d0063129949bf3ce0e348c7f8edafdb778220cecb3e03f4171",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-darwin-amd64-v1.3.1.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-retina-linux-amd64",
         "files": null,
-        "sha256": "725a00b61b575bb363cddf71d63cdbb217a660dae6fd10fe3e93b8c3a8f536f8",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.0/kubectl-retina-linux-amd64-v1.3.0.tar.gz"
+        "sha256": "5780b03239da39eef916ec81605b5c4fbff552e77eb1d3dacffac449b845a1b1",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-linux-amd64-v1.3.1.tar.gz"
       }
     },
-    "version": "v1.3.0"
+    "version": "v1.3.1"
   },
   "reverse-proxy": {
     "description": "Start reverse proxy for the Service Pods.",

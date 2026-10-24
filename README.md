@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.11.5
+- **Version**: v5.11.9
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1763,7 +1763,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.9.2
+- **Version**: v0.10.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -3149,7 +3149,7 @@ revision matches.
 <details>
 <summary><strong>podtrace</strong> — eBPF diagnostics for Kubernetes pods</summary>
 
-- **Version**: v0.15.0
+- **Version**: v0.15.1
 - **Homepage**: https://github.com/gma1k/podtrace
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#podtrace`
@@ -3281,7 +3281,7 @@ revision matches.
 <details>
 <summary><strong>pv-migrate</strong> — Migrate data across persistent volumes</summary>
 
-- **Version**: v3.6.2
+- **Version**: v3.7.0
 - **Homepage**: https://github.com/utkuozdemir/pv-migrate
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#pv-migrate`
@@ -3292,7 +3292,7 @@ revision matches.
 <details>
 <summary><strong>pv-mounter</strong> — Mount PVC locally using SSHFS or NFS</summary>
 
-- **Version**: v26.41.0
+- **Version**: v26.43.0
 - **Homepage**: https://github.com/fenio/pv-mounter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#pv-mounter`
@@ -3556,7 +3556,7 @@ revision matches.
 <details>
 <summary><strong>retina</strong> — Distributed network captures and telemetry</summary>
 
-- **Version**: v1.3.0
+- **Version**: v1.3.1
 - **Homepage**: https://github.com/microsoft/retina
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#retina`
