@@ -6483,29 +6483,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "2d10784be6107923a3c35326f55dd1247d2e67cc9708fd47fcdafff93775eafc",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-darwin-arm64.tar.gz"
+        "sha256": "4637603dc009d705cf186869e5fda6753c08429421513efefbf845122c82b8b0",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.10/kubectl-gs-v5.11.10-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "db21c632d61bc0179992f4be755a34e4bc756026db4a3bf82bb5277fba3f4832",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-linux-arm64.tar.gz"
+        "sha256": "149d9c65f84ad540ad1216a065d9f150aa2f5d8357aaf90acd73d55559c94b49",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.10/kubectl-gs-v5.11.10-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "c5f8acedeb2dcb600c4514443e9c077ac6f87906db44662754d89244e605b5e4",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-darwin-amd64.tar.gz"
+        "sha256": "2d6f69099283494506bd716c177fb12e720c2c321ba69e9eefe1508321c13f1c",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.10/kubectl-gs-v5.11.10-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "18d95d225f512463f754aee1188814c15265219ec8d3ed10ad7bd3f78fca4e1c",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.9/kubectl-gs-v5.11.9-linux-amd64.tar.gz"
+        "sha256": "ec147e3c3d3301bd6ea61f538fb15d18e852cb3b4c7b25d9ffe475433ff9bcf8",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.10/kubectl-gs-v5.11.10-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.11.9"
+    "version": "v5.11.10"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -7603,8 +7603,8 @@
             "to": "."
           }
         ],
-        "sha256": "4525ff0e9e14498fe27758c4d96df855cef041af675a1d9852e9863eff871847",
-        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.1/kconmon_2.5.1_darwin_arm64.tar.gz"
+        "sha256": "35d71cac94ba3689b89d38aceec1cdbe4e099e2b0dd22cfc7e26c73aba730ed1",
+        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.2/kconmon_2.5.2_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-kconmon",
@@ -7618,8 +7618,8 @@
             "to": "."
           }
         ],
-        "sha256": "dfc156ade0acc5ab0b5532a101404a25c18f4775e93637bdb1d3898192c32fd4",
-        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.1/kconmon_2.5.1_linux_arm64.tar.gz"
+        "sha256": "87c0e31d2e73c4a35e592ba1bb4e6b6b4a6b386197e9bd04ec894a4957ea9472",
+        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.2/kconmon_2.5.2_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-kconmon",
@@ -7633,8 +7633,8 @@
             "to": "."
           }
         ],
-        "sha256": "1238f0f8cc07805c7b29c88227d7f30cff29fa7ded7d7392707b634746fb9da9",
-        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.1/kconmon_2.5.1_darwin_amd64.tar.gz"
+        "sha256": "2b604d3e2987811b950bf874fdc356cac862b4439ba004c0e75814ab9ebe198a",
+        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.2/kconmon_2.5.2_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-kconmon",
@@ -7648,11 +7648,11 @@
             "to": "."
           }
         ],
-        "sha256": "2f4201d4071ef27f6db3533a6ea46b76b20f475bf69f84aef6515f1eabce8011",
-        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.1/kconmon_2.5.1_linux_amd64.tar.gz"
+        "sha256": "d4b69fde0e0bd0bccdb3de5a6397ba0a0684886a8d6db85b6a2b2e151cc2af9b",
+        "url": "https://github.com/EsDmitrii/kconmon-ng/releases/download/v2.5.2/kconmon_2.5.2_linux_amd64.tar.gz"
       }
     },
-    "version": "v2.5.1"
+    "version": "v2.5.2"
   },
   "kenv": {
     "description": "Render manifest variables",
@@ -12921,8 +12921,8 @@
             "to": "."
           }
         ],
-        "sha256": "dc048a9c037d8c5533dfcb41d08a2f3710548128be0ae109005f82d6d101781e",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.0/radar_v1.18.0_darwin_arm64.tar.gz"
+        "sha256": "92363402607209dc39367e24838dada030b0f611c0e3859665f34e81a624b0fa",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.1/radar_v1.18.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-radar",
@@ -12936,8 +12936,8 @@
             "to": "."
           }
         ],
-        "sha256": "5d9bb96651bba6aa31af1be589e87676f869f4ff7c87535176808adac639634c",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.0/radar_v1.18.0_linux_arm64.tar.gz"
+        "sha256": "f7650ec652a375c8dba59848a69ba206ca71aa921fedb7d48be7aafa65f9ebc8",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.1/radar_v1.18.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-radar",
@@ -12951,8 +12951,8 @@
             "to": "."
           }
         ],
-        "sha256": "5b6c28348a572cb3e6437ff1c906ece890ff7fe9fa363929afeab4c7b305bad0",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.0/radar_v1.18.0_darwin_amd64.tar.gz"
+        "sha256": "64946ad7c2316a20727c7e4bd1e0d59ec249050786bbd586c6fc0e303e3f8b62",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.1/radar_v1.18.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-radar",
@@ -12966,11 +12966,11 @@
             "to": "."
           }
         ],
-        "sha256": "24660f53c29b7c6655501a61079cbdeeb479057c7ee97d5affd81befa3219f31",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.0/radar_v1.18.0_linux_amd64.tar.gz"
+        "sha256": "375744b952086770dd928519890395386d4541a629c8526df293326ea1658321",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.1/radar_v1.18.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.18.0"
+    "version": "v1.18.1"
   },
   "ray": {
     "description": "Ray kubectl plugin",
