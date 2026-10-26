@@ -1422,7 +1422,7 @@ revision matches.
 <details>
 <summary><strong>exporter</strong> — Export k8s cluster resources as YAML or JSON</summary>
 
-- **Version**: v0.10.5
+- **Version**: v0.10.6
 - **Homepage**: https://github.com/bakito/kubexporter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#exporter`
@@ -1609,7 +1609,7 @@ revision matches.
 <details>
 <summary><strong>glance</strong> — View cluster resource allocation and usage.</summary>
 
-- **Version**: v0.3.1
+- **Version**: v0.3.2
 - **Homepage**: https://gitlab.com/davidxarnold/glance
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#glance`
