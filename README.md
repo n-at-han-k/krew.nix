@@ -1455,7 +1455,7 @@ revision matches.
 <details>
 <summary><strong>fieldlord</strong> — Explain SSA field ownership, drift & clobber</summary>
 
-- **Version**: v0.1.4
+- **Version**: v0.1.5
 - **Homepage**: https://github.com/alexremn/kubectl-fieldlord
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#fieldlord`
@@ -1477,7 +1477,7 @@ revision matches.
 <details>
 <summary><strong>finalizer-doctor</strong> — Safely diagnose & clear stuck finalizers</summary>
 
-- **Version**: v0.1.6
+- **Version**: v0.1.8
 - **Homepage**: https://github.com/alexremn/finalizer-doctor
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#finalizer-doctor`
@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.11.10
+- **Version**: v5.11.15
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1763,7 +1763,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.10.0
+- **Version**: v0.10.2
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -3336,7 +3336,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.18.1
+- **Version**: v1.18.2
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3413,7 +3413,7 @@ revision matches.
 <details>
 <summary><strong>readonly-strict</strong> — Read-only wrapper with a sanitized environment</summary>
 
-- **Version**: v0.7.0
+- **Version**: v0.7.1
 - **Homepage**: https://github.com/Evaneos/kubectl-readonly
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#readonly-strict`
@@ -3424,7 +3424,7 @@ revision matches.
 <details>
 <summary><strong>readonly</strong> — Guardrail against accidental cluster changes</summary>
 
-- **Version**: v0.7.0
+- **Version**: v0.7.1
 - **Homepage**: https://github.com/Evaneos/kubectl-readonly
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#readonly`
