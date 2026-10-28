@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.11.15
+- **Version**: v5.11.19
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -3325,7 +3325,7 @@ revision matches.
 <details>
 <summary><strong>rabbitmq</strong> — Manage RabbitMQ clusters</summary>
 
-- **Version**: v2.23.1
+- **Version**: v2.23.2
 - **Homepage**: https://github.com/rabbitmq/cluster-operator
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#rabbitmq`
@@ -3743,7 +3743,7 @@ revision matches.
 <details>
 <summary><strong>sgmap</strong> — Visualize security group per pod.</summary>
 
-- **Version**: v1.4.11
+- **Version**: v1.4.12
 - **Homepage**: https://github.com/naka-gawa/kubectl-sgmap
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#sgmap`

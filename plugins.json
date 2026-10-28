@@ -6483,29 +6483,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "99d2955e8b71eb12711821be0915db4a76fc9bef583cb5aae33272809c8c3aba",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.15/kubectl-gs-v5.11.15-darwin-arm64.tar.gz"
+        "sha256": "34dd5d2d1be1a4201829892700433e430df0a0e54bb0746779e312859ada0813",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.19/kubectl-gs-v5.11.19-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "e84759736edf36f7d34b1ff4a3993b6db66e1fccd57144de5f232097013ed19c",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.15/kubectl-gs-v5.11.15-linux-arm64.tar.gz"
+        "sha256": "35190e9978ea55f5ce7c9991f1190c737883c7de110d802a91a537d86f87497b",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.19/kubectl-gs-v5.11.19-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "836894d3051a02b326f569923526b53add860b9fb29ac456197dac655c414098",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.15/kubectl-gs-v5.11.15-darwin-amd64.tar.gz"
+        "sha256": "0123f9ca323abbdeccfe413a26144abec5726468dc2d076668b13edb85cc5c32",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.19/kubectl-gs-v5.11.19-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "a15d7556632be167aade766f487c6cd0d62e71b819defeab2f1e85bb3bfe22b0",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.15/kubectl-gs-v5.11.15-linux-amd64.tar.gz"
+        "sha256": "bfcd8280a0dbdbbccd7c0b4e08069f6bf2b1d4a7eb6c51269b9c243a23b6576d",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.11.19/kubectl-gs-v5.11.19-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.11.15"
+    "version": "v5.11.19"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -12881,29 +12881,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-rabbitmq-darwin-arm64",
         "files": null,
-        "sha256": "a196fb1adfc54271e66c7fc928d3bc7b70252cfdc6e2ce2b35f99fa8d4219791",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-darwin-arm64.tar.gz"
+        "sha256": "6ba5a4ebb6f0c578ed7efa189e6b28ee4be42580f5193fe930298133969dc866",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.2/kubectl-rabbitmq-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-rabbitmq-linux-arm64",
         "files": null,
-        "sha256": "02e25ac0205a0d603342aaa7d6e5f5f46ef7372014e21fc09cdbd1d76b306dd2",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-linux-arm64.tar.gz"
+        "sha256": "e46b747bb01eec462561e9e92793b2862f2186ab21ae64af1c8ad07b70860799",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.2/kubectl-rabbitmq-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-rabbitmq-darwin-amd64",
         "files": null,
-        "sha256": "1b6570a4fbf184fe7826bfc4f5c5de593202fdbb3fadcf7d02a668b5fa45bb8d",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-darwin-amd64.tar.gz"
+        "sha256": "b591e6af2c173e9c777a41581b3576baa801cf882ce077714e097439fb93d9b0",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.2/kubectl-rabbitmq-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-rabbitmq-linux-amd64",
         "files": null,
-        "sha256": "ae4c9271e21620e3a35bc8b06a541e1749b034fda8c85c9e5d8268372c0f5aff",
-        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.1/kubectl-rabbitmq-linux-amd64.tar.gz"
+        "sha256": "fea1440811dd5b2b90bcd0f7f3a2d3526226bf381166bebd6144184627a4be75",
+        "url": "https://github.com/rabbitmq/cluster-operator/releases/download/v2.23.2/kubectl-rabbitmq-linux-amd64.tar.gz"
       }
     },
-    "version": "v2.23.1"
+    "version": "v2.23.2"
   },
   "radar": {
     "description": "Cluster dashboard with topology and traffic maps",
@@ -14372,8 +14372,8 @@
             "to": "."
           }
         ],
-        "sha256": "907c85e77a173190a9a7b11a99f3a965d284dff84bc87f42736c7dadfb56d854",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.11/kubectl-sgmap_Darwin_arm64.tar.gz"
+        "sha256": "7411915ef50318ea1400292ac6db59912fc9902a954f4e62cc3202d836d72e86",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "./kubectl-sgmap",
@@ -14387,8 +14387,8 @@
             "to": "."
           }
         ],
-        "sha256": "9962006379350cf89fc3d93c647f120cef5992f4d43248504211fdea4162a7cb",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.11/kubectl-sgmap_Linux_arm64.tar.gz"
+        "sha256": "30f2f1f07be15bd649f482253ea9c0a515c9684d550ce25a618ffc7e4ea2b60d",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "./kubectl-sgmap",
@@ -14402,8 +14402,8 @@
             "to": "."
           }
         ],
-        "sha256": "d1c79afbcd1f35f764ee2d6fd08c1aaeee7f7ff5f1f5f26d1973178c3d1838e1",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.11/kubectl-sgmap_Darwin_x86_64.tar.gz"
+        "sha256": "6ad895f74ee6a469b13d7c576fe703daa754b39974f8d6d7297e0a05007123a6",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "./kubectl-sgmap",
@@ -14417,11 +14417,11 @@
             "to": "."
           }
         ],
-        "sha256": "8a8270942e745a2e87c5f2f3526f348d7d50efdf69d678551f355605d1597ea5",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.11/kubectl-sgmap_Linux_x86_64.tar.gz"
+        "sha256": "777aafd02a4ad3220cb4316947adc38cd7e0d082fb2d874cb71c595d7a7ef2ce",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Linux_x86_64.tar.gz"
       }
     },
-    "version": "v1.4.11"
+    "version": "v1.4.12"
   },
   "sheep": {
     "description": "Fetch and manage kubeconfigs from Rancher-managed clusters",
