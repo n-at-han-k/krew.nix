@@ -1444,7 +1444,7 @@ revision matches.
 <details>
 <summary><strong>fd</strong> — Find resources and perform action on them.</summary>
 
-- **Version**: v0.19.1
+- **Version**: v0.19.2
 - **Homepage**: https://github.com/alikhil/kubectl-find
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#fd`
@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.11.19
+- **Version**: v5.11.22
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -2247,7 +2247,7 @@ revision matches.
 <details>
 <summary><strong>kubescape</strong> — Scan resources and cluster configs against security frameworks.</summary>
 
-- **Version**: v4.0.16
+- **Version**: v4.0.17
 - **Homepage**: https://kubescape.io/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubescape`
@@ -3193,7 +3193,7 @@ revision matches.
 <details>
 <summary><strong>preflight</strong> — Executes application preflight tests in a cluster</summary>
 
-- **Version**: v0.134.2
+- **Version**: v0.134.3
 - **Homepage**: https://github.com/replicatedhq/troubleshoot
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#preflight`
@@ -3336,7 +3336,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.18.2
+- **Version**: v1.18.3
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3798,7 +3798,7 @@ revision matches.
 <details>
 <summary><strong>skyline</strong> — Explore the cluster as an interactive 3D space</summary>
 
-- **Version**: v0.1.4
+- **Version**: v0.1.5
 - **Homepage**: https://github.com/zdk/kubectl-skyline
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#skyline`
@@ -4029,7 +4029,7 @@ revision matches.
 <details>
 <summary><strong>support-bundle</strong> — Creates support bundles for off-cluster analysis</summary>
 
-- **Version**: v0.134.2
+- **Version**: v0.134.3
 - **Homepage**: https://github.com/replicatedhq/troubleshoot
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#support-bundle`
