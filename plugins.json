@@ -8765,29 +8765,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "6905ed7a71f7a7cbb3d0a198a1ffc201374620c26bdede8718b65cc915e6dc9c",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.3/kubectl-kueue-darwin-arm64.tar.gz"
+        "sha256": "9a2c6ebd34751c9f6ae6d2d2fb5c8119259a05a060dbdf7603e2dfbdabb11398",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "f1ebe3807a730e937e9b2dd9285e3aab4ec0fcc9c37631909ea31ffa41cb891b",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.3/kubectl-kueue-linux-arm64.tar.gz"
+        "sha256": "e85007a1e5a0896d9cbc000dad429ebf3db34566f4ec72d70bc935e0a98d4020",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "95a4618718d33fe1051adbb0ed00b3052426a11a89971cc5d452903a4849c0a7",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.3/kubectl-kueue-darwin-amd64.tar.gz"
+        "sha256": "db7c6e8d46714e8af2b9236f4e5065b0af6827dee756bc669361f1f333fab291",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "742b282081d20d62e9fcf0e2935d90edd3fe79960418dd818a2593c9d45a6882",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.3/kubectl-kueue-linux-amd64.tar.gz"
+        "sha256": "eac1dbc56b318fd68ac87c5db97550e72ece6bc95a571dc299cbf3a30b3be657",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.20.3"
+    "version": "v0.20.4"
   },
   "kuota-calc": {
     "description": "Calculate needed quota to perform rolling updates.",
@@ -9760,8 +9760,8 @@
             "to": "."
           }
         ],
-        "sha256": "803dda91ce8bcc0ac8d66e33a65edd03c145001e9bd88e29d0b74b4e1a1e50a3",
-        "url": "https://github.com/cybozu-go/moco/releases/download/v0.37.0/kubectl-moco_v0.37.0_darwin_arm64.tar.gz"
+        "sha256": "79b03b020b6a9839eb9c1dbea36bc62bfb9e9fc1ca0876129e47778e4e294602",
+        "url": "https://github.com/cybozu-go/moco/releases/download/v0.38.0/kubectl-moco_v0.38.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-moco",
@@ -9775,8 +9775,8 @@
             "to": "."
           }
         ],
-        "sha256": "909b6f7b5ead2e1cf65e766c0a4aa4344b54ef728222529d81507afcb8a9dd4c",
-        "url": "https://github.com/cybozu-go/moco/releases/download/v0.37.0/kubectl-moco_v0.37.0_linux_arm64.tar.gz"
+        "sha256": "ad31e74a5a47aff13bcd9feadec32203df2f5bec91e5d7848de27b1f838be14c",
+        "url": "https://github.com/cybozu-go/moco/releases/download/v0.38.0/kubectl-moco_v0.38.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-moco",
@@ -9790,8 +9790,8 @@
             "to": "."
           }
         ],
-        "sha256": "c6c1cf84039d2e2e18f7543bcda966815ad83a565f3c6ad5071813436f973488",
-        "url": "https://github.com/cybozu-go/moco/releases/download/v0.37.0/kubectl-moco_v0.37.0_darwin_amd64.tar.gz"
+        "sha256": "550cb07b1ba1d5c40e9dabbd08ff43d38e0e722002de192b50eb9bac138d6534",
+        "url": "https://github.com/cybozu-go/moco/releases/download/v0.38.0/kubectl-moco_v0.38.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-moco",
@@ -9805,11 +9805,11 @@
             "to": "."
           }
         ],
-        "sha256": "bee4a2be7a938672d3b1891579920be8c628c90e6db933c92488f2546eed5764",
-        "url": "https://github.com/cybozu-go/moco/releases/download/v0.37.0/kubectl-moco_v0.37.0_linux_amd64.tar.gz"
+        "sha256": "9f8a6edf534cec35307fef185d829439bdf7ed9c33cdbf8897026ee1b359b36d",
+        "url": "https://github.com/cybozu-go/moco/releases/download/v0.38.0/kubectl-moco_v0.38.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.37.0"
+    "version": "v0.38.0"
   },
   "modify-secret": {
     "description": "modify secret with implicit base64 translations",
@@ -12214,29 +12214,29 @@
       "aarch64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "5143ea3148962c70ab750536f3f9b504b97c1210f9d1525a6dc0f49e207e591c",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_darwin_arm64.tar.gz"
+        "sha256": "41e3c463dfebed0ded3bbb07d147e4a03386ff7c7b10d467e4cc84cf980dccc3",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.2/podtrace_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "2bdb1c7f4bf2f595153dd96fda578099c8a60ab4c8d9c326203d30de16962666",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_linux_arm64.tar.gz"
+        "sha256": "91b69e6bc0b0d3ff9dfc9544f9265b2be97172f68dbe01cd55c4a9068aa08ac8",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.2/podtrace_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "8c6a8d43f588d738e818e01379990a6319df366722ab19db306050df94f69e5a",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_darwin_amd64.tar.gz"
+        "sha256": "1758da6bd7b9f8c53b99ddb91e53f066f667eb6a4a89dbe436b1f398e45f5bb2",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.2/podtrace_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "podtrace",
         "files": null,
-        "sha256": "5c852c3e768aa2a1e3c69fc7a17a2cb22d86c457af585ea526e370362e23056a",
-        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.1/podtrace_linux_amd64.tar.gz"
+        "sha256": "32c5a466d578b104d9d89c200e46072f9665062ffa6c49fc88ef0f619594d3f6",
+        "url": "https://github.com/gma1k/podtrace/releases/download/v0.15.2/podtrace_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.15.1"
+    "version": "v0.15.2"
   },
   "podump": {
     "description": "Dump pod network traffic",
@@ -12921,8 +12921,8 @@
             "to": "."
           }
         ],
-        "sha256": "d4278ef3949acd630c0c18e9a77730260608219a7e0bd3ee1625fdaa19f9f564",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.3/radar_v1.18.3_darwin_arm64.tar.gz"
+        "sha256": "147fa548ccd107b6aad101380c4b5e1fccd33a205f2fc93d34e598f1ab967347",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.19.0/radar_v1.19.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-radar",
@@ -12936,8 +12936,8 @@
             "to": "."
           }
         ],
-        "sha256": "0095511db6a7d45caf6b8099182ea6bbe2254baa421dfe076044b163c9cf6d45",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.3/radar_v1.18.3_linux_arm64.tar.gz"
+        "sha256": "9a899641d5a53ea1ebc1cd75c950ca9167aa805a0ed411a2944b76071be417a6",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.19.0/radar_v1.19.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-radar",
@@ -12951,8 +12951,8 @@
             "to": "."
           }
         ],
-        "sha256": "6a3b4a66d3ce1dbbeff527fb4d2d3e4a2a9a374d08ae46a263543986a8be9b19",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.3/radar_v1.18.3_darwin_amd64.tar.gz"
+        "sha256": "5e4eb362d8ef432ad3d4e9ee8ac6832599972d5ff559eeeaf53f6868d5e6f23e",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.19.0/radar_v1.19.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-radar",
@@ -12966,11 +12966,11 @@
             "to": "."
           }
         ],
-        "sha256": "c256051823591526d7836447bb33f9d5fe654876bcdb0f7ef2eaeb9977081842",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.18.3/radar_v1.18.3_linux_amd64.tar.gz"
+        "sha256": "62ecf4cf480e45454b5025a0c760029ce66ba97ede9590802faa98713a97969b",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.19.0/radar_v1.19.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.18.3"
+    "version": "v1.19.0"
   },
   "ray": {
     "description": "Ray kubectl plugin",

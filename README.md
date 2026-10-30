@@ -2302,7 +2302,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.20.3
+- **Version**: v0.20.4
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
@@ -2555,7 +2555,7 @@ revision matches.
 <details>
 <summary><strong>moco</strong> — Interact with MySQL operator MOCO.</summary>
 
-- **Version**: v0.37.0
+- **Version**: v0.38.0
 - **Homepage**: https://github.com/cybozu-go/moco
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#moco`
@@ -3149,7 +3149,7 @@ revision matches.
 <details>
 <summary><strong>podtrace</strong> — eBPF diagnostics for Kubernetes pods</summary>
 
-- **Version**: v0.15.1
+- **Version**: v0.15.2
 - **Homepage**: https://github.com/gma1k/podtrace
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#podtrace`
@@ -3336,7 +3336,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.18.3
+- **Version**: v1.19.0
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
