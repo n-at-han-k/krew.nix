@@ -520,7 +520,7 @@ revision matches.
 <details>
 <summary><strong>cisco-vk</strong> — Run read-only IOS-XE commands through CVK</summary>
 
-- **Version**: v2026.10.0
+- **Version**: v2026.11.1
 - **Homepage**: https://github.com/cisco-open/cisco-virtual-kubelet
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#cisco-vk`
@@ -1422,7 +1422,7 @@ revision matches.
 <details>
 <summary><strong>exporter</strong> — Export k8s cluster resources as YAML or JSON</summary>
 
-- **Version**: v0.10.6
+- **Version**: v0.10.7
 - **Homepage**: https://github.com/bakito/kubexporter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#exporter`
@@ -1763,7 +1763,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.10.2
+- **Version**: v0.11.1
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -2401,7 +2401,7 @@ revision matches.
 <details>
 <summary><strong>liqo</strong> — Install and manage Liqo on your clusters</summary>
 
-- **Version**: v1.2.0
+- **Version**: v1.3.0
 - **Homepage**: https://github.com/liqotech/liqo
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#liqo`

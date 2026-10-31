@@ -1654,29 +1654,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "90556bb541aef2dde11cb483c4075a5a6eaf6fd25aec306e7a528b913255d58c",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_darwin_arm64.tar.gz"
+        "sha256": "5d5d089764073ae09cb412697aa14629a6af9be6700eb094bb81c3b28e7ef527",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.11.1/kubectl-ciscovk_v2026.11.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "0a786d6680e695ef965a37405b2271f6265ae60fb78117d689e785f432552a7c",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_linux_arm64.tar.gz"
+        "sha256": "46b2e27afa9b79f5c67d4db86676a5a56660b4ba35409cb226ab5cef45cc82ba",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.11.1/kubectl-ciscovk_v2026.11.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "1247716f98e54182b5a9977f3236c0e3b5e6bb09b0cd3d6b041122d9c5d83df2",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_darwin_amd64.tar.gz"
+        "sha256": "ccab21dbdb7bef4cecb410130584c127ef4b0af8e72dbed3254c3bc2942fdb3c",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.11.1/kubectl-ciscovk_v2026.11.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-ciscovk",
         "files": null,
-        "sha256": "b9d03e8546a11a7c7639b951a9f1dbd7eda701221feadeabf8da06e174c92d4f",
-        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.10.0/kubectl-ciscovk_v2026.10.0_linux_amd64.tar.gz"
+        "sha256": "d849fb9551f0d1f0245fd3b74c0e16ee29daed262d436b6213583599509e600c",
+        "url": "https://github.com/cisco-open/cisco-virtual-kubelet/releases/download/v2026.11.1/kubectl-ciscovk_v2026.11.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v2026.10.0"
+    "version": "v2026.11.1"
   },
   "cleaner": {
     "description": "Safe, intelligent cleanup of unused Kubernetes resources.",
@@ -5565,29 +5565,29 @@
       "aarch64-darwin": {
         "bin": "kubexporter",
         "files": null,
-        "sha256": "7ab48bc200375e4232929284d6e6b17b8e09146e57b875403ff23b0d7a22937d",
-        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.6/kubexporter_0.10.6_darwin_arm64.tar.gz"
+        "sha256": "611ca5660e6ec99a1265b0a25e1372dc3d73033cd4b9e0707eaf7cf5ead51b41",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubexporter",
         "files": null,
-        "sha256": "d984451710cb4b0afae6b8363afb23ecc0716b5b10bc5da8f9ba51030b107046",
-        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.6/kubexporter_0.10.6_linux_arm64.tar.gz"
+        "sha256": "447a022b41abd699d0949a2f8f54ae22b827a46ea179e571c1bf26a185c14582",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubexporter",
         "files": null,
-        "sha256": "658a6c2a47cdb5c0431a8363a09aad124631f88e5f3c79a2c76503e62c5a1a68",
-        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.6/kubexporter_0.10.6_darwin_amd64.tar.gz"
+        "sha256": "d901886a7fd1a7f3df0aef7987d1a6d42667f680922b87578d703788cffc5c53",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubexporter",
         "files": null,
-        "sha256": "451b39de418107fd66205bf110bffcb13ae1888b1902b67b55e1aeba6196a935",
-        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.6/kubexporter_0.10.6_linux_amd64.tar.gz"
+        "sha256": "4d6ae0e128991b2903e1872f35c164eae079176969b82f96b1fea25ca385c34c",
+        "url": "https://github.com/bakito/kubexporter/releases/download/v0.10.7/kubexporter_0.10.7_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.10.6"
+    "version": "v0.10.7"
   },
   "fakos": {
     "description": "Quickly access the state and metadata of k8s resources",
@@ -6755,29 +6755,29 @@
       "aarch64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "a97db9dc13cb1340f145b60d715da2770391a2cc4adae21c2fa42a71cb0ee795",
-        "url": "https://github.com/jzills/kx/releases/download/v0.10.2/kx_v0.10.2_darwin_arm64.tar.gz"
+        "sha256": "9bc814e523e4de38526ee17fbd47bcd992ee05311de84aeade782bdbef366420",
+        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "caa5fa8e5dcbe8d4a0f34cabbf31eaabef11ec942bff16552d3e52212f6560c2",
-        "url": "https://github.com/jzills/kx/releases/download/v0.10.2/kx_v0.10.2_linux_arm64.tar.gz"
+        "sha256": "d63870c2ff87c4b091ba1413ff2cd9d9f7f98daf07800d8637339f6c3d2f6962",
+        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "98e32d074b87c4679a9e1d9568f76fff58b2a458054ed51122bdbc1caac92f31",
-        "url": "https://github.com/jzills/kx/releases/download/v0.10.2/kx_v0.10.2_darwin_amd64.tar.gz"
+        "sha256": "661a1f38552ffe07973143e65e278c9dd83531abd7ecb071973e2d89643d5b5d",
+        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "35169e492c2d91aeae00f142a21479fd1e4ae914ca52e32017ed890a5e63dbec",
-        "url": "https://github.com/jzills/kx/releases/download/v0.10.2/kx_v0.10.2_linux_amd64.tar.gz"
+        "sha256": "bae51a513960b1b4e5af990ed7fc508fd54cf630e5a305968ffdcc5a0b799031",
+        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.10.2"
+    "version": "v0.11.1"
   },
   "iexec": {
     "description": "Interactive selection tool for `kubectl exec`",
@@ -9149,29 +9149,29 @@
       "aarch64-darwin": {
         "bin": "liqoctl",
         "files": null,
-        "sha256": "1bf9ca1340f95bbca5585372e898ff95cbdfaa846421962ef767dbad54933a65",
-        "url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-arm64.tar.gz"
+        "sha256": "5b1619aea925df2c3b9294aa04a93a0cfb8e12562b2af4e97e35f43a3acf784b",
+        "url": "https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "liqoctl",
         "files": null,
-        "sha256": "ed7d2f38cd2fe93ab16b67b4f0d4660a9405b5d2e8a88ca2ef3f80f96f6591b7",
-        "url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-arm64.tar.gz"
+        "sha256": "ea2c632ef3d025bda14bee550f231a6d150c9f4f7a9c29ece1e2c3658e3e4028",
+        "url": "https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "liqoctl",
         "files": null,
-        "sha256": "5196e8f1a2679a36a7c9a8eea222fa46adeab874e0bb8623c8ccd6622d1bea86",
-        "url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-darwin-amd64.tar.gz"
+        "sha256": "78caf0f24795646cbcc98cda37eb37df6f08b799a09d65d85c2f59eb916eb71c",
+        "url": "https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "liqoctl",
         "files": null,
-        "sha256": "88c81be5abfe118bb5d7d45cfde6787267b26bbd5d1c2430486f7017146bf15f",
-        "url": "https://github.com/liqotech/liqo/releases/download/v1.2.0/liqoctl-linux-amd64.tar.gz"
+        "sha256": "f1f7930bce2c4bb7316a9ab9b3451d4969e7c333dcd5d34b797110f76a20cb21",
+        "url": "https://github.com/liqotech/liqo/releases/download/v1.3.0/liqoctl-linux-amd64.tar.gz"
       }
     },
-    "version": "v1.2.0"
+    "version": "v1.3.0"
   },
   "lock": {
     "description": "A client-side lock for kubernetes contexts to prevent kubectl misfires.",
