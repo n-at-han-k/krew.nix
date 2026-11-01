@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-417 plugins.
+420 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -1915,6 +1915,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>joulie</strong> — Energy dashboard of a Joulie-managed cluster</summary>
+
+- **Version**: v0.2.4
+- **Homepage**: https://joulie-k8s.github.io/Joulie/
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#joulie`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#joulie`, then `kubectl joulie`
+- **Binary**: `kubectl-joulie`
+
+</details>
+<details>
 <summary><strong>jqlogs</strong> — Readable, colorful JSON logs via jq</summary>
 
 - **Version**: v1.1.1
@@ -1983,7 +1994,7 @@ revision matches.
 <details>
 <summary><strong>karmada</strong> — Manage clusters with Karmada federation.</summary>
 
-- **Version**: v1.19.0
+- **Version**: v1.19.1
 - **Homepage**: https://github.com/karmada-io/karmada
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#karmada`
@@ -2993,6 +3004,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>paguro</strong> — Live-migrate running pods to other nodes</summary>
+
+- **Version**: v0.1.3
+- **Homepage**: https://github.com/DPicillo/paguro
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#paguro`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#paguro`, then `kubectl paguro`
+- **Binary**: `kubectl-paguro`
+
+</details>
+<details>
 <summary><strong>passman</strong> — Store kubeconfig credentials in keychains or password managers</summary>
 
 - **Version**: v1.2.5
@@ -3408,6 +3430,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#reach`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#reach`, then `kubectl reach`
 - **Binary**: `kubectl-reach`
+
+</details>
+<details>
+<summary><strong>readonly-leaky</strong> — Read-only wrapper that shows secret values</summary>
+
+- **Version**: v0.7.0
+- **Homepage**: https://github.com/Evaneos/kubectl-readonly
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#readonly-leaky`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#readonly-leaky`, then `kubectl readonly-leaky`
+- **Binary**: `kubectl-readonly_leaky`
 
 </details>
 <details>

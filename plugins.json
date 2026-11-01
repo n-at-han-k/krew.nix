@@ -7267,6 +7267,37 @@
     },
     "version": "v0.4.0"
   },
+  "joulie": {
+    "description": "Energy dashboard of a Joulie-managed cluster",
+    "homepage": "https://joulie-k8s.github.io/Joulie/",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kubectl-joulie",
+        "files": null,
+        "sha256": "606e6788f22a0c9ca39e51f5bbb0b7177bbcc1ef108b6e1196206ce8596ea797",
+        "url": "https://github.com/joulie-k8s/Joulie/releases/download/v0.2.4/kubectl-joulie_v0.2.4_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubectl-joulie",
+        "files": null,
+        "sha256": "789ec39e2a69ef5a1c113715dc69564c91a94723c49f1c8a163639b21fb6bdc6",
+        "url": "https://github.com/joulie-k8s/Joulie/releases/download/v0.2.4/kubectl-joulie_v0.2.4_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kubectl-joulie",
+        "files": null,
+        "sha256": "7fe61ba7a0ce24a9b0d8790198e5a1d892482ce2f0a1985a043650c9b776f0f1",
+        "url": "https://github.com/joulie-k8s/Joulie/releases/download/v0.2.4/kubectl-joulie_v0.2.4_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kubectl-joulie",
+        "files": null,
+        "sha256": "37ba12bbed92bd0172492480a8b5232b824eec52051dbfa03d5dff46ab4919e7",
+        "url": "https://github.com/joulie-k8s/Joulie/releases/download/v0.2.4/kubectl-joulie_v0.2.4_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v0.2.4"
+  },
   "jqlogs": {
     "description": "Readable, colorful JSON logs via jq",
     "homepage": "https://github.com/shihyuho/kubectl-jqlogs",
@@ -7505,8 +7536,8 @@
             "to": "."
           }
         ],
-        "sha256": "e8c1e750a95d71ce56d63a45d4ce981591c57948309711579d8e6bb621a0cc64",
-        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.0/kubectl-karmada-darwin-arm64.tgz"
+        "sha256": "ebd3fe15004441e48d078dc7a8809fc7338c2fcc069dcf60f13d86e6e1206672",
+        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.1/kubectl-karmada-darwin-arm64.tgz"
       },
       "aarch64-linux": {
         "bin": "kubectl-karmada",
@@ -7520,8 +7551,8 @@
             "to": "."
           }
         ],
-        "sha256": "f372de6f3b161692f26ee8d946e9882fd54cdef768831fb3625f75ea324d164d",
-        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.0/kubectl-karmada-linux-arm64.tgz"
+        "sha256": "29b8ce38a4b761998340d4759dd1f6186acf4b3c3347667bdb14815d08caafbf",
+        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.1/kubectl-karmada-linux-arm64.tgz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-karmada",
@@ -7535,8 +7566,8 @@
             "to": "."
           }
         ],
-        "sha256": "c40029dd51bba092d69efd6fd756e11fa206596b502c276b1a6e1bdb33987f80",
-        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.0/kubectl-karmada-darwin-amd64.tgz"
+        "sha256": "cdb5768278fde0b7b10eba5d1971bb4172e7cee0b3d825380755d1996b3304b6",
+        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.1/kubectl-karmada-darwin-amd64.tgz"
       },
       "x86_64-linux": {
         "bin": "kubectl-karmada",
@@ -7550,11 +7581,11 @@
             "to": "."
           }
         ],
-        "sha256": "5a8648a503c57567b42cfde14b67b6558361339f04034c3237f70024d3ba657e",
-        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.0/kubectl-karmada-linux-amd64.tgz"
+        "sha256": "927f15ee06052f1cfeef5eac9f08173559a12072ac6412d0929ed9b12c7b01fc",
+        "url": "https://github.com/karmada-io/karmada/releases/download/v1.19.1/kubectl-karmada-linux-amd64.tgz"
       }
     },
-    "version": "v1.19.0"
+    "version": "v1.19.1"
   },
   "kc": {
     "description": "Interactive CRUD operations to manage kubeconfig",
@@ -11715,6 +11746,73 @@
     },
     "version": "v0.1.6"
   },
+  "paguro": {
+    "description": "Live-migrate running pods to other nodes",
+    "homepage": "https://github.com/DPicillo/paguro",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kubectl-paguro",
+        "files": [
+          {
+            "from": "kubectl-paguro_v0.1.3_darwin_arm64/kubectl-paguro",
+            "to": "."
+          },
+          {
+            "from": "kubectl-paguro_v0.1.3_darwin_arm64/LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "82f0f753ba2c0e065b020a5f0e70bbcc8af7320b27db910b23f2bcb2f6c387b3",
+        "url": "https://github.com/DPicillo/paguro/releases/download/v0.1.3/kubectl-paguro_v0.1.3_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubectl-paguro",
+        "files": [
+          {
+            "from": "kubectl-paguro_v0.1.3_linux_arm64/kubectl-paguro",
+            "to": "."
+          },
+          {
+            "from": "kubectl-paguro_v0.1.3_linux_arm64/LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "8f651664abd73ca4fcb10967661d1046e341e5ed6d6bf2505e258d373faf633b",
+        "url": "https://github.com/DPicillo/paguro/releases/download/v0.1.3/kubectl-paguro_v0.1.3_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kubectl-paguro",
+        "files": [
+          {
+            "from": "kubectl-paguro_v0.1.3_darwin_amd64/kubectl-paguro",
+            "to": "."
+          },
+          {
+            "from": "kubectl-paguro_v0.1.3_darwin_amd64/LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "624415a2802a0dd99fe5de7821bef10e41dccc7dea20ae32ed3b2b4e72283cfe",
+        "url": "https://github.com/DPicillo/paguro/releases/download/v0.1.3/kubectl-paguro_v0.1.3_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kubectl-paguro",
+        "files": [
+          {
+            "from": "kubectl-paguro_v0.1.3_linux_amd64/kubectl-paguro",
+            "to": "."
+          },
+          {
+            "from": "kubectl-paguro_v0.1.3_linux_amd64/LICENSE",
+            "to": "."
+          }
+        ],
+        "sha256": "e9c315b367c21fe7650145d307c000ea3a1d292bb303d3752a8acb9a124cdf2e",
+        "url": "https://github.com/DPicillo/paguro/releases/download/v0.1.3/kubectl-paguro_v0.1.3_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v0.1.3"
+  },
   "passman": {
     "description": "Store kubeconfig credentials in keychains or password managers",
     "homepage": "https://github.com/chrisns/kubectl-passman",
@@ -13203,6 +13301,37 @@
       }
     },
     "version": "v0.7.1"
+  },
+  "readonly-leaky": {
+    "description": "Read-only wrapper that shows secret values",
+    "homepage": "https://github.com/Evaneos/kubectl-readonly",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kubectl-readonly-leaky",
+        "files": null,
+        "sha256": "2b3e8f2658ea5a10409ca559d1ad232079599325c946edabe0fef384ae99a065",
+        "url": "https://github.com/Evaneos/kubectl-readonly/releases/download/v0.7.0/kubectl-readonly-leaky_0.7.0_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubectl-readonly-leaky",
+        "files": null,
+        "sha256": "8706bf1a14a7c7a5e11a819a54562e4f707dbcf00c03fc91421f7c4a4ce32272",
+        "url": "https://github.com/Evaneos/kubectl-readonly/releases/download/v0.7.0/kubectl-readonly-leaky_0.7.0_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kubectl-readonly-leaky",
+        "files": null,
+        "sha256": "916f13aa03eb512fb1c4365d93424c7c37dd1c48ad4dfdf26f4eca99b1dbb859",
+        "url": "https://github.com/Evaneos/kubectl-readonly/releases/download/v0.7.0/kubectl-readonly-leaky_0.7.0_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kubectl-readonly-leaky",
+        "files": null,
+        "sha256": "ccaddfd29f38295cfb2a33cba9769a1a783672ebd623940d0d5f3d639711ae1a",
+        "url": "https://github.com/Evaneos/kubectl-readonly/releases/download/v0.7.0/kubectl-readonly-leaky_0.7.0_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v0.7.0"
   },
   "readonly-strict": {
     "description": "Read-only wrapper with a sanitized environment",
