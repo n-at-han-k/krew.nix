@@ -2170,7 +2170,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.16
+- **Version**: v0.10.17
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
