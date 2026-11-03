@@ -1422,7 +1422,7 @@ revision matches.
 <details>
 <summary><strong>exporter</strong> — Export k8s cluster resources as YAML or JSON</summary>
 
-- **Version**: v0.10.7
+- **Version**: v0.10.8
 - **Homepage**: https://github.com/bakito/kubexporter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#exporter`
@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.11.22
+- **Version**: v5.12.4
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1785,7 +1785,7 @@ revision matches.
 <details>
 <summary><strong>image</strong> — Query container images by namespace/cluster</summary>
 
-- **Version**: v1.0.13
+- **Version**: v1.0.15
 - **Homepage**: https://github.com/pete911/kubectl-image
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#image`
@@ -2632,7 +2632,7 @@ revision matches.
 <details>
 <summary><strong>mtv</strong> — Migrate VMs to KubeVirt using Forklift</summary>
 
-- **Version**: v0.3.34
+- **Version**: v0.3.35
 - **Homepage**: https://github.com/yaacov/kubectl-mtv
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#mtv`
