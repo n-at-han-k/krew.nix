@@ -6483,29 +6483,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "4465eef16e8f8ad53f1eaac167d3190faa12c5cc2f816bf26b717b26413f4190",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.4/kubectl-gs-v5.12.4-darwin-arm64.tar.gz"
+        "sha256": "e243f0f3223b2fd280a2e095175e638a6664fe9c8370ec467d359ccd0b1611f9",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "a6dff55516200a8c18642d0b119dbdbe64685c6127fc3cd6558fb3f401efaf33",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.4/kubectl-gs-v5.12.4-linux-arm64.tar.gz"
+        "sha256": "7e5b5dea040f2d83da1e34e58c3363813202d206131a67c2b16a616551095605",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "95a28f4ca608840a5287af3fceb0f6583f99eb39b0fa4ac3c6c60c0649b6a904",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.4/kubectl-gs-v5.12.4-darwin-amd64.tar.gz"
+        "sha256": "7a5bb28a595d9dac7c2f057f399819f01245be25aedbfcd6af4e6b3169b9ecc5",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "416fcff5ceac2ea6632b19dd29564a50384e2597c368fb4779365660dd6a62c7",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.4/kubectl-gs-v5.12.4-linux-amd64.tar.gz"
+        "sha256": "f0db8cad54a625d6cd96bcf49fffa11f06f2e45804842ac69090cf3a52e55abe",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.12.4"
+    "version": "v5.12.5"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
