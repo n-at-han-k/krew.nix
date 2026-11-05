@@ -905,7 +905,7 @@ revision matches.
 <details>
 <summary><strong>crust-gather</strong> — Collect cluster state and serve it via an API server</summary>
 
-- **Version**: v0.17.1
+- **Version**: v0.18.0
 - **Homepage**: https://github.com/crust-gather/crust-gather
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#crust-gather`
@@ -1554,7 +1554,7 @@ revision matches.
 <details>
 <summary><strong>gadget</strong> — Gadgets for debugging and introspecting apps</summary>
 
-- **Version**: v0.57.0
+- **Version**: v0.58.0
 - **Homepage**: https://github.com/inspektor-gadget/inspektor-gadget
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gadget`
@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.12.5
+- **Version**: v5.13.1
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1763,7 +1763,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.11.1
+- **Version**: v0.12.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -2005,7 +2005,7 @@ revision matches.
 <details>
 <summary><strong>kc</strong> — Interactive CRUD operations to manage kubeconfig</summary>
 
-- **Version**: v0.35.1
+- **Version**: v0.36.0
 - **Homepage**: https://github.com/sunny0826/kubecm
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kc`
@@ -2764,7 +2764,7 @@ revision matches.
 <details>
 <summary><strong>node-df</strong> — Show node filesystem usage</summary>
 
-- **Version**: v0.1.1
+- **Version**: v0.1.2
 - **Homepage**: https://github.com/loktionovam/kubectl-node-df
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#node-df`
@@ -3776,7 +3776,7 @@ revision matches.
 <details>
 <summary><strong>sgmap</strong> — Visualize security group per pod.</summary>
 
-- **Version**: v1.4.12
+- **Version**: v1.5.0
 - **Homepage**: https://github.com/naka-gawa/kubectl-sgmap
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#sgmap`

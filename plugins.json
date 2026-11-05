@@ -3300,29 +3300,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "f9b3d5134b04ff8a1bca0273b338aea3d5a736fd8837e3179ea780b23fc7a1b0",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.17.1/kubectl-crust-gather_v0.17.1_darwin_arm64.tar.gz"
+        "sha256": "c2d7e9f2e9dcc306d585a55983dfff991008a2c0f7feda2662a30428d7918dd3",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "ed103b2e0cc1d80521f1c79fc15d538fccd37dd549b2008f2fa15cdafe58b26a",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.17.1/kubectl-crust-gather_v0.17.1_linux_arm64.tar.gz"
+        "sha256": "f56adb4734234d605cb841a5b699531c6bf2da543b67863a3564c8622e850d30",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "465a96061a9529168d8521d81f38420228020707fd33825addd3ecaadf82af03",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.17.1/kubectl-crust-gather_v0.17.1_darwin_amd64.tar.gz"
+        "sha256": "a49697b50405d4e52bfa6cadb09c88d7786b9f7d5c1bf22f76ddc16baace4325",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "a1b42d1f2bf7db4175fd212557863ecac8682d22dda116cb0b1052d622a4daea",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.17.1/kubectl-crust-gather_v0.17.1_linux_amd64.tar.gz"
+        "sha256": "1cb47d13e48cfa4488a6f1e0145cca4b1aa336a66a69f99a9fc575657ea0f5c9",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.17.1"
+    "version": "v0.18.0"
   },
   "cs": {
     "description": "Quick Kubernetes context switcher",
@@ -5994,29 +5994,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "cdb97deb5d6625297d8f76709807839b64dfa25a5c789ddb5977920536738437",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.57.0/kubectl-gadget-darwin-arm64-v0.57.0.tar.gz"
+        "sha256": "296e115809d5710ba66bffb7a1b12f0048274506fddd057b988968a48194738b",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.58.0/kubectl-gadget-darwin-arm64-v0.58.0.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "b67aaa7fc0549301b5dc6d3a84f162f246bdfd71deba854e02acc5ea1c92c941",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.57.0/kubectl-gadget-linux-arm64-v0.57.0.tar.gz"
+        "sha256": "3a4bdee5b61e8b53acd2da7a406707e6aafbfb1f1c86dcf0f341ffea59c64e9c",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.58.0/kubectl-gadget-linux-arm64-v0.58.0.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "eccb118939f91c31e3658007f4bae5ec542a668741d41359a113e2661166bbdf",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.57.0/kubectl-gadget-darwin-amd64-v0.57.0.tar.gz"
+        "sha256": "98bb75ebfc67f01cff039712c77f4b1f99c9062ceb8a70d7c7859dffdf08a214",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.58.0/kubectl-gadget-darwin-amd64-v0.58.0.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gadget",
         "files": null,
-        "sha256": "a53792c085c9327b748c80c4d0041da95b1eb69f27819a45f5aaf84fc4fe4a2a",
-        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.57.0/kubectl-gadget-linux-amd64-v0.57.0.tar.gz"
+        "sha256": "77030462635d5579eb6bd99c986562d95f17fdb0212a21da99095a4ffbbdf76a",
+        "url": "https://github.com/inspektor-gadget/inspektor-gadget/releases/download/v0.58.0/kubectl-gadget-linux-amd64-v0.58.0.tar.gz"
       }
     },
-    "version": "v0.57.0"
+    "version": "v0.58.0"
   },
   "get-all": {
     "description": "Like `kubectl get all` but **really** everything",
@@ -6483,29 +6483,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "e243f0f3223b2fd280a2e095175e638a6664fe9c8370ec467d359ccd0b1611f9",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-darwin-arm64.tar.gz"
+        "sha256": "5d9e50cf35a63ad9b9f6bfbb7c3dcd4fb5e3358bb87becb86535f50a9b6b3d46",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "7e5b5dea040f2d83da1e34e58c3363813202d206131a67c2b16a616551095605",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-linux-arm64.tar.gz"
+        "sha256": "5f3f4a332831fb24c13dcfb7ebb8969155a117cb65ea3297761130ea5e15f5cd",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "7a5bb28a595d9dac7c2f057f399819f01245be25aedbfcd6af4e6b3169b9ecc5",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-darwin-amd64.tar.gz"
+        "sha256": "68ebd7158ea3aff0a2e626bbc88f0a86473492856909889ee9934b5b98ed1d7d",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "f0db8cad54a625d6cd96bcf49fffa11f06f2e45804842ac69090cf3a52e55abe",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.12.5/kubectl-gs-v5.12.5-linux-amd64.tar.gz"
+        "sha256": "4b11aef1263e10503705254daa120c9e5556b45462d21698d8d03909db5359df",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.12.5"
+    "version": "v5.13.1"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -6755,29 +6755,29 @@
       "aarch64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "9bc814e523e4de38526ee17fbd47bcd992ee05311de84aeade782bdbef366420",
-        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_darwin_arm64.tar.gz"
+        "sha256": "a8c01fc3898d19b7aee214d01bc034f4c543d90e7aaab6f8dc42bf466466e5e6",
+        "url": "https://github.com/jzills/kx/releases/download/v0.12.0/kx_v0.12.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "d63870c2ff87c4b091ba1413ff2cd9d9f7f98daf07800d8637339f6c3d2f6962",
-        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_linux_arm64.tar.gz"
+        "sha256": "8ba73366ddf8af50e98367c15e04ae0c1ae3e5b2193e19c6cff769a9aa0157ce",
+        "url": "https://github.com/jzills/kx/releases/download/v0.12.0/kx_v0.12.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "661a1f38552ffe07973143e65e278c9dd83531abd7ecb071973e2d89643d5b5d",
-        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_darwin_amd64.tar.gz"
+        "sha256": "43c036003dc00c75f4378e8b4d98aae1d5fa040cb520a8350b23f73ca24a1faf",
+        "url": "https://github.com/jzills/kx/releases/download/v0.12.0/kx_v0.12.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "bae51a513960b1b4e5af990ed7fc508fd54cf630e5a305968ffdcc5a0b799031",
-        "url": "https://github.com/jzills/kx/releases/download/v0.11.1/kx_v0.11.1_linux_amd64.tar.gz"
+        "sha256": "33fcde45ca20a59ba7a89bd00f3a270595afbc03b96c9201f67ea502fc0b5970",
+        "url": "https://github.com/jzills/kx/releases/download/v0.12.0/kx_v0.12.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.11.1"
+    "version": "v0.12.0"
   },
   "iexec": {
     "description": "Interactive selection tool for `kubectl exec`",
@@ -7594,29 +7594,29 @@
       "aarch64-darwin": {
         "bin": "kubecm",
         "files": null,
-        "sha256": "35ea4876ae8d146536def212489056b08219b4a41ac82a7a7305072087b21aad",
-        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Darwin_arm64.tar.gz"
+        "sha256": "45af2a0d7d97c6693f29d98692d7829f6e76bbd20540c3b5f215734cc38618fd",
+        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubecm",
         "files": null,
-        "sha256": "d2c1397415a3753af9dea32c5c7c97da4d89d7b2790366fcf01c480184106126",
-        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Linux_arm64.tar.gz"
+        "sha256": "aff313d3298cea88cf4f662d23654a24c8fd3242b3e7f84436b0869b06e2fa71",
+        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubecm",
         "files": null,
-        "sha256": "213c10d018741df1ddf13b0764543b5e1d722d7e7c9094132acbe2aeffc138ca",
-        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Darwin_x86_64.tar.gz"
+        "sha256": "49ddabdc323b20a6f14f098dce874a35c91c5b6cb00b77a2c541198484c21a42",
+        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubecm",
         "files": null,
-        "sha256": "65dbe79901d95f68fc9ddbe38acb3ee34acdfa3d71e69ff326bd972fc0525a85",
-        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Linux_x86_64.tar.gz"
+        "sha256": "a014e57c0a8f659a76210c5b97393f306340bbd45296a168f5e47f095a132611",
+        "url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_x86_64.tar.gz"
       }
     },
-    "version": "v0.35.1"
+    "version": "v0.36.0"
   },
   "kconmon": {
     "description": "On-demand node-to-node connectivity checks for kconmon-ng",
@@ -10629,8 +10629,8 @@
             "to": "."
           }
         ],
-        "sha256": "5523b70f8776202e157df5ca6add56435e9af79f446e42155857920cc58cbbd1",
-        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.1.tar.gz"
+        "sha256": "213ffde13d5745ad5ac77eb908bce8a0a91a6b815c9be0c812c2884fa670b832",
+        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.2.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-node_df",
@@ -10644,8 +10644,8 @@
             "to": "."
           }
         ],
-        "sha256": "5523b70f8776202e157df5ca6add56435e9af79f446e42155857920cc58cbbd1",
-        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.1.tar.gz"
+        "sha256": "213ffde13d5745ad5ac77eb908bce8a0a91a6b815c9be0c812c2884fa670b832",
+        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.2.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-node_df",
@@ -10659,8 +10659,8 @@
             "to": "."
           }
         ],
-        "sha256": "5523b70f8776202e157df5ca6add56435e9af79f446e42155857920cc58cbbd1",
-        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.1.tar.gz"
+        "sha256": "213ffde13d5745ad5ac77eb908bce8a0a91a6b815c9be0c812c2884fa670b832",
+        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.2.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-node_df",
@@ -10674,11 +10674,11 @@
             "to": "."
           }
         ],
-        "sha256": "5523b70f8776202e157df5ca6add56435e9af79f446e42155857920cc58cbbd1",
-        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.1.tar.gz"
+        "sha256": "213ffde13d5745ad5ac77eb908bce8a0a91a6b815c9be0c812c2884fa670b832",
+        "url": "https://github.com/loktionovam/kubectl-node-df/archive/v0.1.2.tar.gz"
       }
     },
-    "version": "v0.1.1"
+    "version": "v0.1.2"
   },
   "node-logs": {
     "description": "View and filter node service logs",
@@ -14501,8 +14501,8 @@
             "to": "."
           }
         ],
-        "sha256": "7411915ef50318ea1400292ac6db59912fc9902a954f4e62cc3202d836d72e86",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Darwin_arm64.tar.gz"
+        "sha256": "404b99360313cf8bd9de7c2abd141da4b60366c4c9d801ae2c9caa075c958b5c",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.5.0/kubectl-sgmap_Darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "./kubectl-sgmap",
@@ -14516,8 +14516,8 @@
             "to": "."
           }
         ],
-        "sha256": "30f2f1f07be15bd649f482253ea9c0a515c9684d550ce25a618ffc7e4ea2b60d",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Linux_arm64.tar.gz"
+        "sha256": "f9c84c218b6ec369ffcd43fab58981778a2ae943f5da1887d727ab35b43b9598",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.5.0/kubectl-sgmap_Linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "./kubectl-sgmap",
@@ -14531,8 +14531,8 @@
             "to": "."
           }
         ],
-        "sha256": "6ad895f74ee6a469b13d7c576fe703daa754b39974f8d6d7297e0a05007123a6",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Darwin_x86_64.tar.gz"
+        "sha256": "9698d416c97b03014b1c1934868c6a84d8522aa4428a5549ea7112f7812f4727",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.5.0/kubectl-sgmap_Darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "./kubectl-sgmap",
@@ -14546,11 +14546,11 @@
             "to": "."
           }
         ],
-        "sha256": "777aafd02a4ad3220cb4316947adc38cd7e0d082fb2d874cb71c595d7a7ef2ce",
-        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.4.12/kubectl-sgmap_Linux_x86_64.tar.gz"
+        "sha256": "542621f0055c2c52f1c496477a1305aacebafcf5339b8c4b19b6f14d6ffb3448",
+        "url": "https://github.com/naka-gawa/kubectl-sgmap/releases/download/v1.5.0/kubectl-sgmap_Linux_x86_64.tar.gz"
       }
     },
-    "version": "v1.4.12"
+    "version": "v1.5.0"
   },
   "sheep": {
     "description": "Fetch and manage kubeconfigs from Rancher-managed clusters",
