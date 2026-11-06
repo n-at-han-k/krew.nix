@@ -6483,29 +6483,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "5d9e50cf35a63ad9b9f6bfbb7c3dcd4fb5e3358bb87becb86535f50a9b6b3d46",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-darwin-arm64.tar.gz"
+        "sha256": "2e9376b3aa20ee310f2100c7d049f764538b5fa19057768d3a6223025f08ef05",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.4/kubectl-gs-v5.13.4-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "5f3f4a332831fb24c13dcfb7ebb8969155a117cb65ea3297761130ea5e15f5cd",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-linux-arm64.tar.gz"
+        "sha256": "848f0edafda6d903274ccf23fd8ae6f2958b0ef26b6f1fea6d20a73c5fc73975",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.4/kubectl-gs-v5.13.4-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "68ebd7158ea3aff0a2e626bbc88f0a86473492856909889ee9934b5b98ed1d7d",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-darwin-amd64.tar.gz"
+        "sha256": "32d5abae8acbc23994c40f3a79d83ab527d84717c56f962fb0fcde7eaea07f47",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.4/kubectl-gs-v5.13.4-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "4b11aef1263e10503705254daa120c9e5556b45462d21698d8d03909db5359df",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.1/kubectl-gs-v5.13.1-linux-amd64.tar.gz"
+        "sha256": "b496faaa1adda31a349b11fc8fbbd289fea4af355ff9b3c1c41edce0284d4ed8",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.4/kubectl-gs-v5.13.4-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.13.1"
+    "version": "v5.13.4"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -8473,29 +8473,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "6e3dad2a1ead1d6179cc91edf37265cf6f5e3801346bc584e03022cdff33b444",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_darwin_arm64.tar.gz"
+        "sha256": "099e2a085227086acef94256cdd0b0e815455b0f4182313333af15fc38e964e7",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.0/kubectl-ktop_v0.6.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "33296f4c6f2edf6d2d8c51773b067137412e3026ec03a38b4185d4888fe4201c",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_linux_arm64.tar.gz"
+        "sha256": "ed1ee69d19da0380a61e6b22b3c9ab400eb899704c4aa5ea431d977f4719b8dd",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.0/kubectl-ktop_v0.6.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "ec24a6eb816c6e5e357a1f9ae7dbdff30d72014e004ba46bf8fbbe1df5a52162",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_darwin_amd64.tar.gz"
+        "sha256": "e4bea3b8531b54760adec78f8d14a008a658732ff6926bdb5bee2931b37a5ed3",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.0/kubectl-ktop_v0.6.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "7f58be20c3b14dab954690b9f87e8d1e182e134b48984208e13a2536df1b14ea",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.5.3/kubectl-ktop_v0.5.3_linux_amd64.tar.gz"
+        "sha256": "6e6310317c18e17e9e6bb002d5365c59b40d3f49b80a12cf41827435050bb402",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.0/kubectl-ktop_v0.6.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.5.3"
+    "version": "v0.6.0"
   },
   "kuberecord": {
     "description": "Query recorded state changes",
@@ -8571,29 +8571,29 @@
       "aarch64-darwin": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "a197cf3d3e960fad5d52e10ce866a1cb930d64382d195140cb28617e0d3dde10",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.17/kubescape_4.0.17_darwin_arm64.tar.gz"
+        "sha256": "61e88cd8b17e9e613aca7e53d029e2db1cd7098c5d1d55bb99c8e286df097d7a",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.19/kubescape_4.0.19_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "eb9311c3be050361e5d16440fbfd3271b3b6dc03902e23bcab5ed8c438c51f73",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.17/kubescape_4.0.17_linux_arm64.tar.gz"
+        "sha256": "808d986087a0dd8da16c9ba8d1205b3227aeee69d5bc890f5a0c507a4b024d3c",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.19/kubescape_4.0.19_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "f39c9fe034e44d2147a4e0c42328a3aea2977153c51f702692b1dc7a318fb493",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.17/kubescape_4.0.17_darwin_amd64.tar.gz"
+        "sha256": "3587c4a490cb3eb24f303046df98d22d656936e41aa2c9bd6935705c3665a54e",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.19/kubescape_4.0.19_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "9ed580e7c9b1e2e5b8f0adcfdf2bf2fd8856e7297125fc9aa10cdcb97813a4fa",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.17/kubescape_4.0.17_linux_amd64.tar.gz"
+        "sha256": "f4658c9350d21e704a37667c2dcdb2886e25e8f506799c1151d662d6153f482c",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.19/kubescape_4.0.19_linux_amd64.tar.gz"
       }
     },
-    "version": "v4.0.17"
+    "version": "v4.0.19"
   },
   "kubesec-scan": {
     "description": "Scan Kubernetes resources with kubesec.io.",
@@ -8796,29 +8796,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "9a2c6ebd34751c9f6ae6d2d2fb5c8119259a05a060dbdf7603e2dfbdabb11398",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-darwin-arm64.tar.gz"
+        "sha256": "23af8f4d8844783b6e378686a95d3a788583f6cdfee808822cc2c6be19c47ce8",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.5/kubectl-kueue-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "e85007a1e5a0896d9cbc000dad429ebf3db34566f4ec72d70bc935e0a98d4020",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-linux-arm64.tar.gz"
+        "sha256": "9a137a03278fc200c421d8c1c11944c0c959d3cc50fda4fb0663ab49711ccfa0",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.5/kubectl-kueue-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "db7c6e8d46714e8af2b9236f4e5065b0af6827dee756bc669361f1f333fab291",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-darwin-amd64.tar.gz"
+        "sha256": "11349d4f9b58f8cf8dc375b6ce4a2b23fdd88600d0ed21f6334aae3853d8100e",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.5/kubectl-kueue-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-kueue",
         "files": null,
-        "sha256": "eac1dbc56b318fd68ac87c5db97550e72ece6bc95a571dc299cbf3a30b3be657",
-        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.4/kubectl-kueue-linux-amd64.tar.gz"
+        "sha256": "45b15f51253a94a6fb3807f9c4f987742594614207d177633c4532411c70c7d7",
+        "url": "https://github.com/kubernetes-sigs/kueue/releases/download/v0.20.5/kubectl-kueue-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.20.4"
+    "version": "v0.20.5"
   },
   "kuota-calc": {
     "description": "Calculate needed quota to perform rolling updates.",
@@ -12445,8 +12445,8 @@
             "to": "."
           }
         ],
-        "sha256": "1dd59a03c5d6944e32952f998ce271cb154215ce79c96faba004932ff308ad81",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/preflight_darwin_all.tar.gz"
+        "sha256": "4f7c2201ef649cc36ea5f7c3ed7ec2a1ade7e89665751a1c9f58ffd1ad83530e",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/preflight_darwin_all.tar.gz"
       },
       "aarch64-linux": {
         "bin": "preflight",
@@ -12460,8 +12460,8 @@
             "to": "."
           }
         ],
-        "sha256": "a108424b349a9e33525a54b333a3c93765cea7ff9d8eb8d995a866f011bb2a8d",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/preflight_linux_arm64.tar.gz"
+        "sha256": "1bfe5585b290350cbb8c681a931c40554a6253827a78b6a34284ac65e72f7595",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/preflight_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "preflight",
@@ -12475,8 +12475,8 @@
             "to": "."
           }
         ],
-        "sha256": "1dd59a03c5d6944e32952f998ce271cb154215ce79c96faba004932ff308ad81",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/preflight_darwin_all.tar.gz"
+        "sha256": "4f7c2201ef649cc36ea5f7c3ed7ec2a1ade7e89665751a1c9f58ffd1ad83530e",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/preflight_darwin_all.tar.gz"
       },
       "x86_64-linux": {
         "bin": "preflight",
@@ -12490,11 +12490,11 @@
             "to": "."
           }
         ],
-        "sha256": "a06d5bd06bd9156df02bc7ba413616f537f11961e66547e3a7c80e0c213b9a35",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/preflight_linux_amd64.tar.gz"
+        "sha256": "53633128c3e7a5ccf0dd9dbb1de7b73915a502a48d4f6b662c02eab8c98d31b8",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/preflight_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.134.3"
+    "version": "v0.134.4"
   },
   "preq": {
     "description": "Use common reliability enumerations (CREs) to detect problems",
@@ -13077,29 +13077,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-ray",
         "files": null,
-        "sha256": "b3a0fccf3797ea530663569848ad02ce999dcefe3e61f9f3a233f891a7fa29bf",
-        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.1/kubectl-ray_v1.7.1_darwin_arm64.tar.gz"
+        "sha256": "eafee16f52540b0dc8353f4a0f183ee4f64c3fa197af5db31547c144e7b6f298",
+        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.2/kubectl-ray_v1.7.2_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-ray",
         "files": null,
-        "sha256": "cac1a86ea60162b5a2e0c13a98d3a9681cdb216489d211b31d72925e8a9c23d2",
-        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.1/kubectl-ray_v1.7.1_linux_arm64.tar.gz"
+        "sha256": "3016e07d6d1e3c9051c2fe1b309616999c1c45189e5dc716e7323e1dba630479",
+        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.2/kubectl-ray_v1.7.2_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-ray",
         "files": null,
-        "sha256": "298fdf64a96d7e8b7ece36a050794b6492779b8a5866e301c0615a38604086cc",
-        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.1/kubectl-ray_v1.7.1_darwin_amd64.tar.gz"
+        "sha256": "da31760a674909e5f8e58660a04d3dc4669e07454c870ed5afe3010c0bacf0ff",
+        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.2/kubectl-ray_v1.7.2_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-ray",
         "files": null,
-        "sha256": "c1f9521f73cef3034e41eeb38a3340883a2787c14fa2081e6aafab9f362bc437",
-        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.1/kubectl-ray_v1.7.1_linux_amd64.tar.gz"
+        "sha256": "c63fa1be99c08f2b06ea71d38dc3305532d63da5de203f0afe88c1a3f4f99c12",
+        "url": "https://github.com/ray-project/kuberay/releases/download/v1.7.2/kubectl-ray_v1.7.2_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.7.1"
+    "version": "v1.7.2"
   },
   "rbac-lookup": {
     "description": "Reverse lookup for RBAC",
@@ -15906,8 +15906,8 @@
             "to": "."
           }
         ],
-        "sha256": "7dd517bc0cd5d3e54c76e9df95b4383c1ed558addb43a1e41437ec93564e4376",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/support-bundle_darwin_all.tar.gz"
+        "sha256": "45347ca8378c469200a49b1271a182b5a86ffe0660cc2fbf40a16a0d3c0ef917",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/support-bundle_darwin_all.tar.gz"
       },
       "aarch64-linux": {
         "bin": "support-bundle",
@@ -15921,8 +15921,8 @@
             "to": "."
           }
         ],
-        "sha256": "5785cb3f83c172e5d23ee95861ba0cef79a573a4a3dd428bf9d9cc22a9a4593f",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/support-bundle_linux_arm64.tar.gz"
+        "sha256": "50ec9a581ca71374d59801ba08657d063ab98a5d3c73f510a06dd5c7ece5a221",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/support-bundle_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "support-bundle",
@@ -15936,8 +15936,8 @@
             "to": "."
           }
         ],
-        "sha256": "7dd517bc0cd5d3e54c76e9df95b4383c1ed558addb43a1e41437ec93564e4376",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/support-bundle_darwin_all.tar.gz"
+        "sha256": "45347ca8378c469200a49b1271a182b5a86ffe0660cc2fbf40a16a0d3c0ef917",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/support-bundle_darwin_all.tar.gz"
       },
       "x86_64-linux": {
         "bin": "support-bundle",
@@ -15951,11 +15951,11 @@
             "to": "."
           }
         ],
-        "sha256": "6c7db621f939dfb98250a5a1f295e8c212641685422c058a083bb0f4477abe7d",
-        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.3/support-bundle_linux_amd64.tar.gz"
+        "sha256": "120ffd7d641f608202a134d788b693c16edeec1fd09ff0882a85a1c21e8cf5e1",
+        "url": "https://github.com/replicatedhq/troubleshoot/releases/download/v0.134.4/support-bundle_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.134.3"
+    "version": "v0.134.4"
   },
   "survive-zone": {
     "description": "Show which workloads die when a zone is lost",

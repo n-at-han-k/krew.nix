@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.13.1
+- **Version**: v5.13.4
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -2236,7 +2236,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.5.3
+- **Version**: v0.6.0
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`
@@ -2258,7 +2258,7 @@ revision matches.
 <details>
 <summary><strong>kubescape</strong> — Scan resources and cluster configs against security frameworks.</summary>
 
-- **Version**: v4.0.17
+- **Version**: v4.0.19
 - **Homepage**: https://kubescape.io/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubescape`
@@ -2313,7 +2313,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.20.4
+- **Version**: v0.20.5
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
@@ -3215,7 +3215,7 @@ revision matches.
 <details>
 <summary><strong>preflight</strong> — Executes application preflight tests in a cluster</summary>
 
-- **Version**: v0.134.3
+- **Version**: v0.134.4
 - **Homepage**: https://github.com/replicatedhq/troubleshoot
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#preflight`
@@ -3369,7 +3369,7 @@ revision matches.
 <details>
 <summary><strong>ray</strong> — Ray kubectl plugin</summary>
 
-- **Version**: v1.7.1
+- **Version**: v1.7.2
 - **Homepage**: https://github.com/ray-project/kuberay/tree/master/kubectl-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ray`
@@ -4062,7 +4062,7 @@ revision matches.
 <details>
 <summary><strong>support-bundle</strong> — Creates support bundles for off-cluster analysis</summary>
 
-- **Version**: v0.134.3
+- **Version**: v0.134.4
 - **Homepage**: https://github.com/replicatedhq/troubleshoot
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#support-bundle`
