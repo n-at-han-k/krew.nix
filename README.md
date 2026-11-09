@@ -1675,7 +1675,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.13.10
+- **Version**: v5.13.12
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1763,7 +1763,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.12.0
+- **Version**: v0.13.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -2170,7 +2170,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.17
+- **Version**: v0.10.18
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
@@ -3358,7 +3358,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.20.1
+- **Version**: v1.20.2
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -4370,7 +4370,7 @@ revision matches.
 <details>
 <summary><strong>view-secret</strong> — Decode Kubernetes secrets</summary>
 
-- **Version**: v0.16.0
+- **Version**: v0.17.0
 - **Homepage**: https://github.com/elsesiy/kubectl-view-secret
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#view-secret`
