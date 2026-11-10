@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-420 plugins.
+421 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -1046,6 +1046,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>datapath</strong> — Observe evidence along a selected network path</summary>
+
+- **Version**: v0.2.0
+- **Homepage**: https://github.com/SRodi/kubectl-datapath
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#datapath`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#datapath`, then `kubectl datapath`
+- **Binary**: `kubectl-datapath`
+
+</details>
+<details>
 <summary><strong>datree</strong> — Scan your cluster resources for misconfigurations</summary>
 
 - **Version**: v0.1.3
@@ -1675,7 +1686,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.13.12
+- **Version**: v5.13.16
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -2280,7 +2291,7 @@ revision matches.
 <details>
 <summary><strong>kubesplaining</strong> — Scan for security risks and RBAC escalation paths</summary>
 
-- **Version**: v1.3.0
+- **Version**: v1.4.0
 - **Homepage**: https://github.com/0hardik1/kubesplaining
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubesplaining`
@@ -3677,7 +3688,7 @@ revision matches.
 <details>
 <summary><strong>rook-ceph</strong> — Rook plugin for Ceph management</summary>
 
-- **Version**: v0.9.6
+- **Version**: v0.10.0
 - **Homepage**: https://github.com/rook/kubectl-rook-ceph
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#rook-ceph`

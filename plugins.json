@@ -4001,6 +4001,37 @@
     },
     "version": "v1.31.2"
   },
+  "datapath": {
+    "description": "Observe evidence along a selected network path",
+    "homepage": "https://github.com/SRodi/kubectl-datapath",
+    "systems": {
+      "aarch64-darwin": {
+        "bin": "kubectl-datapath",
+        "files": null,
+        "sha256": "cf89fde074e389a7343b73e78b2f0abb715376ac6eea66e3575169c4fc7430df",
+        "url": "https://github.com/SRodi/kubectl-datapath/releases/download/v0.2.0/kubectl-datapath_0.2.0_darwin_arm64.tar.gz"
+      },
+      "aarch64-linux": {
+        "bin": "kubectl-datapath",
+        "files": null,
+        "sha256": "54a2116f79e1fc3d977249b8823d27fef7462614c1f7eb52b133120b160fc034",
+        "url": "https://github.com/SRodi/kubectl-datapath/releases/download/v0.2.0/kubectl-datapath_0.2.0_linux_arm64.tar.gz"
+      },
+      "x86_64-darwin": {
+        "bin": "kubectl-datapath",
+        "files": null,
+        "sha256": "ce91e8a00c3d66e02d4091120851141958519a7e1d7e445ec4760a0c679690e4",
+        "url": "https://github.com/SRodi/kubectl-datapath/releases/download/v0.2.0/kubectl-datapath_0.2.0_darwin_amd64.tar.gz"
+      },
+      "x86_64-linux": {
+        "bin": "kubectl-datapath",
+        "files": null,
+        "sha256": "97c60a40a414f1de967855cdab4e00d7c7a32d6cace825890bf6734746dfe765",
+        "url": "https://github.com/SRodi/kubectl-datapath/releases/download/v0.2.0/kubectl-datapath_0.2.0_linux_amd64.tar.gz"
+      }
+    },
+    "version": "v0.2.0"
+  },
   "datree": {
     "description": "Scan your cluster resources for misconfigurations",
     "homepage": "https://github.com/datreeio/kubectl-datree",
@@ -6483,29 +6514,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "4576cc123ef077c5a929ec29f1524dbc3c5984baf3ed74e148f171e41242196f",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.12/kubectl-gs-v5.13.12-darwin-arm64.tar.gz"
+        "sha256": "6f19cfa4c71060bba1167cf70dadbb8fcd5cfb9a82a6c9ffde9584554909e295",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "f3c451a0ca14ad3c6bbdbdb8f804853ffcec6ab8359688343d91c6dbd79b9e25",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.12/kubectl-gs-v5.13.12-linux-arm64.tar.gz"
+        "sha256": "3b5c4688e35fab1660230717b3e8b651f09a52b021de00c22a924bb981500b5d",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "3ed2bbe80ba2c6d3635774acdfe8fe3d160b4da5d763fce64a02f8d94220ec43",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.12/kubectl-gs-v5.13.12-darwin-amd64.tar.gz"
+        "sha256": "008a4889ddf576eecf4355d6636fcdbf791d919e4973ff7908ffad3d41b807da",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "bb6c8b04330e6f55d2838c497862ac8447897548a7f924028072451237df8741",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.12/kubectl-gs-v5.13.12-linux-amd64.tar.gz"
+        "sha256": "818bac2ea1462670990fed5274279206e3f9fd72b30cb20e3bac345723a8c6f2",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.13.12"
+    "version": "v5.13.16"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -8678,8 +8709,8 @@
             "to": "."
           }
         ],
-        "sha256": "a092ec29577c69519bec308a352e952462da5e430c3d84f9d7e24cd6a74907be",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Darwin_arm64.tar.gz"
+        "sha256": "9c5b0e8cb58df5a5d4a5268f95dfc943fd73a4be6187638dfbfd8e79c1616ede",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.4.0/kubesplaining_1.4.0_Darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubesplaining",
@@ -8693,8 +8724,8 @@
             "to": "."
           }
         ],
-        "sha256": "b57bb799ac1d449c251c5ce0ac32eb644fd7c345d4dc5e27c7e509bcb4435749",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Linux_arm64.tar.gz"
+        "sha256": "70cba89dc711264b0c30ce6505af37679580a9889acff20fd05cb0d628fb195c",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.4.0/kubesplaining_1.4.0_Linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubesplaining",
@@ -8708,8 +8739,8 @@
             "to": "."
           }
         ],
-        "sha256": "cbe907262a6937c2ce8445cfcdba091c7781dfb845d4d83536b64f405228d04b",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Darwin_x86_64.tar.gz"
+        "sha256": "f1319c560ffb5a4b3c6e00c92d482649017cf02dd8a44923f5404175a8b15b25",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.4.0/kubesplaining_1.4.0_Darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubesplaining",
@@ -8723,11 +8754,11 @@
             "to": "."
           }
         ],
-        "sha256": "2c21817fa914f976c717d9140630ca568afcba3629b3d0eac2522378c9e75490",
-        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.3.0/kubesplaining_1.3.0_Linux_x86_64.tar.gz"
+        "sha256": "975eff19ab0483d8166bfd922ecc865df1c2aa3df25886bfd5f328e82416a132",
+        "url": "https://github.com/0hardik1/kubesplaining/releases/download/v1.4.0/kubesplaining_1.4.0_Linux_x86_64.tar.gz"
       }
     },
-    "version": "v1.3.0"
+    "version": "v1.4.0"
   },
   "kubetail": {
     "description": "Logging tool for Kubernetes with real-time web dashboard",
@@ -14117,29 +14148,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-rook-ceph",
         "files": null,
-        "sha256": "275a19f06fb598d7897ef4aac9c2391bfa50dc99df9eac43fcc8d8e053e80525",
-        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.9.6/kubectl-rook-ceph_v0.9.6_darwin_arm64.tar.gz"
+        "sha256": "f8c3c7f40e2c6fef57d3809d3b67111eff773d754d334fe497ec636ac0f62bff",
+        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.10.0/kubectl-rook-ceph_v0.10.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-rook-ceph",
         "files": null,
-        "sha256": "ef5713c75c28f03a41f8145203a09793058bb5fb7d5732b7d39e48bba715bfa6",
-        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.9.6/kubectl-rook-ceph_v0.9.6_linux_arm64.tar.gz"
+        "sha256": "380ee2eab1d16058d046f06398d38165c2223a1ebd8a8ebe41b4a2ce7ffddc2f",
+        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.10.0/kubectl-rook-ceph_v0.10.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-rook-ceph",
         "files": null,
-        "sha256": "0797cd0664039335c3fd33476f393e0e71935b347448aaf517fb78e12a96540b",
-        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.9.6/kubectl-rook-ceph_v0.9.6_darwin_amd64.tar.gz"
+        "sha256": "7b36d59a46aef05bffb67fd62a519180299a7654a1c4337479ce412100d13b8a",
+        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.10.0/kubectl-rook-ceph_v0.10.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-rook-ceph",
         "files": null,
-        "sha256": "8e26b3d42a6e32483a4326e0fa55008edbceac93ae6fa2d51d76151590e1da29",
-        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.9.6/kubectl-rook-ceph_v0.9.6_linux_amd64.tar.gz"
+        "sha256": "5cf781f778f444e33d7e868c152634a30b64823c2d293dfbfb48eb1cadc9693a",
+        "url": "https://github.com/rook/kubectl-rook-ceph/releases/download/v0.10.0/kubectl-rook-ceph_v0.10.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.9.6"
+    "version": "v0.10.0"
   },
   "rsync": {
     "description": "Syncs files between local filesystem and Kubernetes pods using rsync.",
