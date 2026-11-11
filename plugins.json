@@ -6514,29 +6514,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "6f19cfa4c71060bba1167cf70dadbb8fcd5cfb9a82a6c9ffde9584554909e295",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-darwin-arm64.tar.gz"
+        "sha256": "836bcf2214641cf117272cf4b042cd5f1c4160922e33674026da51cb6fd33d85",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.1/kubectl-gs-v6.0.1-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "3b5c4688e35fab1660230717b3e8b651f09a52b021de00c22a924bb981500b5d",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-linux-arm64.tar.gz"
+        "sha256": "e93f67eb3155c0dadf62b61506ff6f841121cb69389760131d447d73e8149762",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.1/kubectl-gs-v6.0.1-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "008a4889ddf576eecf4355d6636fcdbf791d919e4973ff7908ffad3d41b807da",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-darwin-amd64.tar.gz"
+        "sha256": "5b9350e2ff793e4292be2818d51ae430a6adbce58f20d9cfc47686af8ab98a42",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.1/kubectl-gs-v6.0.1-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "818bac2ea1462670990fed5274279206e3f9fd72b30cb20e3bac345723a8c6f2",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v5.13.16/kubectl-gs-v5.13.16-linux-amd64.tar.gz"
+        "sha256": "9c9583881802f3b46549679cea152f134e44df4cfff9bea4995ee7a6871901bd",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.1/kubectl-gs-v6.0.1-linux-amd64.tar.gz"
       }
     },
-    "version": "v5.13.16"
+    "version": "v6.0.1"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -13808,29 +13808,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-retina-darwin-arm64",
         "files": null,
-        "sha256": "bdadac390b9dc7faca2ad870d986c03ac974510a2a0fffa5232e8aa1f3c76272",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-darwin-arm64-v1.3.1.tar.gz"
+        "sha256": "62f97c04f89094208ad23fc9a18d3171ce1a16df89fbe5840a6795943b2b0de9",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-darwin-arm64-v1.3.2.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-retina-linux-arm64",
         "files": null,
-        "sha256": "707babdaa1ab950f04fbaf0939e6805537b699c2ec3dbba6f953dbdb20e9d8ce",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-linux-arm64-v1.3.1.tar.gz"
+        "sha256": "da19494067799f51167740764b814b38ad5eff15b759f239124d36779d5335af",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-linux-arm64-v1.3.2.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-retina-darwin-amd64",
         "files": null,
-        "sha256": "e14cfb18ea3845d0063129949bf3ce0e348c7f8edafdb778220cecb3e03f4171",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-darwin-amd64-v1.3.1.tar.gz"
+        "sha256": "95c1040462342c2ba0f2161c0d08f9521056df74a2c33195b5993fe18bcd8dbf",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-darwin-amd64-v1.3.2.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-retina-linux-amd64",
         "files": null,
-        "sha256": "5780b03239da39eef916ec81605b5c4fbff552e77eb1d3dacffac449b845a1b1",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.1/kubectl-retina-linux-amd64-v1.3.1.tar.gz"
+        "sha256": "ec24379f282be6e124c105120a1cb1d98e88e78dd5dcf88848d979552b9f3a74",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-linux-amd64-v1.3.2.tar.gz"
       }
     },
-    "version": "v1.3.1"
+    "version": "v1.3.2"
   },
   "reverse-proxy": {
     "description": "Start reverse proxy for the Service Pods.",

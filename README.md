@@ -1686,7 +1686,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v5.13.16
+- **Version**: v6.0.1
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -3600,7 +3600,7 @@ revision matches.
 <details>
 <summary><strong>retina</strong> — Distributed network captures and telemetry</summary>
 
-- **Version**: v1.3.1
+- **Version**: v1.3.2
 - **Homepage**: https://github.com/microsoft/retina
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#retina`
