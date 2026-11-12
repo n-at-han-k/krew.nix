@@ -1686,7 +1686,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v6.0.1
+- **Version**: v6.0.2
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1774,7 +1774,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.13.0
+- **Version**: v0.14.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -1928,7 +1928,7 @@ revision matches.
 <details>
 <summary><strong>joulie</strong> — Energy dashboard of a Joulie-managed cluster</summary>
 
-- **Version**: v0.2.4
+- **Version**: v0.3.0
 - **Homepage**: https://joulie-k8s.github.io/Joulie/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#joulie`
@@ -2181,7 +2181,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.18
+- **Version**: v0.10.19
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
@@ -2192,7 +2192,7 @@ revision matches.
 <details>
 <summary><strong>kor</strong> — Kor is a tool to discover unused K8s resources.</summary>
 
-- **Version**: v0.6.9
+- **Version**: v0.7.0
 - **Homepage**: https://github.com/yonahd/kor
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kor`
@@ -2511,7 +2511,7 @@ revision matches.
 <details>
 <summary><strong>mdba</strong> — Manage mariadb-operator semi-sync replication clusters</summary>
 
-- **Version**: v0.0.17
+- **Version**: v0.0.18
 - **Homepage**: https://github.com/hedgieinsocks/kubectl-mdba
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#mdba`
@@ -3358,7 +3358,7 @@ revision matches.
 <details>
 <summary><strong>rabbitmq</strong> — Manage RabbitMQ clusters</summary>
 
-- **Version**: v2.23.2
+- **Version**: v2.23.3
 - **Homepage**: https://github.com/rabbitmq/cluster-operator
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#rabbitmq`
@@ -4007,7 +4007,7 @@ revision matches.
 <details>
 <summary><strong>status</strong> — Show status of Kubernetes resources at a glance.</summary>
 
-- **Version**: v0.7.28
+- **Version**: v0.7.29
 - **Homepage**: https://github.com/bergerx/kubectl-status
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#status`
