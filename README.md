@@ -1455,7 +1455,7 @@ revision matches.
 <details>
 <summary><strong>fd</strong> — Find resources and perform action on them.</summary>
 
-- **Version**: v0.19.2
+- **Version**: v0.19.3
 - **Homepage**: https://github.com/alikhil/kubectl-find
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#fd`
@@ -1686,7 +1686,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v6.0.2
+- **Version**: v6.0.4
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -2181,7 +2181,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.19
+- **Version**: v0.10.20
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
@@ -2324,7 +2324,7 @@ revision matches.
 <details>
 <summary><strong>kueue</strong> — Controls Kueue queueing manager.</summary>
 
-- **Version**: v0.20.5
+- **Version**: v0.20.6
 - **Homepage**: https://kueue.sigs.k8s.io/docs/reference/kubectl-kueue/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kueue`
@@ -2511,7 +2511,7 @@ revision matches.
 <details>
 <summary><strong>mdba</strong> — Manage mariadb-operator semi-sync replication clusters</summary>
 
-- **Version**: v0.0.18
+- **Version**: v0.0.19
 - **Homepage**: https://github.com/hedgieinsocks/kubectl-mdba
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#mdba`
@@ -2643,7 +2643,7 @@ revision matches.
 <details>
 <summary><strong>mtv</strong> — Migrate VMs to KubeVirt using Forklift</summary>
 
-- **Version**: v0.3.35
+- **Version**: v0.3.36
 - **Homepage**: https://github.com/yaacov/kubectl-mtv
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#mtv`
@@ -3182,7 +3182,7 @@ revision matches.
 <details>
 <summary><strong>podtrace</strong> — eBPF diagnostics for Kubernetes pods</summary>
 
-- **Version**: v0.15.3
+- **Version**: v0.15.4
 - **Homepage**: https://github.com/gma1k/podtrace
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#podtrace`
@@ -3545,7 +3545,7 @@ revision matches.
 <details>
 <summary><strong>resource-backup</strong> — Save Kubernetes resources to disk</summary>
 
-- **Version**: v0.3.5
+- **Version**: v0.3.6
 - **Homepage**: https://github.com/zak905/kubectl-resource-backup
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#resource-backup`
