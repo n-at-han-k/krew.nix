@@ -2181,7 +2181,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.20
+- **Version**: v0.10.21
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
@@ -2247,7 +2247,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.6.1
+- **Version**: v0.6.2
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`
@@ -2269,7 +2269,7 @@ revision matches.
 <details>
 <summary><strong>kubescape</strong> — Scan resources and cluster configs against security frameworks.</summary>
 
-- **Version**: v4.0.20
+- **Version**: v4.0.21
 - **Homepage**: https://kubescape.io/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kubescape`
@@ -3369,7 +3369,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.20.2
+- **Version**: v1.20.3
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`

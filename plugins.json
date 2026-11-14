@@ -8195,8 +8195,8 @@
             "to": "."
           }
         ],
-        "sha256": "2129350a381e6909a228143ab303d886493790b4266940543ec8c8ec384d18a8",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.20/kubectl-kopiur_0.10.20_darwin_arm64.tar.gz"
+        "sha256": "2d28222fdaffd3e3443e3877db351b4f521549bbea7bf7f1f39b79ebd48b1b6d",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kopiur",
@@ -8210,8 +8210,8 @@
             "to": "."
           }
         ],
-        "sha256": "cbccf3e1812ea4ce91dd4fe5d14049590bcac2505e3c35b3d0613d508b049112",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.20/kubectl-kopiur_0.10.20_linux_arm64.tar.gz"
+        "sha256": "5de04a972b71ddd8fd66ca4c880e56beedbda81983088f69fba32f77df6e20a3",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kopiur",
@@ -8225,8 +8225,8 @@
             "to": "."
           }
         ],
-        "sha256": "78c6212118ea67f32f2f9ae4b41e0211c8c346cd6c9ebed7f33580668abe19fe",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.20/kubectl-kopiur_0.10.20_darwin_amd64.tar.gz"
+        "sha256": "dd3ae21fd69a3362bcc1b6bbe012f7a35d65dc6da75cb5331e8a71bbcbfdfce0",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kopiur",
@@ -8240,11 +8240,11 @@
             "to": "."
           }
         ],
-        "sha256": "ceebabe53ebfa62ab7ce4bcd70e60c8f32f411147f731406638cd5db3de288c6",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.20/kubectl-kopiur_0.10.20_linux_amd64.tar.gz"
+        "sha256": "f5d50159fab46fc3ff59b5b365b6ce70aad1e657603fe11430b6d8e287d7c138",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.10.20"
+    "version": "v0.10.21"
   },
   "kor": {
     "description": "Kor is a tool to discover unused K8s resources.",
@@ -8504,29 +8504,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "aac95fd923f12b71cd7755ca601394e4ef2860124331f0bf394ddd121fbd94fc",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.1/kubectl-ktop_v0.6.1_darwin_arm64.tar.gz"
+        "sha256": "48d7657262ad9e35263f4540d577ca4b299a9f5be5e27331bf007216bfa52aa9",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "dbe790a7a7fe6404d7640896814c7c290b4a8889bb23b827bdbbe27c2a4c5858",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.1/kubectl-ktop_v0.6.1_linux_arm64.tar.gz"
+        "sha256": "6325a9bc5d25c1a40422c2a69f8050228270d6f99b47f8491c6d4ab2ff834847",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "5533d207e51f011b19ddf7bd79175871aa1b9fa4c5e2aea4e8e54432c6a39d15",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.1/kubectl-ktop_v0.6.1_darwin_amd64.tar.gz"
+        "sha256": "eaa1f32fe49abf907d5577f01a2167c771b00c57612a22f2d45c6fab718bd118",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "5ae513e866f4a5cb40f74ca106d917c90ff28b773c978d21275ba6c2b3d94173",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.1/kubectl-ktop_v0.6.1_linux_amd64.tar.gz"
+        "sha256": "4acede01321cf786fc1dc4560ff28cbccf2fd3ab83b123ba40d6fc5e8d166af3",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.6.1"
+    "version": "v0.6.2"
   },
   "kuberecord": {
     "description": "Query recorded state changes",
@@ -8602,29 +8602,29 @@
       "aarch64-darwin": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "b3e54c96a33e8950e9e3f6c3aa67a7bcc272887d249c502fc00423e6b3e296f3",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_darwin_arm64.tar.gz"
+        "sha256": "cf9ff1364050923a98377a750436abff5bea41f3d6293593bbbddb1e0f4fa011",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.21/kubescape_4.0.21_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "a20a52f061c5fc3de0d7ffea133a8110bf051d15960618ab36a7430717ac6489",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_linux_arm64.tar.gz"
+        "sha256": "ebb3e2793c7e5a42c3fceff17b9541e4046fa5cd914c4a5fc6c15f42034de039",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.21/kubescape_4.0.21_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "d38a0f0706c4f9c8ccba22f6c821ff85022e9a3a8bf1802983fd13cb8ff08ea7",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_darwin_amd64.tar.gz"
+        "sha256": "e7a2e5db699e098a72a6ba4fce1435c70d722141d540d00e2ccdff3494243983",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.21/kubescape_4.0.21_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubescape",
         "files": null,
-        "sha256": "6586bb94b9a250ad1353df743e65008802da1515bd4eb3c80eb3c5ce40a16672",
-        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.20/kubescape_4.0.20_linux_amd64.tar.gz"
+        "sha256": "f901b27b3143441eff8a1c57216794b0765df6e322fd62fb82f81c1c314086ae",
+        "url": "https://github.com/kubescape/kubescape/releases/download/v4.0.21/kubescape_4.0.21_linux_amd64.tar.gz"
       }
     },
-    "version": "v4.0.20"
+    "version": "v4.0.21"
   },
   "kubesec-scan": {
     "description": "Scan Kubernetes resources with kubesec.io.",
@@ -13050,8 +13050,8 @@
             "to": "."
           }
         ],
-        "sha256": "35980aec01f0732ce6d38701e84cf5ae950300058418e7bebdaaf04f43237cf3",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.2/radar_v1.20.2_darwin_arm64.tar.gz"
+        "sha256": "3a00e038f7ed327d5a81cd6aca4a989280012bb0187e03d25c7793107737d0ec",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.3/radar_v1.20.3_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-radar",
@@ -13065,8 +13065,8 @@
             "to": "."
           }
         ],
-        "sha256": "08298ead37da82f4636e0ffe690f3c6ff8bf2b97a7138e8bc83a9b2d33badf8b",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.2/radar_v1.20.2_linux_arm64.tar.gz"
+        "sha256": "1d653b7b7d1c9883ce63aa39660f5fa0da39e4b4532dacbfaa6e26642ae94615",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.3/radar_v1.20.3_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-radar",
@@ -13080,8 +13080,8 @@
             "to": "."
           }
         ],
-        "sha256": "09d04ee6ebb0514f2c3a0e089ef302d3afe6749a811400f49f9799d888a8c4bb",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.2/radar_v1.20.2_darwin_amd64.tar.gz"
+        "sha256": "f2a9ea72739e430eb3c42308ea1f13c660fba077d6164f0d19dcd6c8450f01b2",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.3/radar_v1.20.3_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-radar",
@@ -13095,11 +13095,11 @@
             "to": "."
           }
         ],
-        "sha256": "29e47e66fdad66a07d6e3515573f2bfbc9474c59272491963b5b7a97d82e9aee",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.2/radar_v1.20.2_linux_amd64.tar.gz"
+        "sha256": "c762b8392d1e6f44c7b9076cd2fed6d790452235d72c0035a047549f7f104c6b",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.20.3/radar_v1.20.3_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.20.2"
+    "version": "v1.20.3"
   },
   "ray": {
     "description": "Ray kubectl plugin",
