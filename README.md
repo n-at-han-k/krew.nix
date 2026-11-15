@@ -1620,7 +1620,7 @@ revision matches.
 <details>
 <summary><strong>glance</strong> — View cluster resource allocation and usage.</summary>
 
-- **Version**: v0.3.2
+- **Version**: v0.4.1
 - **Homepage**: https://gitlab.com/davidxarnold/glance
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#glance`
