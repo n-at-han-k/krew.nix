@@ -814,29 +814,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-atlas",
         "files": null,
-        "sha256": "487d8ef9c8b03f6408b121c3804e9eec6baeef57a3da55572918954da2eb1cb2",
-        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.6.0/kubectl-atlas_1.6.0_darwin_arm64.tar.gz"
+        "sha256": "15737ce624b990716868f759ed5a204388b4d0e3c808c5ca4a3431d60c80efc1",
+        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.7.0/kubectl-atlas_1.7.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-atlas",
         "files": null,
-        "sha256": "fbf4e946f4dc142dc76e843893632d6453c6c6f13814a6c9bfb7f9cd87aa69bf",
-        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.6.0/kubectl-atlas_1.6.0_linux_arm64.tar.gz"
+        "sha256": "44f29cce0f1a794ad7c3da0b4178aa2d9c0a5c54e8e5d75970c8b4cb2aee1f04",
+        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.7.0/kubectl-atlas_1.7.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-atlas",
         "files": null,
-        "sha256": "c3ee07678a0028d76a2c43f7980445ef88788269069c45944cb2dda18d1b014e",
-        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.6.0/kubectl-atlas_1.6.0_darwin_amd64.tar.gz"
+        "sha256": "ce3995b4c8d3752bc292e6c585f1ed0e5b1e49e1a07602d950fd53926d36595d",
+        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.7.0/kubectl-atlas_1.7.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-atlas",
         "files": null,
-        "sha256": "1d27f7aa2585f944dd6bf86bd9f49ba4cb324076531ecffff6d2bbf3d2c15aca",
-        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.6.0/kubectl-atlas_1.6.0_linux_amd64.tar.gz"
+        "sha256": "60cca1ee6f9a5cfd43e386b12e5a251501d6b3a5eeb1e1e3c385f6e54dc31db4",
+        "url": "https://github.com/lithastra/kubeatlas/releases/download/v1.7.0/kubectl-atlas_1.7.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.6.0"
+    "version": "v1.7.0"
   },
   "attune": {
     "description": "Inspect and explain Attune pod right-sizing policies",
@@ -3300,29 +3300,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "c2d7e9f2e9dcc306d585a55983dfff991008a2c0f7feda2662a30428d7918dd3",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_darwin_arm64.tar.gz"
+        "sha256": "1484d1fa20995b1164417f614bb18c27d639be31a7d77227b177a2fd75ec58f8",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.1/kubectl-crust-gather_v0.18.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "f56adb4734234d605cb841a5b699531c6bf2da543b67863a3564c8622e850d30",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_linux_arm64.tar.gz"
+        "sha256": "283f588254391588335a3327154b5e37f2c1aff31c3b772e65fb04aafeb46411",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.1/kubectl-crust-gather_v0.18.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "a49697b50405d4e52bfa6cadb09c88d7786b9f7d5c1bf22f76ddc16baace4325",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_darwin_amd64.tar.gz"
+        "sha256": "b5bad8af8047176e07435d183efffc8450441dd52958f0179591e0d9ec9de9e4",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.1/kubectl-crust-gather_v0.18.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-crust-gather",
         "files": null,
-        "sha256": "1cb47d13e48cfa4488a6f1e0145cca4b1aa336a66a69f99a9fc575657ea0f5c9",
-        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.0/kubectl-crust-gather_v0.18.0_linux_amd64.tar.gz"
+        "sha256": "0170811954ec22969792b58984d98241db026e20ff2e971079f2a6af77e13c3f",
+        "url": "https://github.com/crust-gather/crust-gather/releases/download/v0.18.1/kubectl-crust-gather_v0.18.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.18.0"
+    "version": "v0.18.1"
   },
   "cs": {
     "description": "Quick Kubernetes context switcher",
@@ -8195,8 +8195,8 @@
             "to": "."
           }
         ],
-        "sha256": "2d28222fdaffd3e3443e3877db351b4f521549bbea7bf7f1f39b79ebd48b1b6d",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_darwin_arm64.tar.gz"
+        "sha256": "536571227006d55df532aa5f839abbe917c2cd72a5c7bd07667bc3b25473d4e3",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.11.0/kubectl-kopiur_0.11.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kopiur",
@@ -8210,8 +8210,8 @@
             "to": "."
           }
         ],
-        "sha256": "5de04a972b71ddd8fd66ca4c880e56beedbda81983088f69fba32f77df6e20a3",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_linux_arm64.tar.gz"
+        "sha256": "4d030ed1f1e0276036b54078eda969e37f487e93f96cc7937974a6301645204f",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.11.0/kubectl-kopiur_0.11.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kopiur",
@@ -8225,8 +8225,8 @@
             "to": "."
           }
         ],
-        "sha256": "dd3ae21fd69a3362bcc1b6bbe012f7a35d65dc6da75cb5331e8a71bbcbfdfce0",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_darwin_amd64.tar.gz"
+        "sha256": "bce4de64c826574a43da58e66810805dc539e2e02c62c836b1728501c4badcc5",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.11.0/kubectl-kopiur_0.11.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kopiur",
@@ -8240,11 +8240,11 @@
             "to": "."
           }
         ],
-        "sha256": "f5d50159fab46fc3ff59b5b365b6ce70aad1e657603fe11430b6d8e287d7c138",
-        "url": "https://github.com/home-operations/kopiur/releases/download/0.10.21/kubectl-kopiur_0.10.21_linux_amd64.tar.gz"
+        "sha256": "90cc67dd440458d590151e0bad570ea3cb7528ffbeaa010eb2d580375e6e3dce",
+        "url": "https://github.com/home-operations/kopiur/releases/download/0.11.0/kubectl-kopiur_0.11.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.10.21"
+    "version": "v0.11.0"
   },
   "kor": {
     "description": "Kor is a tool to discover unused K8s resources.",
@@ -8504,29 +8504,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "48d7657262ad9e35263f4540d577ca4b299a9f5be5e27331bf007216bfa52aa9",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_darwin_arm64.tar.gz"
+        "sha256": "14b739c28eb69dbb2af7c497f14ddaf094bba2265f2a2ad5ec7e6defc7b7f4f3",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "6325a9bc5d25c1a40422c2a69f8050228270d6f99b47f8491c6d4ab2ff834847",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_arm64.tar.gz"
+        "sha256": "6b58fe45f20d1ff31af2f4fad0e061888c0730ab5e01002a4be812323b7d0161",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "eaa1f32fe49abf907d5577f01a2167c771b00c57612a22f2d45c6fab718bd118",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_darwin_amd64.tar.gz"
+        "sha256": "9de37830b3ff163ccdef9354bf29dadf5a96be1d74efb27614a7ee5f7fedcea2",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "4acede01321cf786fc1dc4560ff28cbccf2fd3ab83b123ba40d6fc5e8d166af3",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.6.2/kubectl-ktop_v0.6.2_linux_amd64.tar.gz"
+        "sha256": "f8c8f650cdec29f7fbb9a6405922d46c2a68ac3c8aeadc9b4cfc1c323831a914",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.6.2"
+    "version": "v0.7.1"
   },
   "kuberecord": {
     "description": "Query recorded state changes",
@@ -12844,29 +12844,29 @@
       "aarch64-darwin": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "5ef6de5e1deefb36b5f312185fda00cd704a766c353265ce129eceb57e2dbf93",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_darwin_arm64.tar.gz"
+        "sha256": "d17221ae91696f37928e31e21b951d52feb621eadda8655377aad942ff2b883b",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.8.0/pv-migrate_v3.8.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "996ea63b4f91b4750e10aab6604803c6beadab9d2ca97a283cd7f39e299f1d3d",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_linux_arm64.tar.gz"
+        "sha256": "6163e57c0035d80e652bd3552ff621cbbb7f0ddd62715346714d561cbe2e4d6f",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.8.0/pv-migrate_v3.8.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "3421338537876b4241eb7e85632699d95fe1edae6c06980e4b61015f2154f335",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_darwin_x86_64.tar.gz"
+        "sha256": "cb15173fda41719d953b5ca8a6a9336e074de2127bfe5ab96c00dedae8fa9921",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.8.0/pv-migrate_v3.8.0_darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "pv-migrate",
         "files": null,
-        "sha256": "5e33342777786f07161d8629772cc46baf8a696de641d2d1537f4b9adb8bcdf1",
-        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.7.0/pv-migrate_v3.7.0_linux_x86_64.tar.gz"
+        "sha256": "8bb14641fc4d7e0b0d6f555d106a3c639ba05ed7f0df95502a879f225a9f364b",
+        "url": "https://github.com/utkuozdemir/pv-migrate/releases/download/v3.8.0/pv-migrate_v3.8.0_linux_x86_64.tar.gz"
       }
     },
-    "version": "v3.7.0"
+    "version": "v3.8.0"
   },
   "pv-mounter": {
     "description": "Mount PVC locally using SSHFS or NFS",
@@ -16955,29 +16955,29 @@
       "aarch64-darwin": {
         "bin": "./kubectl-view-allocations",
         "files": null,
-        "sha256": "09edd354ae9de580d65a762f8378efc3225a9e3e397485b31710ce81e48783bc",
-        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.1.0/kubectl-view-allocations_3.1.0-aarch64-apple-darwin.tar.gz"
+        "sha256": "5191e24b3701bba1dd155f9e0252eb7ba1d9bc4015f5014299ab04ce9c213fb8",
+        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.2.0/kubectl-view-allocations_3.2.0-aarch64-apple-darwin.tar.gz"
       },
       "aarch64-linux": {
         "bin": "./kubectl-view-allocations",
         "files": null,
-        "sha256": "4441ead7b23ed0d6577b39b91f452149128dbafaabb33d0a9c1ca9228788ed5a",
-        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.1.0/kubectl-view-allocations_3.1.0-aarch64-unknown-linux-musl.tar.gz"
+        "sha256": "557f7118d7e34fe966a9935b0bec20b3beeb012b3839e0bbe965debda88aab45",
+        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.2.0/kubectl-view-allocations_3.2.0-aarch64-unknown-linux-musl.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "./kubectl-view-allocations",
         "files": null,
-        "sha256": "7317933a92c78f538947a220410d94fc877dba4f1d54dc18350d599787b0865b",
-        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.1.0/kubectl-view-allocations_3.1.0-x86_64-apple-darwin.tar.gz"
+        "sha256": "4e907205db3a6e8f8e3dd7e1b196715a98b5c3a8ac58564fe831b01c1ddc585c",
+        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.2.0/kubectl-view-allocations_3.2.0-x86_64-apple-darwin.tar.gz"
       },
       "x86_64-linux": {
         "bin": "./kubectl-view-allocations",
         "files": null,
-        "sha256": "01d8a5053fe3f61acc7d8631d8c6c7e14c96e84a79f543e3aadf5f8c5d658407",
-        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.1.0/kubectl-view-allocations_3.1.0-x86_64-unknown-linux-musl.tar.gz"
+        "sha256": "0401cb551858aa672b3d2d7124cbb6c3faa18807bd26e15771f01213ea5a6c01",
+        "url": "https://github.com/davidB/kubectl-view-allocations/releases/download/3.2.0/kubectl-view-allocations_3.2.0-x86_64-unknown-linux-musl.tar.gz"
       }
     },
-    "version": "v3.1.0"
+    "version": "v3.2.0"
   },
   "view-cert": {
     "description": "View certificate information stored in secrets",

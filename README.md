@@ -278,7 +278,7 @@ revision matches.
 <details>
 <summary><strong>atlas</strong> — Visualize Kubernetes resource dependencies</summary>
 
-- **Version**: v1.6.0
+- **Version**: v1.7.0
 - **Homepage**: https://github.com/lithastra/kubeatlas
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#atlas`
@@ -905,7 +905,7 @@ revision matches.
 <details>
 <summary><strong>crust-gather</strong> — Collect cluster state and serve it via an API server</summary>
 
-- **Version**: v0.18.0
+- **Version**: v0.18.1
 - **Homepage**: https://github.com/crust-gather/crust-gather
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#crust-gather`
@@ -2181,7 +2181,7 @@ revision matches.
 <details>
 <summary><strong>kopiur</strong> — Operate the kopiur backup operator</summary>
 
-- **Version**: v0.10.21
+- **Version**: v0.11.0
 - **Homepage**: https://kopiur.home-operations.com/cli/
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kopiur`
@@ -2247,7 +2247,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.6.2
+- **Version**: v0.7.1
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`
@@ -3314,7 +3314,7 @@ revision matches.
 <details>
 <summary><strong>pv-migrate</strong> — Migrate data across persistent volumes</summary>
 
-- **Version**: v3.7.0
+- **Version**: v3.8.0
 - **Homepage**: https://github.com/utkuozdemir/pv-migrate
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#pv-migrate`
@@ -4348,7 +4348,7 @@ revision matches.
 <details>
 <summary><strong>view-allocations</strong> — List allocations per resources, nodes, pods.</summary>
 
-- **Version**: v3.1.0
+- **Version**: v3.2.0
 - **Homepage**: https://github.com/davidB/kubectl-view-allocations
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#view-allocations`
