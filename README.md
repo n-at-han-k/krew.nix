@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-421 plugins.
+427 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -207,6 +207,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#aperf`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#aperf`, then `kubectl aperf`
 - **Binary**: `kubectl-aperf`
+
+</details>
+<details>
+<summary><strong>apf</strong> — Show APF priority levels and flow schemas</summary>
+
+- **Version**: v0.1.0
+- **Homepage**: https://github.com/marinoborges/kubectl-apf
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#apf`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#apf`, then `kubectl apf`
+- **Binary**: `kubectl-apf`
 
 </details>
 <details>
@@ -361,6 +372,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#beam`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#beam`, then `kubectl beam`
 - **Binary**: `kubectl-beam`
+
+</details>
+<details>
+<summary><strong>behold</strong> — Visualize a cluster's objects and the cloud resources they use</summary>
+
+- **Version**: v0.1.1
+- **Homepage**: https://github.com/INTENTIUS/behold/tree/main/surfaces/kubectl-behold
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#behold`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#behold`, then `kubectl behold`
+- **Binary**: `kubectl-behold`
 
 </details>
 <details>
@@ -526,6 +548,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#cisco-vk`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#cisco-vk`, then `kubectl cisco-vk`
 - **Binary**: `kubectl-cisco_vk`
+
+</details>
+<details>
+<summary><strong>claimcheck</strong> — Explain why DRA can't allocate devices to a pod</summary>
+
+- **Version**: v0.1.0
+- **Homepage**: https://github.com/asaleem9/claimcheck
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#claimcheck`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#claimcheck`, then `kubectl claimcheck`
+- **Binary**: `kubectl-claimcheck`
 
 </details>
 <details>
@@ -1620,7 +1653,7 @@ revision matches.
 <details>
 <summary><strong>glance</strong> — View cluster resource allocation and usage.</summary>
 
-- **Version**: v0.4.1
+- **Version**: v0.4.3
 - **Homepage**: https://gitlab.com/davidxarnold/glance
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#glance`
@@ -1686,7 +1719,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v6.0.4
+- **Version**: v6.0.5
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -2685,6 +2718,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>napwake</strong> — Find idle workloads, and pause and wake them</summary>
+
+- **Version**: v0.2.0
+- **Homepage**: https://github.com/napwake/napwake
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#napwake`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#napwake`, then `kubectl napwake`
+- **Binary**: `kubectl-napwake`
+
+</details>
+<details>
 <summary><strong>nasty</strong> — Manage NASty CSI volumes</summary>
 
 - **Version**: v0.0.5
@@ -3257,6 +3301,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>probes</strong> — Inspect probe config, timing, and failures</summary>
+
+- **Version**: v0.1.0
+- **Homepage**: https://github.com/mertdotcc/kubectl-probes
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#probes`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#probes`, then `kubectl probes`
+- **Binary**: `kubectl-probes`
+
+</details>
+<details>
 <summary><strong>profefe</strong> — Gather and manage pprof profiles from running pods</summary>
 
 - **Version**: v0.10.0
@@ -3446,7 +3501,7 @@ revision matches.
 <details>
 <summary><strong>readonly-leaky</strong> — Read-only wrapper that shows secret values</summary>
 
-- **Version**: v0.7.0
+- **Version**: v0.7.2
 - **Homepage**: https://github.com/Evaneos/kubectl-readonly
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#readonly-leaky`
@@ -3457,7 +3512,7 @@ revision matches.
 <details>
 <summary><strong>readonly-strict</strong> — Read-only wrapper with a sanitized environment</summary>
 
-- **Version**: v0.7.1
+- **Version**: v0.7.2
 - **Homepage**: https://github.com/Evaneos/kubectl-readonly
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#readonly-strict`
@@ -3468,7 +3523,7 @@ revision matches.
 <details>
 <summary><strong>readonly</strong> — Guardrail against accidental cluster changes</summary>
 
-- **Version**: v0.7.1
+- **Version**: v0.7.2
 - **Homepage**: https://github.com/Evaneos/kubectl-readonly
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#readonly`
@@ -3584,6 +3639,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#resource-versions`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#resource-versions`, then `kubectl resource-versions`
 - **Binary**: `kubectl-resource_versions`
+
+</details>
+<details>
+<summary><strong>restart-info</strong> — Inspect Pod restarts.</summary>
+
+- **Version**: v0.1.2
+- **Homepage**: https://github.com/sdmoradi/krestart
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#restart-info`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#restart-info`, then `kubectl restart-info`
+- **Binary**: `kubectl-restart_info`
 
 </details>
 <details>
