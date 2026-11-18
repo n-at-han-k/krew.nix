@@ -663,7 +663,7 @@ revision matches.
 <details>
 <summary><strong>cnpg</strong> — Manage your CloudNativePG clusters</summary>
 
-- **Version**: v1.30.1
+- **Version**: v1.30.2
 - **Homepage**: https://github.com/cloudnative-pg/cloudnative-pg
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#cnpg`
@@ -1719,7 +1719,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v6.0.5
+- **Version**: v6.0.7
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -2280,7 +2280,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.7.1
+- **Version**: v0.7.2
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`

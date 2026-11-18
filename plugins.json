@@ -2339,29 +2339,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "74836f530b54f060126fc8cf5fd5c27e77801a6d36f61b66f4457218aa11383f",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_darwin_arm64.tar.gz"
+        "sha256": "0861f0176fef5985765c72c5afd25928b335c6aebd3b8b4afce6fb44f2b2fe16",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.2/kubectl-cnpg_1.30.2_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "6ffad753bbbf5d353576967233063f2ba0adb843a4e7ef5ff4cb7384b2716d5e",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_linux_arm64.tar.gz"
+        "sha256": "2882241ec1e2ba8ed32a7a3735de278adb34349b570729b8bb867eedc1f57e64",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.2/kubectl-cnpg_1.30.2_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "165a49352b8a60ba2eb7bf2b56e5388ff678ac5af36dc03129cedeaf3a37aee3",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_darwin_x86_64.tar.gz"
+        "sha256": "2f6d388f8f1df6b8d4dd2504cecb9dc894645c22e8abe79c00a50fe770fcfa8c",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.2/kubectl-cnpg_1.30.2_darwin_x86_64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-cnpg",
         "files": null,
-        "sha256": "784bc46f176b24a150d5de84d0691f10ff613b59456af86b1a4868e1bacb9953",
-        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.1/kubectl-cnpg_1.30.1_linux_x86_64.tar.gz"
+        "sha256": "a926584a2506f2beff624af03d22eb742d6227e259e364e603ea2f88a791a507",
+        "url": "https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.30.2/kubectl-cnpg_1.30.2_linux_x86_64.tar.gz"
       }
     },
-    "version": "v1.30.1"
+    "version": "v1.30.2"
   },
   "colorize-applied": {
     "description": "Colorize results of apply/dry-run",
@@ -6715,29 +6715,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "5e392fdcaefd3b8517723b831b35fdb9bfed29612b58bfcdd1238ba4b887db71",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.5/kubectl-gs-v6.0.5-darwin-arm64.tar.gz"
+        "sha256": "8098289a5ecd3e43701fe0631c7c34071480507fe1f5b1aec03d37d142f8121d",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "4fe62d69dd95dab9eda5f822f2572ee8e0a01392ea62d194b38903226db597c3",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.5/kubectl-gs-v6.0.5-linux-arm64.tar.gz"
+        "sha256": "ca8b58b05c040d8390ef07b97c27314d7de042d63406f0180a178855a40eb9b9",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "5d4015bf44666132c540a78f7048efb351b7a4f37a80ab672c6c8c304a76ba45",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.5/kubectl-gs-v6.0.5-darwin-amd64.tar.gz"
+        "sha256": "cc198a3d4e90e304cb0bc16543897c22a0a10e40046491d04facac6e8c978239",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "f06ad1987ff20b8e7a1e0427c33d583ac80938e1720d662262f8b4732246e1bc",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.5/kubectl-gs-v6.0.5-linux-amd64.tar.gz"
+        "sha256": "267906527f333a8dd970b23a3e6fad315b1d49fe2696b1e90ab7ff8a209e7449",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-linux-amd64.tar.gz"
       }
     },
-    "version": "v6.0.5"
+    "version": "v6.0.7"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -8705,29 +8705,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "14b739c28eb69dbb2af7c497f14ddaf094bba2265f2a2ad5ec7e6defc7b7f4f3",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_darwin_arm64.tar.gz"
+        "sha256": "cc739836f122ffd24683394f2ad1d5d48b4bea9d84fd7cb97c95bee4e25ab6ef",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.2/kubectl-ktop_v0.7.2_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "6b58fe45f20d1ff31af2f4fad0e061888c0730ab5e01002a4be812323b7d0161",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_linux_arm64.tar.gz"
+        "sha256": "960a041ebd1e4a8436e7b2f9ff660d18a083f7dd83abcc5974414ec03c54d2e1",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.2/kubectl-ktop_v0.7.2_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "9de37830b3ff163ccdef9354bf29dadf5a96be1d74efb27614a7ee5f7fedcea2",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_darwin_amd64.tar.gz"
+        "sha256": "a37639b99800eea57399c1bc1de785fec95c46da26fe4a950f3176b4bfc5cd40",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.2/kubectl-ktop_v0.7.2_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-ktop",
         "files": null,
-        "sha256": "f8c8f650cdec29f7fbb9a6405922d46c2a68ac3c8aeadc9b4cfc1c323831a914",
-        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.1/kubectl-ktop_v0.7.1_linux_amd64.tar.gz"
+        "sha256": "38464b2e63f930e43f100323e34307d36d285d30d1d871a80eb2233406ab5dfe",
+        "url": "https://github.com/vladimirvivien/ktop/releases/download/v0.7.2/kubectl-ktop_v0.7.2_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.7.1"
+    "version": "v0.7.2"
   },
   "kuberecord": {
     "description": "Query recorded state changes",
