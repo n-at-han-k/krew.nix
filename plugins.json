@@ -912,29 +912,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "f71111a76c3552c94eceefd3e4ac3d5cdfba609f6fdf776f4a9a46ab250300b1",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.37/kubectl-attune_darwin_arm64.tar.gz"
+        "sha256": "df492f97483d558633fe3ae415b2d02630fdfa696be1d76b443c9fe3127bfbf1",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.38/kubectl-attune_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "5a6e9059f4567b72cd0890898205b2c6bf970c114a2784493543979e98813569",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.37/kubectl-attune_linux_arm64.tar.gz"
+        "sha256": "1f3bee285755be8839eab5e8b8335c012877d0cf066eb13684e5852a4e132401",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.38/kubectl-attune_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "e7e05d0591e071aecd69b41541c7c9e11c2dc11e50ca3905dee623e74674c3aa",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.37/kubectl-attune_darwin_amd64.tar.gz"
+        "sha256": "6691f37afcb4327cb1155548d94481d4eb166dafddb329e12982119e6c877942",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.38/kubectl-attune_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-attune",
         "files": null,
-        "sha256": "d9b562f5dcb5168cb4868969a8a52d5ba4a941444720399bb62c629fccf45682",
-        "url": "https://github.com/attune-io/attune/releases/download/v0.1.37/kubectl-attune_linux_amd64.tar.gz"
+        "sha256": "d5d2050588e95b4c54f676890620cefcf6baf6fd361917c6e0404d8fc0c26091",
+        "url": "https://github.com/attune-io/attune/releases/download/v0.1.38/kubectl-attune_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.1.37"
+    "version": "v0.1.38"
   },
   "auth-proxy": {
     "description": "Authentication proxy to a pod or service",
@@ -5096,29 +5096,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-edit_secret",
         "files": null,
-        "sha256": "38ad0a693586b2b6cd70f556b0ec57cb628cabb3cb667a9a57b54212b4f65ab6",
-        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.1.1/kubectl-edit-secret_darwin_arm64.tar.gz"
+        "sha256": "02d053a3d3cd1a5ad55214df553c9a237b339c52569b89ee1f781f778be1e643",
+        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.2.0/kubectl-edit-secret_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-edit_secret",
         "files": null,
-        "sha256": "437818658cda7a1da4fb38e06d62d425277ca135e36b6708f644c9e2b88ce8f0",
-        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.1.1/kubectl-edit-secret_linux_arm64.tar.gz"
+        "sha256": "72231391d9cf6d6ea80e75d3ea18c1d0447f946495f2d6bedebbe95daef1505a",
+        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.2.0/kubectl-edit-secret_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-edit_secret",
         "files": null,
-        "sha256": "86e1559b0a5c7d06a0e4f2c234acc447671d09d30ebebba879f3a4dbcc20f292",
-        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.1.1/kubectl-edit-secret_darwin_amd64.tar.gz"
+        "sha256": "39993e0c3a9276ecfd6df00c18b21ea7c217edb10048999566da8e0feb9a8458",
+        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.2.0/kubectl-edit-secret_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-edit_secret",
         "files": null,
-        "sha256": "8ea944119a6e0bfacd74b65e551cce3589565cbcfc24c018244531e9e1d62ee2",
-        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.1.1/kubectl-edit-secret_linux_amd64.tar.gz"
+        "sha256": "afb34487ef0e6cb7e71cde693c2cd03bd5f967de79103bbc4bd152ee0bd77dc9",
+        "url": "https://github.com/BardiaYaghmaie/kubectl-edit-secret/releases/download/v0.2.0/kubectl-edit-secret_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.1.1"
+    "version": "v0.2.0"
   },
   "edit-status": {
     "description": "Edit /status subresources of CRs",
@@ -6715,29 +6715,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "8098289a5ecd3e43701fe0631c7c34071480507fe1f5b1aec03d37d142f8121d",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-darwin-arm64.tar.gz"
+        "sha256": "dd8d95cdfd1908d25b54d943804327fbf77dd12e0cdc9b511018c47a44dd546d",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.9/kubectl-gs-v6.0.9-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "ca8b58b05c040d8390ef07b97c27314d7de042d63406f0180a178855a40eb9b9",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-linux-arm64.tar.gz"
+        "sha256": "e8bb7bbaadedc266253e5dc26764782cffb0cbe3a244635db5badbf9b7a31471",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.9/kubectl-gs-v6.0.9-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "cc198a3d4e90e304cb0bc16543897c22a0a10e40046491d04facac6e8c978239",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-darwin-amd64.tar.gz"
+        "sha256": "dd19a99d4422f9c0966228d61a3bce1cd5769456d95aec16552bb142639a9f3d",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.9/kubectl-gs-v6.0.9-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "267906527f333a8dd970b23a3e6fad315b1d49fe2696b1e90ab7ff8a209e7449",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.7/kubectl-gs-v6.0.7-linux-amd64.tar.gz"
+        "sha256": "5ee02d6344a5582c69abe2854822034378eec5e7e36c424269b693aa4618131e",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v6.0.9/kubectl-gs-v6.0.9-linux-amd64.tar.gz"
       }
     },
-    "version": "v6.0.7"
+    "version": "v6.0.9"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -14190,29 +14190,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-retina-darwin-arm64",
         "files": null,
-        "sha256": "62f97c04f89094208ad23fc9a18d3171ce1a16df89fbe5840a6795943b2b0de9",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-darwin-arm64-v1.3.2.tar.gz"
+        "sha256": "5ac5fef7b2110fc286df74b4e29b7719bd4f4d5144479ef99867e6416e0e091b",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.3/kubectl-retina-darwin-arm64-v1.3.3.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-retina-linux-arm64",
         "files": null,
-        "sha256": "da19494067799f51167740764b814b38ad5eff15b759f239124d36779d5335af",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-linux-arm64-v1.3.2.tar.gz"
+        "sha256": "70faa2c230f407cb2fb708a894b7131b6ef1c9114baf354f7581721a555e6959",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.3/kubectl-retina-linux-arm64-v1.3.3.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-retina-darwin-amd64",
         "files": null,
-        "sha256": "95c1040462342c2ba0f2161c0d08f9521056df74a2c33195b5993fe18bcd8dbf",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-darwin-amd64-v1.3.2.tar.gz"
+        "sha256": "778cf0bc8865eb9199a27dba2a1b2344a3028c545582df63f62be2ed01b65bf2",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.3/kubectl-retina-darwin-amd64-v1.3.3.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-retina-linux-amd64",
         "files": null,
-        "sha256": "ec24379f282be6e124c105120a1cb1d98e88e78dd5dcf88848d979552b9f3a74",
-        "url": "https://github.com/microsoft/retina/releases/download/v1.3.2/kubectl-retina-linux-amd64-v1.3.2.tar.gz"
+        "sha256": "597363043c545c3e3324873643ae2a7925a46359397ab96e11cc704a8019feec",
+        "url": "https://github.com/microsoft/retina/releases/download/v1.3.3/kubectl-retina-linux-amd64-v1.3.3.tar.gz"
       }
     },
-    "version": "v1.3.2"
+    "version": "v1.3.3"
   },
   "reverse-proxy": {
     "description": "Start reverse proxy for the Service Pods.",
@@ -17694,8 +17694,8 @@
             "to": "."
           }
         ],
-        "sha256": "7c352e39b780c5a2bfea3eb733d2a18435c649626c18d8e9bb30a47592b6ae98",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-darwin-arm64.tar.gz"
+        "sha256": "c0d2816e0b8ce9a1495cfb03cb6953a295b7dee5d8caab363eeac7f78d89888e",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.10.0/virtctl-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "virtctl",
@@ -17709,8 +17709,8 @@
             "to": "."
           }
         ],
-        "sha256": "9ea9e86662ef4d8cd82f81c9b332ee38bff217464c16a2e0ac8f16cc041465d1",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-linux-arm64.tar.gz"
+        "sha256": "805ad431f51da2f940528a15c770fea9f752305b5836f0a3712a228ac02e33ce",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.10.0/virtctl-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "virtctl",
@@ -17724,8 +17724,8 @@
             "to": "."
           }
         ],
-        "sha256": "5088422957148533b2edf6639e3ebdaa7d68a09805db672779a5a64f7964f251",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-darwin-amd64.tar.gz"
+        "sha256": "82556809bb4cd27bfd587f45c1410e65666ca63fb637578a999f1d386c276baf",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.10.0/virtctl-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "virtctl",
@@ -17739,11 +17739,11 @@
             "to": "."
           }
         ],
-        "sha256": "8170d1aa38d21189e5606447aec8104d48eab3d34a97b6d3243710c3fa44c1e6",
-        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.9.1/virtctl-linux-amd64.tar.gz"
+        "sha256": "ad782903002ec115e7f80e1a9dcff80687d5268a5be827350f545e116ffb295d",
+        "url": "https://github.com/kubevirt/kubectl-virt-plugin/releases/download/v1.10.0/virtctl-linux-amd64.tar.gz"
       }
     },
-    "version": "v1.9.1"
+    "version": "v1.10.0"
   },
   "volsync": {
     "description": "Manage replication with the VolSync operator",

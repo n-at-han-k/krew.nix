@@ -300,7 +300,7 @@ revision matches.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.37
+- **Version**: v0.1.38
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
@@ -1301,7 +1301,7 @@ revision matches.
 <details>
 <summary><strong>edit-secret</strong> — Edit secrets with decoded base64 values</summary>
 
-- **Version**: v0.1.1
+- **Version**: v0.2.0
 - **Homepage**: https://github.com/BardiaYaghmaie/kubectl-edit-secret
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#edit-secret`
@@ -1719,7 +1719,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v6.0.7
+- **Version**: v6.0.9
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -3666,7 +3666,7 @@ revision matches.
 <details>
 <summary><strong>retina</strong> — Distributed network captures and telemetry</summary>
 
-- **Version**: v1.3.2
+- **Version**: v1.3.3
 - **Homepage**: https://github.com/microsoft/retina
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#retina`
@@ -4524,7 +4524,7 @@ revision matches.
 <details>
 <summary><strong>virt</strong> — Control KubeVirt virtual machines using virtctl</summary>
 
-- **Version**: v1.9.1
+- **Version**: v1.10.0
 - **Homepage**: https://github.com/kubevirt/kubectl-virt-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#virt`
