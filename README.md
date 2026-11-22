@@ -2280,7 +2280,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.7.3
+- **Version**: v0.7.4
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`
@@ -3226,7 +3226,7 @@ revision matches.
 <details>
 <summary><strong>podtrace</strong> — eBPF diagnostics for Kubernetes pods</summary>
 
-- **Version**: v0.15.4
+- **Version**: v0.15.5
 - **Homepage**: https://github.com/gma1k/podtrace
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#podtrace`
@@ -4403,7 +4403,7 @@ revision matches.
 <details>
 <summary><strong>vela</strong> — Easily interact with KubeVela</summary>
 
-- **Version**: v1.11.1
+- **Version**: v1.11.2
 - **Homepage**: https://kubevela.io
 - **Platforms**: x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#vela`
