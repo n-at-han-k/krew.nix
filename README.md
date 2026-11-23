@@ -1488,7 +1488,7 @@ revision matches.
 <details>
 <summary><strong>fd</strong> — Find resources and perform action on them.</summary>
 
-- **Version**: v0.19.3
+- **Version**: v0.19.4
 - **Homepage**: https://github.com/alikhil/kubectl-find
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#fd`
@@ -2280,7 +2280,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.7.4
+- **Version**: v0.7.5
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`
@@ -2720,7 +2720,7 @@ revision matches.
 <details>
 <summary><strong>napwake</strong> — Find idle workloads, and pause and wake them</summary>
 
-- **Version**: v0.2.0
+- **Version**: v0.2.1
 - **Homepage**: https://github.com/napwake/napwake
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#napwake`
@@ -4689,7 +4689,7 @@ revision matches.
 <details>
 <summary><strong>why-pending</strong> — Explain why a pod is stuck Pending.</summary>
 
-- **Version**: v0.7.2
+- **Version**: v0.7.3
 - **Homepage**: https://github.com/SaiRohithGuntupally/kubectl-why-pending
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#why-pending`
