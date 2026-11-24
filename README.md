@@ -938,7 +938,7 @@ revision matches.
 <details>
 <summary><strong>crust-gather</strong> — Collect cluster state and serve it via an API server</summary>
 
-- **Version**: v0.18.1
+- **Version**: v0.18.2
 - **Homepage**: https://github.com/crust-gather/crust-gather
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#crust-gather`
@@ -1895,7 +1895,7 @@ revision matches.
 <details>
 <summary><strong>inspect</strong> — Browse Kubernetes resources interactively with a TUI tree browser</summary>
 
-- **Version**: v1.1.4
+- **Version**: v1.2.0
 - **Homepage**: https://github.com/irenedo/kubectl-inspect
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#inspect`
@@ -2280,7 +2280,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.7.5
+- **Version**: v0.7.7
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`
@@ -3424,7 +3424,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.21.1
+- **Version**: v1.21.2
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
