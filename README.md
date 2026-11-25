@@ -64,7 +64,7 @@ revision matches.
 
 <!-- BEGIN GENERATED PLUGIN LIST -->
 
-427 plugins.
+431 plugins.
 
 <details>
 <summary><strong>access-matrix</strong> — Show an RBAC access matrix for server resources</summary>
@@ -133,6 +133,17 @@ revision matches.
 
 </details>
 <details>
+<summary><strong>agwmap</strong> — Map the gateway configuration as an HTML page</summary>
+
+- **Version**: v0.4.0
+- **Homepage**: https://github.com/paurosello/agwmap
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#agwmap`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#agwmap`, then `kubectl agwmap`
+- **Binary**: `kubectl-agwmap`
+
+</details>
+<details>
 <summary><strong>ai</strong> — AI-powered Kubernetes assistant</summary>
 
 - **Version**: v0.0.31
@@ -146,7 +157,7 @@ revision matches.
 <details>
 <summary><strong>aibom</strong> — Read, summarize, and verify AIBOM resources</summary>
 
-- **Version**: v1.6.2
+- **Version**: v1.7.0
 - **Homepage**: https://github.com/GoogleCloudPlatform/k8s-aibom
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#aibom`
@@ -394,6 +405,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#blame`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#blame`, then `kubectl blame`
 - **Binary**: `kubectl-blame`
+
+</details>
+<details>
+<summary><strong>broadcast</strong> — Send an HTTP request to every ready pod</summary>
+
+- **Version**: v0.1.1
+- **Homepage**: https://github.com/kumarprabhashanand/pod-broadcast
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#broadcast`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#broadcast`, then `kubectl broadcast`
+- **Binary**: `kubectl-broadcast`
 
 </details>
 <details>
@@ -1983,7 +2005,7 @@ revision matches.
 <details>
 <summary><strong>k8i</strong> — Display Kubernetes node resources with color-coded load indicators</summary>
 
-- **Version**: v0.1.4
+- **Version**: v0.1.5
 - **Homepage**: https://github.com/ViktorUJ/kubectl-k8i
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#k8i`
@@ -2550,6 +2572,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#mdba`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#mdba`, then `kubectl mdba`
 - **Binary**: `kubectl-mdba`
+
+</details>
+<details>
+<summary><strong>memlens</strong> — Explain why Pod memory is high</summary>
+
+- **Version**: v1.0.4
+- **Homepage**: https://github.com/danushkastanley/KubeMemLens
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#memlens`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#memlens`, then `kubectl memlens`
+- **Binary**: `kubectl-memlens`
 
 </details>
 <details>
@@ -3380,7 +3413,7 @@ revision matches.
 <details>
 <summary><strong>pv-mounter</strong> — Mount PVC locally using SSHFS or NFS</summary>
 
-- **Version**: v26.43.0
+- **Version**: v26.48.0
 - **Homepage**: https://github.com/fenio/pv-mounter
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#pv-mounter`
@@ -3424,7 +3457,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.21.2
+- **Version**: v1.21.4
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3435,7 +3468,7 @@ revision matches.
 <details>
 <summary><strong>ray</strong> — Ray kubectl plugin</summary>
 
-- **Version**: v1.7.2
+- **Version**: v1.7.3
 - **Homepage**: https://github.com/ray-project/kuberay/tree/master/kubectl-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ray`
@@ -4002,6 +4035,17 @@ revision matches.
 - **Run**: `nix run github:n-at-han-k/krew.nix#spy`
 - **Install**: `nix profile install github:n-at-han-k/krew.nix#spy`, then `kubectl spy`
 - **Binary**: `kubectl-spy`
+
+</details>
+<details>
+<summary><strong>spy2</strong> — pod debugging tool for kubernetes clusters with containerd runtimes</summary>
+
+- **Version**: v1.0.1
+- **Homepage**: github.com/asaf400/kubespy
+- **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
+- **Run**: `nix run github:n-at-han-k/krew.nix#spy2`
+- **Install**: `nix profile install github:n-at-han-k/krew.nix#spy2`, then `kubectl spy2`
+- **Binary**: `kubectl-spy2`
 
 </details>
 <details>
