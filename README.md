@@ -135,7 +135,7 @@ revision matches.
 <details>
 <summary><strong>agwmap</strong> — Map the gateway configuration as an HTML page</summary>
 
-- **Version**: v0.4.0
+- **Version**: v0.5.0
 - **Homepage**: https://github.com/paurosello/agwmap
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#agwmap`
@@ -311,7 +311,7 @@ revision matches.
 <details>
 <summary><strong>attune</strong> — Inspect and explain Attune pod right-sizing policies</summary>
 
-- **Version**: v0.1.39
+- **Version**: v0.1.40
 - **Homepage**: https://github.com/attune-io/attune
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#attune`
@@ -410,7 +410,7 @@ revision matches.
 <details>
 <summary><strong>broadcast</strong> — Send an HTTP request to every ready pod</summary>
 
-- **Version**: v0.1.1
+- **Version**: v0.1.2
 - **Homepage**: https://github.com/kumarprabhashanand/pod-broadcast
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#broadcast`
@@ -2005,7 +2005,7 @@ revision matches.
 <details>
 <summary><strong>k8i</strong> — Display Kubernetes node resources with color-coded load indicators</summary>
 
-- **Version**: v0.1.5
+- **Version**: v0.1.6
 - **Homepage**: https://github.com/ViktorUJ/kubectl-k8i
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#k8i`
@@ -2247,7 +2247,7 @@ revision matches.
 <details>
 <summary><strong>kor</strong> — Kor is a tool to discover unused K8s resources.</summary>
 
-- **Version**: v0.7.0
+- **Version**: v0.7.1
 - **Homepage**: https://github.com/yonahd/kor
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#kor`
@@ -2302,7 +2302,7 @@ revision matches.
 <details>
 <summary><strong>ktop</strong> — A top tool to display workload metrics</summary>
 
-- **Version**: v0.7.7
+- **Version**: v0.7.8
 - **Homepage**: https://github.com/vladimirvivien/ktop
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ktop`
@@ -2577,7 +2577,7 @@ revision matches.
 <details>
 <summary><strong>memlens</strong> — Explain why Pod memory is high</summary>
 
-- **Version**: v1.0.4
+- **Version**: v1.0.5
 - **Homepage**: https://github.com/danushkastanley/KubeMemLens
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#memlens`
@@ -3457,7 +3457,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.21.4
+- **Version**: v1.21.5
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3468,7 +3468,7 @@ revision matches.
 <details>
 <summary><strong>ray</strong> — Ray kubectl plugin</summary>
 
-- **Version**: v1.7.3
+- **Version**: v1.8.0
 - **Homepage**: https://github.com/ray-project/kuberay/tree/master/kubectl-plugin
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#ray`
