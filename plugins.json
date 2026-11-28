@@ -6813,29 +6813,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "a63d723017d1fdfab9a772e9be8d1561061654294586aefe28c35ea287ae2b18",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v7.0.5/kubectl-gs-v7.0.5-darwin-arm64.tar.gz"
+        "sha256": "ee894590a83554b48674ce10b322b5c766c5b1cf27cdef99d7196e0c08b6f31e",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v8.0.0/kubectl-gs-v8.0.0-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "7716b525a1865136129f35f97a2fc6182c3ee4ce3cc4fbc53279a989e5a8faf9",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v7.0.5/kubectl-gs-v7.0.5-linux-arm64.tar.gz"
+        "sha256": "a03fe1b78f975289d4f8502d65800cb19e514214df35a014b614afd1c17f64fd",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v8.0.0/kubectl-gs-v8.0.0-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "3cd28e332147d9acc9977a7f6b5c14446f0e0feee4ea5ca566ca677962925bf5",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v7.0.5/kubectl-gs-v7.0.5-darwin-amd64.tar.gz"
+        "sha256": "56bcc0c7991b813d8ae81a6da1446eb15a9ec08cc96fe88bc9bbe7c6f56fb5aa",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v8.0.0/kubectl-gs-v8.0.0-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-gs",
         "files": null,
-        "sha256": "a80e6d9ba56b8293e0259ce564b77161608ef5eb675a4618330fd4266e0f2415",
-        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v7.0.5/kubectl-gs-v7.0.5-linux-amd64.tar.gz"
+        "sha256": "a64053ca56cad2022d72d86d43f80873ee20b00417bae14e037233935397edf7",
+        "url": "https://github.com/giantswarm/kubectl-gs/releases/download/v8.0.0/kubectl-gs-v8.0.0-linux-amd64.tar.gz"
       }
     },
-    "version": "v7.0.5"
+    "version": "v8.0.0"
   },
   "health": {
     "description": "Determine the health of Kubernetes resources",
@@ -7085,29 +7085,29 @@
       "aarch64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "bea8b0e2c032eb0838ac861349780174e2ed021ca2d835a9d787335a2c1b157c",
-        "url": "https://github.com/jzills/kx/releases/download/v0.14.0/kx_v0.14.0_darwin_arm64.tar.gz"
+        "sha256": "1843f1a2af0a917febe49d64dee67b41c59d2cc20786827c32e7679d514017ac",
+        "url": "https://github.com/jzills/kx/releases/download/v0.15.0/kx_v0.15.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "09d5a5a85d22ae1625f8b118bc4a7195cfb6482ef5f3173c7d8742c6a13e8b7a",
-        "url": "https://github.com/jzills/kx/releases/download/v0.14.0/kx_v0.14.0_linux_arm64.tar.gz"
+        "sha256": "c0a4894c000ce7ac10e4a60ddc96b14f474ed5c814612d6cb407b35846f207cc",
+        "url": "https://github.com/jzills/kx/releases/download/v0.15.0/kx_v0.15.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "e8aac8a2140f3b8328d657c18787e5926a9fa9583bf22ed14fdd1e1ea4da7023",
-        "url": "https://github.com/jzills/kx/releases/download/v0.14.0/kx_v0.14.0_darwin_amd64.tar.gz"
+        "sha256": "159b7ab35286651bba9c568b712704087e07da294f21f5e712929985ef248e11",
+        "url": "https://github.com/jzills/kx/releases/download/v0.15.0/kx_v0.15.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kx/kx",
         "files": null,
-        "sha256": "1ed305bca1d9b69e1dd2540de757ecd5d7c26f392aa8d9ecb7fb50a35c1c3086",
-        "url": "https://github.com/jzills/kx/releases/download/v0.14.0/kx_v0.14.0_linux_amd64.tar.gz"
+        "sha256": "3e188942ce4b1c1c1ea7687069cc0572b8d58344f8a1bc2fd47a83f82b756d1e",
+        "url": "https://github.com/jzills/kx/releases/download/v0.15.0/kx_v0.15.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v0.14.0"
+    "version": "v0.15.0"
   },
   "iexec": {
     "description": "Interactive selection tool for `kubectl exec`",
@@ -10717,8 +10717,8 @@
             "to": "."
           }
         ],
-        "sha256": "806ad248312738b4d640b5fe63eea4bc49f935f2b9f58402c3c8ec26c01caef1",
-        "url": "https://github.com/napwake/napwake/releases/download/v0.2.1/kubectl-napwake-darwin-arm64.tar.gz"
+        "sha256": "d8a8e93d11052fd70308f45bb96d5bb1dd275e9fef49e165c13f051105ca2036",
+        "url": "https://github.com/napwake/napwake/releases/download/v0.2.2/kubectl-napwake-darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-napwake",
@@ -10736,8 +10736,8 @@
             "to": "."
           }
         ],
-        "sha256": "8fe6794040674b99a0c7a9f45898b62517719333ec635117b10467d0b33b575f",
-        "url": "https://github.com/napwake/napwake/releases/download/v0.2.1/kubectl-napwake-linux-arm64.tar.gz"
+        "sha256": "f8dedd81c9ce3d10b543410c441fc0b9c134440f479417d13b73c78c87a2961f",
+        "url": "https://github.com/napwake/napwake/releases/download/v0.2.2/kubectl-napwake-linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-napwake",
@@ -10755,8 +10755,8 @@
             "to": "."
           }
         ],
-        "sha256": "47c9f8f460522577060ef10b3513253e70a4d61302c2d6abda52a9140e8e0766",
-        "url": "https://github.com/napwake/napwake/releases/download/v0.2.1/kubectl-napwake-darwin-amd64.tar.gz"
+        "sha256": "856e49e3769a5d307029cd40fe90663c6b8242b13df8884fcc43839d165edfc2",
+        "url": "https://github.com/napwake/napwake/releases/download/v0.2.2/kubectl-napwake-darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-napwake",
@@ -10774,11 +10774,11 @@
             "to": "."
           }
         ],
-        "sha256": "3445f089e4353a7d54a2dec0a1344d8d3b12173bfbe1b76f3c5942bc6799594a",
-        "url": "https://github.com/napwake/napwake/releases/download/v0.2.1/kubectl-napwake-linux-amd64.tar.gz"
+        "sha256": "14a63f5e6ae5aa86c99e9736ec99b7e00bfa2e087966890baa4d40ad0903d1f4",
+        "url": "https://github.com/napwake/napwake/releases/download/v0.2.2/kubectl-napwake-linux-amd64.tar.gz"
       }
     },
-    "version": "v0.2.1"
+    "version": "v0.2.2"
   },
   "nasty": {
     "description": "Manage NASty CSI volumes",
@@ -13530,8 +13530,8 @@
             "to": "."
           }
         ],
-        "sha256": "a4a7c3316d40c10afb3834e5ccc78f06ea2e72db2a6f11813a1d7d035f6a8335",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.21.5/radar_v1.21.5_darwin_arm64.tar.gz"
+        "sha256": "f3dd37d19d11ccbe04b1fe1ed389d9c5c39b39196389fe3bd32b07a381d77be7",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.22.0/radar_v1.22.0_darwin_arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-radar",
@@ -13545,8 +13545,8 @@
             "to": "."
           }
         ],
-        "sha256": "ac441c506ea6d102786e0a72cd69b1eed22b2f3ebded74b2b8a84a57c7a014ca",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.21.5/radar_v1.21.5_linux_arm64.tar.gz"
+        "sha256": "34a4ebb1e1cd8c6b321f60960d965882b8a86d13493900a19eea0e4deeb813b7",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.22.0/radar_v1.22.0_linux_arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-radar",
@@ -13560,8 +13560,8 @@
             "to": "."
           }
         ],
-        "sha256": "eb225f0a6e68d9002d14cfefdc25f869b33b14e334c4d2b8ea41ce69795a2d8e",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.21.5/radar_v1.21.5_darwin_amd64.tar.gz"
+        "sha256": "6464479c64b3d18012ddea93766615b5ca66324fa3c8e4d99a102090c7bd6603",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.22.0/radar_v1.22.0_darwin_amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-radar",
@@ -13575,11 +13575,11 @@
             "to": "."
           }
         ],
-        "sha256": "010296d08f15ca68842ca3551b7eaa79090f3f6e8b98e873d6072518eb6fc02b",
-        "url": "https://github.com/skyhook-io/radar/releases/download/v1.21.5/radar_v1.21.5_linux_amd64.tar.gz"
+        "sha256": "0ec9251e06214992641a068da13a9ce25b57e495366df26c45cace2ecae1339a",
+        "url": "https://github.com/skyhook-io/radar/releases/download/v1.22.0/radar_v1.22.0_linux_amd64.tar.gz"
       }
     },
-    "version": "v1.21.5"
+    "version": "v1.22.0"
   },
   "ray": {
     "description": "Ray kubectl plugin",
@@ -13963,29 +13963,29 @@
       "aarch64-darwin": {
         "bin": "kubectl-relay",
         "files": null,
-        "sha256": "08d8101e7f017fafddd6f3f38ba83527e6fdf8f8ebb3ad4bc69bbbd304f5a8b1",
-        "url": "https://github.com/knight42/krelay/releases/download/v0.2.0/kubectl-relay_v0.2.0_darwin-arm64.tar.gz"
+        "sha256": "e4d3f743b8df981af7855a46fd74ef7ae4e9c0a80b39413dbddc23db5fdbdf43",
+        "url": "https://github.com/knight42/krelay/releases/download/v0.2.1/kubectl-relay_v0.2.1_darwin-arm64.tar.gz"
       },
       "aarch64-linux": {
         "bin": "kubectl-relay",
         "files": null,
-        "sha256": "e2ae4df309e1e269e9309d89cc3bb6377f39a3f884d88599541354b37bee9488",
-        "url": "https://github.com/knight42/krelay/releases/download/v0.2.0/kubectl-relay_v0.2.0_linux-arm64.tar.gz"
+        "sha256": "3a18fc33380d0768656f9efefafcf8e0295a1f9774c3cdd35cd04c059f8b8623",
+        "url": "https://github.com/knight42/krelay/releases/download/v0.2.1/kubectl-relay_v0.2.1_linux-arm64.tar.gz"
       },
       "x86_64-darwin": {
         "bin": "kubectl-relay",
         "files": null,
-        "sha256": "5df44626abd89c241f30094469f7eeaae4fa42d45fbb5f73bba8f18fc51f3786",
-        "url": "https://github.com/knight42/krelay/releases/download/v0.2.0/kubectl-relay_v0.2.0_darwin-amd64.tar.gz"
+        "sha256": "7fec0b3e4c9c7c2a201137fd6776c7d77fc4733e0632f40365c54e7c8684d6ea",
+        "url": "https://github.com/knight42/krelay/releases/download/v0.2.1/kubectl-relay_v0.2.1_darwin-amd64.tar.gz"
       },
       "x86_64-linux": {
         "bin": "kubectl-relay",
         "files": null,
-        "sha256": "53b887e08af739aaa57fbdc22f8f55195fb7cfc5a7bd6027f580081bcbf23c2c",
-        "url": "https://github.com/knight42/krelay/releases/download/v0.2.0/kubectl-relay_v0.2.0_linux-amd64.tar.gz"
+        "sha256": "a626c87363484d77ea35d5ef9c0e7d2f064392f4346402f5707c68a6cc370224",
+        "url": "https://github.com/knight42/krelay/releases/download/v0.2.1/kubectl-relay_v0.2.1_linux-amd64.tar.gz"
       }
     },
-    "version": "v0.2.0"
+    "version": "v0.2.1"
   },
   "reliably": {
     "description": "Surfaces reliability issues in Kubernetes",

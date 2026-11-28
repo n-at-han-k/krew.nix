@@ -1741,7 +1741,7 @@ revision matches.
 <details>
 <summary><strong>gs</strong> — Handle custom resources with Giant Swarm</summary>
 
-- **Version**: v7.0.5
+- **Version**: v8.0.0
 - **Homepage**: https://github.com/giantswarm/kubectl-gs
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#gs`
@@ -1829,7 +1829,7 @@ revision matches.
 <details>
 <summary><strong>idx</strong> — Select resources by index instead of typing names</summary>
 
-- **Version**: v0.14.0
+- **Version**: v0.15.0
 - **Homepage**: https://github.com/jzills/kx
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#idx`
@@ -2753,7 +2753,7 @@ revision matches.
 <details>
 <summary><strong>napwake</strong> — Find idle workloads, and pause and wake them</summary>
 
-- **Version**: v0.2.1
+- **Version**: v0.2.2
 - **Homepage**: https://github.com/napwake/napwake
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#napwake`
@@ -3457,7 +3457,7 @@ revision matches.
 <details>
 <summary><strong>radar</strong> — Cluster dashboard with topology and traffic maps</summary>
 
-- **Version**: v1.21.5
+- **Version**: v1.22.0
 - **Homepage**: https://github.com/skyhook-io/radar
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#radar`
@@ -3600,7 +3600,7 @@ revision matches.
 <details>
 <summary><strong>relay</strong> — Drop-in "port-forward" replacement with UDP and hostname resolution.</summary>
 
-- **Version**: v0.2.0
+- **Version**: v0.2.1
 - **Homepage**: https://github.com/knight42/krelay
 - **Platforms**: aarch64-darwin, aarch64-linux, x86_64-darwin, x86_64-linux
 - **Run**: `nix run github:n-at-han-k/krew.nix#relay`
